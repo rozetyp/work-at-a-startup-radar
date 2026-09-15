@@ -1,5 +1,20 @@
 [
  {
+  "id": 109947,
+  "company": "Waddle Labs",
+  "title": "Founding Research Engineer",
+  "role": "eng",
+  "eng_type": "ml",
+  "remote": "no",
+  "visa": "possible",
+  "exp": 0,
+  "team": 2,
+  "sector": "Industrials",
+  "created": "2026-09-15T05:10:01.887Z",
+  "link": "https://www.ycombinator.com/companies/waddle-labs/jobs/RaRUAQK-founding-research-engineer",
+  "snippet": "We’re hiring a Founding Research Engineer to help build and eventually lead a team of exceptional engineers and researchers.  Your most important responsibility..."
+ },
+ {
   "id": 109945,
   "company": "Hop Aero",
   "title": "Propulsion Mechanical Engineer",

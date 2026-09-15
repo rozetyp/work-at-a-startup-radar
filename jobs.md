@@ -1,9 +1,10 @@
 # YC Work at a Startup - job radar (2026-09-15)
 
-2936 open roles. Metadata and a short snippet only; full descriptions live on the linked source page. Unofficial, links back to each posting.
+2937 open roles. Metadata and a short snippet only; full descriptions live on the linked source page. Unofficial, links back to each posting.
 
 | company | role | eng | remote | visa | exp | team | sector | link |
 |--|--|--|--|--|--|--|--|--|
+| Waddle Labs | Founding Research Engineer | ml | no | possible | 0 | 2 | Industrials | [link](https://www.ycombinator.com/companies/waddle-labs/jobs/RaRUAQK-founding-research-engineer) |
 | Hop Aero | Propulsion Mechanical Engineer | fs | no | yes | 0 | 6 | Industrials | [link](https://www.ycombinator.com/companies/hop-aero/jobs/15ydcgj-propulsion-mechanical-engineer) |
 | Ignition Benefits | Founding Member of Technical Staff | fs | no | yes | 6 | 8 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/ignition-benefits/jobs/04TOkxY-founding-member-of-technical-staff) |
 | Lingo.dev | Senior Content Engineer |  | only | none | 3 | 7 | B2B Software and Services | [link](https://www.ycombinator.com/companies/lingodotdev/jobs/ZzXPeJy-senior-content-engineer) |
