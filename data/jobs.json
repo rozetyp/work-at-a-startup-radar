@@ -1,5 +1,230 @@
 [
  {
+  "id": 111028,
+  "company": "Entangl",
+  "title": "Full Stack Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 15,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-20T04:00:03.042Z",
+  "link": "https://www.ycombinator.com/companies/entangl/jobs/kLor7KK-full-stack-engineer",
+  "snippet": "### About the Role  The AI boom depends on data centers coming online and staying online. At **Entangl**, we’re building the AI operating layer that helps make ..."
+ },
+ {
+  "id": 111018,
+  "company": "Corgi Insurance",
+  "title": "Head of Compute",
+  "role": "eng",
+  "eng_type": "hw",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 11,
+  "team": 250,
+  "sector": "Financial Technology and Services",
+  "created": "2026-09-19T22:00:08.687Z",
+  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/sLGoBgG-head-of-compute",
+  "snippet": "We are building a new set of financial solutions for the companies that build, own, operate, and finance AI compute. These are complex solutions, and they only ..."
+ },
+ {
+  "id": 111017,
+  "company": "FIRST",
+  "title": "Territory Account Executive",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 1,
+  "team": 12,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T16:59:09.901Z",
+  "link": "https://www.ycombinator.com/companies/first/jobs/ZX3bl5A-territory-account-executive",
+  "snippet": "## **About FIRST Delivery**  FIRST Delivery is the delivery command center for restaurants. Our platform enables restaurants to manage deliveries using their ow..."
+ },
+ {
+  "id": 111016,
+  "company": "FIRST",
+  "title": "Head of Europe",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "none",
+  "exp": 1,
+  "team": 12,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T16:52:29.959Z",
+  "link": "https://www.ycombinator.com/companies/first/jobs/sdn0adw-head-of-europe",
+  "snippet": "## **About FIRST Delivery**  FIRST Delivery is the delivery command center for restaurants. Our platform enables restaurants to manage deliveries using their ow..."
+ },
+ {
+  "id": 111015,
+  "company": "Astranis",
+  "title": "Senior Electrical Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-09-19T14:29:31.776Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/BzPCytT-senior-electrical-engineer",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
+ },
+ {
+  "id": 111012,
+  "company": "Astranis",
+  "title": "Propulsion Manufacturing Intern (Winter 2027)",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-09-19T14:29:08.687Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/BpBd4Dj-propulsion-manufacturing-intern-winter-2027",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
+ },
+ {
+  "id": 111004,
+  "company": "Astranis",
+  "title": "Finance Systems Associate (Winter 2027)",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-09-19T14:27:57.993Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/Cmgj02z-finance-systems-associate-winter-2027",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
+ },
+ {
+  "id": 110999,
+  "company": "Retell AI",
+  "title": "Enterprise Account Manager",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 50,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:20:11.889Z",
+  "link": "https://www.ycombinator.com/companies/retell-ai/jobs/ODhV9Qe-enterprise-account-manager",
+  "snippet": "## ABOUT RETELL AI  Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Retell'..."
+ },
+ {
+  "id": 110998,
+  "company": "Retell AI",
+  "title": "Procurement Manager",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 50,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:20:10.498Z",
+  "link": "https://www.ycombinator.com/companies/retell-ai/jobs/37kYO5C-procurement-manager",
+  "snippet": "## **ABOUT RETELL AI**  Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Ret..."
+ },
+ {
+  "id": 110997,
+  "company": "Firecrawl",
+  "title": "Events Producer",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:20:05.238Z",
+  "link": "https://www.ycombinator.com/companies/firecrawl/jobs/BVuobBB-events-producer",
+  "snippet": "# **Events Producer**  You'll produce Firecrawl's events: the monthly community series at SF HQ, private dinners for the labs and companies we want to work with..."
+ },
+ {
+  "id": 110996,
+  "company": "RevenueCat",
+  "title": "Senior Design Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 5,
+  "team": 160,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:19:50.876Z",
+  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/e4gxzBC-senior-design-engineer",
+  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
+ },
+ {
+  "id": 110995,
+  "company": "RevenueCat",
+  "title": "Senior Product Manager, Analytics Features",
+  "role": "product",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 5,
+  "team": 160,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:19:48.105Z",
+  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/LwFpPQK-senior-product-manager-analytics-features",
+  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
+ },
+ {
+  "id": 110994,
+  "company": "RevenueCat",
+  "title": "Senior Product Designer",
+  "role": "design",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 5,
+  "team": 160,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:19:46.141Z",
+  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/VfYxMNM-senior-product-designer",
+  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
+ },
+ {
+  "id": 110993,
+  "company": "Kobalt Labs",
+  "title": "Financial Institution Partnerships",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 0,
+  "team": 12,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T14:19:32.541Z",
+  "link": "https://www.ycombinator.com/companies/kobalt-labs/jobs/Auqyum2-financial-institution-partnerships",
+  "snippet": "**About Kobalt Labs**  Kobalt is the AI-native compliance operating system for financial institutions (FIs). Compliance is critical for FIs to get right, but mo..."
+ },
+ {
+  "id": 110963,
+  "company": "Naïve",
+  "title": "Founding Member of Techincal Staff - Agents",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 8,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-19T08:49:05.725Z",
+  "link": "https://www.ycombinator.com/companies/naive/jobs/qOwzkq2-founding-member-of-techincal-staff-agents",
+  "snippet": "## About Naive  Naive is building autonomous companies: agent systems capable of operating real businesses end to end.  We release autonomous company templates ..."
+ },
+ {
   "id": 110929,
   "company": "Entangl",
   "title": "Full Stack Engineer",
@@ -240,21 +465,6 @@
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
  },
  {
-  "id": 110841,
-  "company": "Astranis",
-  "title": "Software Engineer - Vehicle Test",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-09-18T14:19:33.381Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/otEk8BM-software-engineer-vehicle-test",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
- },
- {
   "id": 110838,
   "company": "Astranis",
   "title": "Recruiting Coordination Associate",
@@ -298,21 +508,6 @@
   "created": "2026-09-18T14:19:03.257Z",
   "link": "https://www.ycombinator.com/companies/firecrawl/jobs/Te9QsAJ-in-house-technical-recruiter",
   "snippet": "# **In-House Technical Recruiter**  You'll own how Firecrawl hires. Thirty-plus open roles across engineering, research, go-to-market, and G&A, and one person r..."
- },
- {
-  "id": 110833,
-  "company": "Retell AI",
-  "title": "Product Design Intern",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": null,
-  "team": 50,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-18T14:19:02.597Z",
-  "link": "https://www.ycombinator.com/companies/retell-ai/jobs/nKxXDbU-product-design-intern",
-  "snippet": "**📍 In-Person Internship - Redwood City, CA**   This is an **on-site** internship. You’ll work alongside our founders, product, design, and engineering teams in..."
  },
  {
   "id": 110832,
@@ -615,21 +810,6 @@
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
  },
  {
-  "id": 110574,
-  "company": "RevenueCat",
-  "title": "Senior Product Manager, Ad Monetization",
-  "role": "product",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 5,
-  "team": 160,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-17T14:20:46.626Z",
-  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/PlzYJg8-senior-product-manager-ad-monetization",
-  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
- },
- {
   "id": 110572,
   "company": "Emergent",
   "title": "Sales Development Representative - SMB",
@@ -658,21 +838,6 @@
   "created": "2026-09-17T14:19:30.758Z",
   "link": "https://www.ycombinator.com/companies/emergent/jobs/FPiHOfM-program-manager-founder-branding",
   "snippet": "Emergent builds autonomous coding agents that replace traditional software development by generating, testing, and deploying production applications directly fr..."
- },
- {
-  "id": 110570,
-  "company": "Firecrawl",
-  "title": "Social Video Producer",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-17T14:19:28.353Z",
-  "link": "https://www.ycombinator.com/companies/firecrawl/jobs/SQQXXOQ-social-video-producer",
-  "snippet": "# **Social Video Producer**  &nbsp;  You'll turn what we're building at Firecrawl into videos people want to watch and share. A founder with a strong take. A qu..."
  },
  {
   "id": 110569,
@@ -1740,21 +1905,6 @@
   "snippet": "## Our mission is to automate knowledge work. The first step in our journey is to build the best tool for teams to build agents.  &nbsp;  Sim is talent-dense. W..."
  },
  {
-  "id": 109886,
-  "company": "Astranis",
-  "title": "Vehicle Test Software Team Lead",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-09-14T20:53:51.831Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/QPyREb4-vehicle-test-software-team-lead",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
- },
- {
   "id": 109869,
   "company": "Astranis",
   "title": "Senior Motion Designer & Editor ",
@@ -1767,21 +1917,6 @@
   "sector": "Industrials",
   "created": "2026-09-14T20:50:45.737Z",
   "link": "https://www.ycombinator.com/companies/astranis/jobs/duiLR9F-senior-motion-designer-editor",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
- },
- {
-  "id": 109864,
-  "company": "Astranis",
-  "title": "Sales Director - International Government ",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-09-14T20:50:21.982Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/bzEKsKm-sales-director-international-government",
   "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today, Astranis satellites provide dedicated, secure netw..."
  },
  {
@@ -1978,21 +2113,6 @@
   "created": "2026-09-14T17:48:19.612Z",
   "link": "https://www.ycombinator.com/companies/prelim/jobs/5lN781G-implementation-architect",
   "snippet": "**Transform how the world's banks serve their customers**  Prelim is revolutionizing how financial institutions onboard and serve their customers. Our platform ..."
- },
- {
-  "id": 109811,
-  "company": "Corgi Insurance",
-  "title": "Software Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 1,
-  "team": 250,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-14T17:40:37.482Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/8qdnW3S-software-engineer",
-  "snippet": "Our goal is to rebuild the $1T+ insurance industry from the ground up using AI - not by layering on software, but by rethinking how insurance actually operates ..."
  },
  {
   "id": 109810,
@@ -2727,7 +2847,7 @@
   "sector": "Industrials",
   "created": "2026-09-11T02:13:53.504Z",
   "link": "https://www.ycombinator.com/companies/foundation-industries/jobs/5FZ1jII-head-of-software",
-  "snippet": "**Role Description**  Foundation Industries is building a software-defined factory: a vertically integrated manufacturing platform that connects quoting, DFM, s..."
+  "snippet": "**About**  Foundation Industries is building the supply base for frontier hardware companies: We CNC machine critical components and have built a manufacturing ..."
  },
  {
   "id": 109291,
@@ -3343,21 +3463,6 @@
   "created": "2026-09-09T06:27:34.716Z",
   "link": "https://www.ycombinator.com/companies/retell-ai/jobs/0iKCRqp-a-call-for-content-creators",
   "snippet": "Retell AI is using first principles to reimagine the call center with cutting-edge voice AI.  Thousands of companies now utilize Retell's AI voice agents to han..."
- },
- {
-  "id": 108872,
-  "company": "Retell AI",
-  "title": "Founding Strategic Partnerships, Cloud & Alliances",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 50,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-09T06:27:31.362Z",
-  "link": "https://www.ycombinator.com/companies/retell-ai/jobs/pRZMD1Y-founding-strategic-partnerships-cloud-alliances",
-  "snippet": "## **ABOUT RETELL AI**  Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Ret..."
  },
  {
   "id": 108867,
@@ -4933,21 +5038,6 @@
   "created": "2026-09-02T15:59:14.128Z",
   "link": "https://www.ycombinator.com/companies/medme-health/jobs/2pfAhhu-it-manager",
   "snippet": "### **The Opportunity**  MedMe is building out a dedicated, in-house IT and internal security function to support our growing team. You'll step into a role with..."
- },
- {
-  "id": 107664,
-  "company": "RevenueCat",
-  "title": "Senior Software Engineer, Product",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 5,
-  "team": 160,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-02T14:18:25.697Z",
-  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/tKWyabo-senior-software-engineer-product",
-  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
  },
  {
   "id": 107661,
@@ -10110,21 +10200,6 @@
   "snippet": "**🌎 The Opportunity**  In the next 30 years, the world will transform every part of the built environment to be climate positive green infrastructure. But today..."
  },
  {
-  "id": 103717,
-  "company": "RevenueCat",
-  "title": "Senior CRO Designer, Paywalls and Funnels",
-  "role": "design",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 5,
-  "team": 160,
-  "sector": "B2B Software and Services",
-  "created": "2026-08-10T17:27:26.262Z",
-  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/BchqeIi-senior-cro-designer-paywalls-and-funnels",
-  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
- },
- {
   "id": 103716,
   "company": "RevenueCat",
   "title": "Senior Growth Marketing Manager, Strategic Accounts",
@@ -12628,21 +12703,6 @@
   "created": "2026-07-27T13:30:08.448Z",
   "link": "https://www.ycombinator.com/companies/tilt-fka-delphia/jobs/uX5Z3wu-principal-product-designer",
   "snippet": "## About Agora Intelligence (d.b.a. Tilt)  Agora Intelligence is building the audited methodology layer agents call before touching portfolios. Our product, **T..."
- },
- {
-  "id": 101456,
-  "company": "Naïve",
-  "title": "Head of Developer Relations",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 1,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-27T02:56:27.521Z",
-  "link": "https://www.ycombinator.com/companies/naive/jobs/YMUiPis-head-of-developer-relations",
-  "snippet": "## About Naïve  Naïve is autonomous company infrastructure - a single API that provisions the full operating stack for AI agents: incorporation, payments, compu..."
  },
  {
   "id": 101391,
@@ -16545,21 +16605,6 @@
   "snippet": "### Bluejay is building the simulation, observability, and self-improvement layer for Voice AI agents.  Rohan and Faraz left AWS and Microsoft, where they built..."
  },
  {
-  "id": 97630,
-  "company": "Entangl",
-  "title": "Greg Brockman",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2026-06-28T22:16:49.496Z",
-  "link": "https://www.ycombinator.com/companies/entangl/jobs/s6zm6uT-greg-brockman",
-  "snippet": "Entangl is on the hunt for the next Greg Brockman. You know, the kind of person who:  * Has a casual relationship with impossibly hard technical challenges. * T..."
- },
- {
   "id": 97629,
   "company": "Maintouch",
   "title": "Founding Sales Development Representative (SDR)",
@@ -19092,7 +19137,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-06-07T02:54:17.845Z",
   "link": "https://www.ycombinator.com/companies/booko/jobs/iW5ZIzm-founding-machine-learning-engineer",
-  "snippet": "**About Booko:**\\ \\ Booko is dynamically pricing anything you can book. Airlines and hotels have priced by demand for decades. Gyms, studios, clinics and all ti..."
+  "snippet": "**Why Booko?**  Booko gives every service business the revenue superpowers that, until now, only the largest companies in the world could afford.  Every hour th..."
  },
  {
   "id": 95984,
@@ -19157,7 +19202,7 @@
  {
   "id": 95979,
   "company": "Booko",
-  "title": "Founding Product Engineer",
+  "title": "Founding Engineer",
   "role": "eng",
   "eng_type": "fs",
   "remote": "no",
@@ -19166,8 +19211,8 @@
   "team": 2,
   "sector": "B2B Software and Services",
   "created": "2026-06-06T15:21:18.962Z",
-  "link": "https://www.ycombinator.com/companies/booko/jobs/PPSedMS-founding-product-engineer",
-  "snippet": "**About Booko**\\ \\ Booko is dynamically pricing anything you can book.  Airlines and hotels have priced by demand for decades. Gyms, studios, clinics and all ti..."
+  "link": "https://www.ycombinator.com/companies/booko/jobs/PPSedMS-founding-engineer",
+  "snippet": "**Why Booko?**  Booko gives every service business the revenue superpowers that, until now, only the largest companies in the world could afford.  Every hour th..."
  },
  {
   "id": 95978,
@@ -20113,21 +20158,6 @@
   "created": "2026-05-28T01:48:30.158Z",
   "link": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
   "snippet": "RamAIn builds the world's fastest computer-use agents for enterprise work. We're a YC W26 company on a mission to eliminate repetitive, manual workflows by trai..."
- },
- {
-  "id": 95466,
-  "company": "CommodityAI",
-  "title": "Senior Software Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 6,
-  "sector": "B2B Software and Services",
-  "created": "2026-05-28T00:20:57.680Z",
-  "link": "https://www.ycombinator.com/companies/commodityai/jobs/fCU0ca2-senior-software-engineer",
-  "snippet": "## What We Do &amp; What We Are Doing Now  CommodityAI is building the operating system for the global commodities industry-the foundational sector responsible ..."
  },
  {
   "id": 95465,
@@ -21795,21 +21825,6 @@
   "snippet": "**About Runtime**  We manage sandboxed coding agents that adopt companies' best practices. We're building the infrastructure layer that makes AI coding agents s..."
  },
  {
-  "id": 94648,
-  "company": "Naïve",
-  "title": "Growth Engineer Intern",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": null,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2026-05-13T03:09:21.610Z",
-  "link": "https://www.ycombinator.com/companies/naive/jobs/LmPnoKJ-growth-engineer-intern",
-  "snippet": "**About Naïve** \\ \\ Naïve is an autonomous company builder - we let businesses deploy AI employees to create/run entire companies. We're a $120M company backed ..."
- },
- {
   "id": 94643,
   "company": "Terranox AI",
   "title": "Summer Intern - Applied Science MSc/PhD",
@@ -22137,7 +22152,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-05-10T19:54:12.587Z",
   "link": "https://www.ycombinator.com/companies/booko/jobs/7yAOw07-founding-growth-lead",
-  "snippet": "**What You'll Do**\r \r * Design, run, and iterate on growth experiments across product, marketing, and distribution channels\r * Assist in prepping sales strategy..."
+  "snippet": "**Why Booko?**  Booko gives every service business the revenue superpowers that, until now, only the largest companies in the world could afford.  Every hour th..."
  },
  {
   "id": 94529,
@@ -23187,21 +23202,6 @@
   "sector": "B2B Software and Services",
   "created": "2026-04-24T20:51:39.903Z",
   "link": "https://www.ycombinator.com/companies/hud/jobs/B59vJPJ-marketing-events-lead",
-  "snippet": "## **About HUD**  [HUD](https://www.hud.ai/) is building infrastructure to create RL training data and evals for frontier AI agents, as well as a marketplace to..."
- },
- {
-  "id": 93544,
-  "company": "HUD",
-  "title": "Talent Engineer",
-  "role": "recruiting",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "possible",
-  "exp": 3,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2026-04-24T20:51:39.643Z",
-  "link": "https://www.ycombinator.com/companies/hud/jobs/gkaIWwX-talent-engineer",
   "snippet": "## **About HUD**  [HUD](https://www.hud.ai/) is building infrastructure to create RL training data and evals for frontier AI agents, as well as a marketplace to..."
  },
  {
