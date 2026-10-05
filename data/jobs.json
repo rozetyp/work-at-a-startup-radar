@@ -1,5 +1,110 @@
 [
  {
+  "id": 114197,
+  "company": "IMPACT Drones",
+  "title": "Autonomy Engineer, Interceptor Drones",
+  "role": "eng",
+  "eng_type": "robotics",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 2,
+  "sector": "Industrials",
+  "created": "2026-10-05T04:21:32.169Z",
+  "link": "https://www.ycombinator.com/companies/impact-drones/jobs/yVR7VxO-autonomy-engineer-interceptor-drones",
+  "snippet": "We are Jasper and Alessandro, the founders of Impact Drones (YC S26). We are hiring an autonomy engineer to make our interceptor drones fly the intercept on the..."
+ },
+ {
+  "id": 114194,
+  "company": "Monumint",
+  "title": "Strategic Advisor",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 11,
+  "team": 5,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-05T03:55:09.688Z",
+  "link": "https://www.ycombinator.com/companies/monumint/jobs/4ao5iXu-strategic-advisor",
+  "snippet": "## About Monumint  Monumint is voice AI for financial services. We help banks, credit unions, and lenders build lasting customer relationships across the entire..."
+ },
+ {
+  "id": 114163,
+  "company": "Asteroid",
+  "title": "Forward Deployed Engineer (Healthcare)",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 6,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-05T00:08:06.403Z",
+  "link": "https://www.ycombinator.com/companies/asteroid/jobs/tYlxU3M-forward-deployed-engineer-healthcare",
+  "snippet": "We are hiring a Forward Deployed Engineer to take our healthcare customers from scoping calls to production.  Healthcare administration is a $1T opportunity tha..."
+ },
+ {
+  "id": 114162,
+  "company": "Centaur",
+  "title": "Technical Product Manager, Labeling Tools",
+  "role": "product",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 3,
+  "team": 45,
+  "sector": "Healthcare",
+  "created": "2026-10-04T22:42:00.231Z",
+  "link": "https://www.ycombinator.com/companies/centaur/jobs/8ElCTgv-technical-product-manager-labeling-tools",
+  "snippet": "### **About Centaur:**  Centaur AI is the modern data labeling solution driving AI innovation across the healthcare industry. From agile startups and cutting-ed..."
+ },
+ {
+  "id": 114161,
+  "company": "HealthKey",
+  "title": "Business Manager (Accounting & Operations) - [Part Time / In-Person]",
+  "role": "finance",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 10,
+  "sector": "Healthcare",
+  "created": "2026-10-04T22:37:50.641Z",
+  "link": "https://www.ycombinator.com/companies/healthkey/jobs/trfvIw4-business-manager-accounting-operations-part-time-in-person",
+  "snippet": "### **ABOUT US**  [HealthKey](https://gethealthkey.com/) helps doctors' offices find patients for clinical trials with AI. We partner with research organization..."
+ },
+ {
+  "id": 114128,
+  "company": "Guardian RF",
+  "title": "RF and DSP Engineer",
+  "role": "eng",
+  "eng_type": "electrical",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 15,
+  "sector": "Industrials",
+  "created": "2026-10-04T19:42:41.799Z",
+  "link": "https://www.ycombinator.com/companies/guardian-rf/jobs/iWpyyX4-rf-and-dsp-engineer",
+  "snippet": "Guardian RF is a YC company building passive RF drone detection and attribution. Our sensors listen for drone control and video links, detect and classify them ..."
+ },
+ {
+  "id": 114066,
+  "company": "Vela",
+  "title": "Founding Recruiter, India",
+  "role": "recruiting",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "none",
+  "exp": 1,
+  "team": 15,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-04T06:25:58.012Z",
+  "link": "https://www.ycombinator.com/companies/vela/jobs/YLfFzDU-founding-recruiter-india",
+  "snippet": "## About Vela  Vela is a YC-backed startup building AI that handles coordination, starting with scheduling for recruiting and executive search firms.  We’re loo..."
+ },
+ {
   "id": 114065,
   "company": "Yondu",
   "title": "Physical AI Infrastructure Engineer",
@@ -23,7 +128,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 3,
-  "team": 2,
+  "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-10-04T03:49:43.429Z",
   "link": "https://www.ycombinator.com/companies/vela/jobs/eMkJlvY-founding-customer-success-lead",
@@ -647,17 +752,17 @@
  {
   "id": 113402,
   "company": "Rebill",
-  "title": "Head of Marketing",
+  "title": "Head of Marketing, B2B Payments",
   "role": "marketing",
   "eng_type": "",
   "remote": "yes",
-  "visa": "possible",
+  "visa": "yes",
   "exp": 6,
   "team": 11,
   "sector": "Financial Technology and Services",
   "created": "2026-10-01T21:59:54.797Z",
-  "link": "https://www.ycombinator.com/companies/rebill/jobs/4zDmYmC-head-of-marketing",
-  "snippet": "## **About Rebill**  Rebill is the financial infrastructure platform for the Americas.  The companies shaping software, AI, travel, and digital services use Reb..."
+  "link": "https://www.ycombinator.com/companies/rebill/jobs/4zDmYmC-head-of-marketing-b2b-payments",
+  "snippet": "### **About Rebill**  Rebill is the financial infrastructure platform for the Americas.  The companies shaping software, AI, travel, and digital services use Re..."
  },
  {
   "id": 113369,
@@ -1003,6 +1108,21 @@
   "created": "2026-09-30T20:13:55.151Z",
   "link": "https://www.ycombinator.com/companies/arzana/jobs/sCOorqB-founding-gtm-engineer-growth",
   "snippet": "**About Arzana**  Arzana builds AI agents that run the front office for American manufacturers (order entry, quoting, RFQs, AP/AR, and purchasing), and they plu..."
+ },
+ {
+  "id": 113110,
+  "company": "BlueCargo",
+  "title": "AI Engineer",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 6,
+  "team": 35,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-30T19:46:14.202Z",
+  "link": "https://www.ycombinator.com/companies/bluecargo/jobs/QYYIKhR-ai-engineer",
+  "snippet": "### **About BlueCargo**  **BlueCargo** is a fast-growing, VC-backed technology company transforming the logistics and supply chain industry. As the leader in co..."
  },
  {
   "id": 113109,
@@ -1453,6 +1573,21 @@
   "created": "2026-09-29T17:10:31.381Z",
   "link": "https://www.ycombinator.com/companies/clinikally/jobs/iK9H9Th-e-commerce-manager",
   "snippet": "## **About Clinikally**  Clinikally is one of India's fastest-growing health-tech and beauty-tech startups, backed by Y Combinator (S22). We're building the fut..."
+ },
+ {
+  "id": 112797,
+  "company": "Loombotic",
+  "title": "Technical Account Executive",
+  "role": "support",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 25,
+  "sector": "Industrials",
+  "created": "2026-09-29T14:27:01.901Z",
+  "link": "https://www.ycombinator.com/companies/loombotic/jobs/BUBbBYH-technical-account-executive",
+  "snippet": "At Loombotic, we’re automating wire harness manufacturing.  We need an exceptional technical account manager to support our existing customers, helping their pr..."
  },
  {
   "id": 112794,
@@ -2038,6 +2173,21 @@
   "created": "2026-09-28T16:19:32.802Z",
   "link": "https://www.ycombinator.com/companies/coderhouse/jobs/8EgRh6I-founding-operations",
   "snippet": "## About the role\r \r You're the \"do-everything\" ops person for the US. You'll own the student and instructor operating system so the CEO isn't interviewing prof..."
+ },
+ {
+  "id": 112518,
+  "company": "Loombotic",
+  "title": "Robotics Engineer",
+  "role": "eng",
+  "eng_type": "robotics",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 25,
+  "sector": "Industrials",
+  "created": "2026-09-28T15:58:10.190Z",
+  "link": "https://www.ycombinator.com/companies/loombotic/jobs/3C66pEX-robotics-engineer",
+  "snippet": "At Loombotic, we’re automating wire harness manufacturing.  We need an exceptional robotics engineer to make robots assemble harnesses reliably. You’ll focus on..."
  },
  {
   "id": 112517,
@@ -5832,7 +5982,7 @@
   "sector": "Financial Technology and Services",
   "created": "2026-09-14T12:45:00.140Z",
   "link": "https://www.ycombinator.com/companies/rebill/jobs/3xYpdc9-vp-of-sales",
-  "snippet": "## **About Rebill**  Rebill is the financial infrastructure platform for the Americas.  The companies shaping software, AI, travel, and digital services use Reb..."
+  "snippet": "### About Rebill  Rebill is the financial infrastructure platform for the Americas.  The companies shaping software, AI, travel, and digital services use Rebill..."
  },
  {
   "id": 109706,
@@ -8952,7 +9102,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-08-29T15:40:27.018Z",
   "link": "https://www.ycombinator.com/companies/manufact/jobs/ZyxwEJC-founding-software-engineer-product-mcp",
-  "snippet": "### About us  [Manufact](https://manufact.com) is Vercel for MCP.\\ We are building the MCP cloud platform to get any product ready for Claude Connectors marketp..."
+  "snippet": "### About us  [**Manufact**](https://manufact.com/) builds dev-tools and cloud infrastructure for MCP and software used by AI agents.  Our platform helps teams ..."
  },
  {
   "id": 107002,
@@ -8997,7 +9147,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-08-29T13:28:15.919Z",
   "link": "https://www.ycombinator.com/companies/manufact/jobs/fWWRPrO-sales-development-representative-sdr",
-  "snippet": "### About us  [Manufact](https://manufact.com) is Vercel for MCP.\\ We are building the MCP cloud platform to get any product ready for Claude Connectors marketp..."
+  "snippet": "### About us  [**Manufact**](https://manufact.com/) builds dev-tools and cloud infrastructure for MCP and software used by AI agents.  Our platform helps teams ..."
  },
  {
   "id": 106949,
@@ -10992,7 +11142,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-08-20T01:48:40.042Z",
   "link": "https://www.ycombinator.com/companies/agave/jobs/aKK5FQz-head-of-sales",
-  "snippet": "## tl;dr  * Agave is a fast-growing AI platform for construction, fresh off a $15M Series A from Accel and YC ($20M+ total funding). You'll work directly with o..."
+  "snippet": "## tl;dr  * Agave builds applied AI for construction, fresh off a $15M Series A from Accel and YC ($20M+ funding to date). Our AI agents run on proprietary rail..."
  },
  {
   "id": 105488,
@@ -15128,7 +15278,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 0,
-  "team": 2,
+  "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-07-24T00:47:52.210Z",
   "link": "https://www.ycombinator.com/companies/vela/jobs/fbvQRtr-member-of-technical-staff-vela",
@@ -17370,21 +17520,6 @@
   "snippet": "# **Concourse**  ### **Member of Technical Staff**  \\ New York, NY  [Concourse](http://www.concourse.co/) is building AI agents for corporate finance teams. We ..."
  },
  {
-  "id": 98595,
-  "company": "Brickwise",
-  "title": "Founders Associate (German speaker)",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "none",
-  "exp": 0,
-  "team": 2,
-  "sector": "Real Estate and Construction",
-  "created": "2026-07-07T20:01:03.610Z",
-  "link": "https://www.ycombinator.com/companies/brickwise/jobs/cJmvgKy-founders-associate-german-speaker",
-  "snippet": "\\ Founder's Associate\\ Location: London (in-person)\\ Reports to: CEO &amp; COO\\ \\ Role Summary\\ The Founder's Associate is the CEO and COO's right hand - a high..."
- },
- {
   "id": 98592,
   "company": "Spade",
   "title": "Technical Customer Support",
@@ -17967,7 +18102,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-07-01T14:04:51.323Z",
   "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
-  "snippet": "### About us  [Manufact](https://manufact.com) is Vercel for MCP.\\ We are building the MCP cloud platform to get any product ready for Claude Connectors marketp..."
+  "snippet": "### About us  [**Manufact**](https://manufact.com/) builds dev-tools and cloud infrastructure for MCP and software used by AI agents.  Our platform helps teams ..."
  },
  {
   "id": 97834,
@@ -21278,7 +21413,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 0,
-  "team": 2,
+  "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-05-30T07:27:09.951Z",
   "link": "https://www.ycombinator.com/companies/vela/jobs/qoFg7EJ-founding-engineer-vela-solving-scheduling-india",
@@ -22523,7 +22658,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 0,
-  "team": 2,
+  "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-05-17T01:23:30.964Z",
   "link": "https://www.ycombinator.com/companies/vela/jobs/sv62rsO-ai-operations-associate",
@@ -26985,21 +27120,6 @@
   "snippet": "## **About Us**  Sieve is the only AI research lab exclusively focused on video data. We combine exabyte-scale video infrastructure, novel video understanding t..."
  },
  {
-  "id": 91866,
-  "company": "BlueCargo",
-  "title": "Senior/Staff Backend Engineer",
-  "role": "eng",
-  "eng_type": "be",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 6,
-  "team": 35,
-  "sector": "B2B Software and Services",
-  "created": "2026-03-10T20:29:46.978Z",
-  "link": "https://www.ycombinator.com/companies/bluecargo/jobs/4UzRNNM-senior-staff-backend-engineer",
-  "snippet": "**About BlueCargo**  BlueCargo is a fast-growing, VC-backed technology company transforming the logistics and supply chain industry. As the leader in container ..."
- },
- {
   "id": 91699,
   "company": "Just Appraised",
   "title": "Account Executive",
@@ -28483,21 +28603,6 @@
   "created": "2026-02-10T15:01:01.269Z",
   "link": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/PWbUi20-product-designer",
   "snippet": "# About us  **ATG (Autonomous Technologies Group)** is an AI lab deploying frontier reasoning systems within financial markets.  **Founders:** Early GPU cloud (..."
- },
- {
-  "id": 89995,
-  "company": "Guardian RF",
-  "title": "Electrical Engineer Intern (Summer)",
-  "role": "eng",
-  "eng_type": "electrical",
-  "remote": "no",
-  "visa": "yes",
-  "exp": null,
-  "team": 15,
-  "sector": "Industrials",
-  "created": "2026-02-10T01:43:53.821Z",
-  "link": "https://www.ycombinator.com/companies/guardian-rf/jobs/gHKlg95-electrical-engineer-intern-summer",
-  "snippet": "Guardian RF is seeking an electrical engineering summer intern to support the design, testing, and deployment of low-SWaP passive RF sensing systems for drone d..."
  },
  {
   "id": 89992,
@@ -34873,21 +34978,6 @@
   "created": "2025-08-19T05:09:13.262Z",
   "link": "https://www.ycombinator.com/companies/fuse-ai/jobs/AS9hfmv-senior-frontend-engineer",
   "snippet": "The Role\\\r We’re looking for a Senior Front End Engineer with deep expertise in Next.js to join our fast-paced, high-impact engineering team. You’ll work direct..."
- },
- {
-  "id": 80113,
-  "company": "Guardian RF",
-  "title": "Backend Software Engineer",
-  "role": "eng",
-  "eng_type": "be",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 0,
-  "team": 15,
-  "sector": "Industrials",
-  "created": "2025-08-18T18:07:40.590Z",
-  "link": "https://www.ycombinator.com/companies/guardian-rf/jobs/4GoGyYz-backend-software-engineer",
-  "snippet": "Guardian RF is building next-generation drone detection systems to protect critical infrastructure, national security, and public safety. Our passive RF-based p..."
  },
  {
   "id": 80082,
