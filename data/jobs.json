@@ -1,5 +1,110 @@
 [
  {
+  "id": 115680,
+  "company": "Gojiberry AI",
+  "title": "Account Executive / Sales Rep - AI / GTM",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "none",
+  "exp": 3,
+  "team": 7,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-10T22:25:10.601Z",
+  "link": "https://www.ycombinator.com/companies/gojiberry-ai/jobs/8csZWPm-account-executive-sales-rep-ai-gtm",
+  "snippet": "## About Gojiberry AI  Gojiberry AI is building AI Go-To-Market agents for B2B sales teams.  Instead of starting from static lead lists, Gojiberry continuously ..."
+ },
+ {
+  "id": 115679,
+  "company": "Gojiberry AI",
+  "title": "Acquisition Manager",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "none",
+  "exp": 3,
+  "team": 7,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-10T22:24:38.692Z",
+  "link": "https://www.ycombinator.com/companies/gojiberry-ai/jobs/nD5BOea-acquisition-manager",
+  "snippet": "## About Gojiberry AI  Gojiberry AI is building AI Go-To-Market agents for B2B sales teams.  Instead of starting from static lead lists, Gojiberry continuously ..."
+ },
+ {
+  "id": 115646,
+  "company": "Asha Health",
+  "title": "Head of Product, AI",
+  "role": "product",
+  "eng_type": "be",
+  "remote": "no",
+  "visa": "possible",
+  "exp": 3,
+  "team": 9,
+  "sector": "Healthcare",
+  "created": "2026-10-10T20:07:03.258Z",
+  "link": "https://www.ycombinator.com/companies/asha-health/jobs/Qd1IZWf-head-of-product-ai",
+  "snippet": "### **About Asha Health**  Asha Health is building an AI OS for outpatient care. It’s the year of AI agents, and startups selling AI agents to healthcare organi..."
+ },
+ {
+  "id": 115614,
+  "company": "SalesPatriot",
+  "title": "Engineering Lead (Warsaw)",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "none",
+  "exp": 6,
+  "team": 15,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-10T17:54:35.494Z",
+  "link": "https://www.ycombinator.com/companies/salespatriot/jobs/dFfNIZr-engineering-lead-warsaw",
+  "snippet": "## The Mission  The West's industrial base runs on systems built in the 1980s.  Billions of dollars in critical components (F-35 parts, industrial assemblies, e..."
+ },
+ {
+  "id": 115583,
+  "company": "Atrisa",
+  "title": "Founding AI / ML Engineer",
+  "role": "eng",
+  "eng_type": "ml",
+  "remote": "no",
+  "visa": "none",
+  "exp": 3,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-10T10:49:33.902Z",
+  "link": "https://www.ycombinator.com/companies/atrisa/jobs/we9oeZy-founding-ai-ml-engineer",
+  "snippet": "## Company Description  Atrisa (YC P26) builds AI agents for analog circuit design. We are building AI that takes a circuit from specification to layout, workin..."
+ },
+ {
+  "id": 115581,
+  "company": "Cityfurnish",
+  "title": "Social Media & Influencer Marketing Intern",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": null,
+  "team": 90,
+  "sector": "Consumer",
+  "created": "2026-10-10T10:40:29.970Z",
+  "link": "https://www.ycombinator.com/companies/cityfurnish/jobs/7gJTU0E-social-media-influencer-marketing-intern",
+  "snippet": "We're looking for a **high-energy, creative, and super proactive Social Media &amp; Influencer Marketing Intern** who doesn't just scroll through Instagram but ..."
+ },
+ {
+  "id": 115547,
+  "company": "Clinikally",
+  "title": "Consultant Dermatologist - Part-Time",
+  "role": "science",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 125,
+  "sector": "Healthcare",
+  "created": "2026-10-10T09:41:14.671Z",
+  "link": "https://www.ycombinator.com/companies/clinikally/jobs/cWrzhzA-consultant-dermatologist-part-time",
+  "snippet": "**Who are we ?**   Clinikally is an ecommerce operator, we’re a team of people passionate about making skin and hair care. Simple, honest, and effective. We wor..."
+ },
+ {
   "id": 115515,
   "company": "AirMyne",
   "title": "Social Media Manager (Part-time)",
@@ -177,7 +282,7 @@
   "sector": "Consumer",
   "created": "2026-10-09T14:16:25.110Z",
   "link": "https://www.ycombinator.com/companies/novig/jobs/yphw6hx-senior-backend-engineer-core-trading-systems",
-  "snippet": "### **Senior Backend Engineer, Core Trading Systems**  _$200k - $260k • meaningful equity_  ### **About MAG**  MAG is the market-making and proprietary trading ..."
+  "snippet": "### **Senior Backend Engineer, Core Trading Systems**  _$200k - $260k • meaningful equity_  ### **About MAG**  MAG is the market-making arm of Novig. We provide..."
  },
  {
   "id": 115419,
@@ -238,6 +343,21 @@
   "created": "2026-10-09T13:04:46.820Z",
   "link": "https://www.ycombinator.com/companies/cityfurnish/jobs/XdCK1iS-procurement-intern",
   "snippet": "Cityfurnish is a leading provider of furniture and appliance rentals, offering affordable and flexible solutions for individuals and businesses. Our mission is ..."
+ },
+ {
+  "id": 115349,
+  "company": "Cifrato",
+  "title": "Founding Sales Development Representative",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 17,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-09T06:53:39.449Z",
+  "link": "https://www.ycombinator.com/companies/cifrato/jobs/zNDCKb5-founding-sales-development-representative",
+  "snippet": "At [cifrato.ai](http://cifrato.ai) we are automating the financial operations of the world’s businesses with AI. We automate accounting, tax and other financial..."
  },
  {
   "id": 115290,
@@ -627,7 +747,7 @@
   "sector": "Financial Technology and Services",
   "created": "2026-10-08T08:17:00.476Z",
   "link": "https://www.ycombinator.com/companies/blaze-2/jobs/2MAby7B-growth-engineering-intern-work-directly-with-the-ceo",
-  "snippet": "Remote, but you must be based in the Americas (North, Central, or South America) so we have a few hours of overlap with US Central time.  This is not your mothe..."
+  "snippet": "Remote, but you must be based in the Americas (North, Central, or South America) so we have a few hours of overlap with US Central time.  We’re hiring immediate..."
  },
  {
   "id": 115156,
@@ -1010,7 +1130,7 @@
   "title": "Software Engineer ",
   "role": "eng",
   "eng_type": "fs",
-  "remote": "yes",
+  "remote": "no",
   "visa": "none",
   "exp": 1,
   "team": 6,
@@ -1275,21 +1395,6 @@
   "snippet": "You might be:\\\r \\- A product engineer at a breakout scaleup\\\r \\- A full-stack builder who's shipped with LLMs and agents\\\r \\- An ex-technical founder ready for ..."
  },
  {
-  "id": 114887,
-  "company": "Clinikally",
-  "title": "Consultant Dermatologist - Experience Centre",
-  "role": "science",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 1,
-  "team": 125,
-  "sector": "Healthcare",
-  "created": "2026-10-07T08:35:02.255Z",
-  "link": "https://www.ycombinator.com/companies/clinikally/jobs/PGpkF5Z-consultant-dermatologist-experience-centre",
-  "snippet": "**Job Description - Consultant Dermatologist**  **Position:** Consultant Dermatologist   **Location:** Summit Plaza - Experience Centre   **Work Mode:** On-site..."
- },
- {
   "id": 114854,
   "company": "Authologic",
   "title": "Campaign Manager (GTM, ABM & Events)",
@@ -1333,21 +1438,6 @@
   "created": "2026-10-06T23:35:54.754Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/7Ftzydk-senior-ai-ml-engineer",
   "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
- },
- {
-  "id": 114755,
-  "company": "Gojiberry AI",
-  "title": "Account Executive / Sales Rep - AI / GTM",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 3,
-  "team": 7,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-06T22:36:26.513Z",
-  "link": "https://www.ycombinator.com/companies/gojiberry-ai/jobs/w4u7Gj0-account-executive-sales-rep-ai-gtm",
-  "snippet": "## About Gojiberry AI  Gojiberry AI is building AI Go-To-Market agents for B2B sales teams.  Instead of starting from static lead lists, Gojiberry continuously ..."
  },
  {
   "id": 114722,
@@ -1693,21 +1783,6 @@
   "created": "2026-10-06T04:03:45.733Z",
   "link": "https://www.ycombinator.com/companies/soff/jobs/j50ICZH-founding-ops",
   "snippet": "**About the role**  We're rebuilding the industrial distribution industry from the ground up, and we're looking for an early-career operator who gets things don..."
- },
- {
-  "id": 114413,
-  "company": "SalesPatriot",
-  "title": "Lead Forward Deployed Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-06T02:14:17.583Z",
-  "link": "https://www.ycombinator.com/companies/salespatriot/jobs/2QEhkK1-lead-forward-deployed-engineer",
-  "snippet": "## The Mission  The West's industrial base runs on systems built in the 1980s.  Billions of dollars in critical components (F-35 parts, industrial assemblies, e..."
  },
  {
   "id": 114412,
@@ -3630,21 +3705,6 @@
   "snippet": "Based in Delhi NCR   Travel across India  We’re looking for an **Operations Lead** to build and run our worker video-collection operations across India.\\ You'll..."
  },
  {
-  "id": 112742,
-  "company": "Clinikally",
-  "title": "Consultant Dermatologist",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 1,
-  "team": 125,
-  "sector": "Healthcare",
-  "created": "2026-09-29T11:52:05.657Z",
-  "link": "https://www.ycombinator.com/companies/clinikally/jobs/rgw7LBj-consultant-dermatologist",
-  "snippet": "### **About the Role**  We are expanding our presence from an online marketplace into **Retail Experience Centres** and are looking for a **Consultant Dermatolo..."
- },
- {
   "id": 112710,
   "company": "Clinikally",
   "title": "Quality & Training Manager (Customer Support)",
@@ -4168,21 +4228,6 @@
   "created": "2026-09-27T21:01:36.996Z",
   "link": "https://www.ycombinator.com/companies/sf-tensor/jobs/abpmgWv-member-of-mathematical-staff",
   "snippet": "# At SF Tensor, we're building the future of high-performance compute  We firmly believe that the future of AI depends on the unglamorous: rethinking and rebuil..."
- },
- {
-  "id": 112313,
-  "company": "Gojiberry AI",
-  "title": "Acquisition Manager",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 3,
-  "team": 7,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-27T20:34:08.331Z",
-  "link": "https://www.ycombinator.com/companies/gojiberry-ai/jobs/Vme16p9-acquisition-manager",
-  "snippet": "## About Gojiberry AI  Gojiberry AI is building AI Go-To-Market agents for B2B sales teams.  Instead of starting from static lead lists, Gojiberry continuously ..."
  },
  {
   "id": 112281,
@@ -4918,21 +4963,6 @@
   "created": "2026-09-24T11:58:04.477Z",
   "link": "https://www.ycombinator.com/companies/instawork/jobs/6eMFxCL-platform-engineer-e3",
   "snippet": "**About IRL (Instawork Robotics Labs)**\\ \\ Researchers at UC Berkeley have identified a “100,000-year data gap”-the gulf between what trained AI language models..."
- },
- {
-  "id": 111884,
-  "company": "Clara",
-  "title": "Full-Stack Engineer (Healthcare)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "possible",
-  "exp": 1,
-  "team": 9,
-  "sector": "Healthcare",
-  "created": "2026-09-24T11:19:59.336Z",
-  "link": "https://www.ycombinator.com/companies/clara-2/jobs/sShsSyB-full-stack-engineer-healthcare",
-  "snippet": "Clara is building the first AI-first medical practice from the ground up. Unlike most health AI startups, we deliver actual care: our clinicians write prescript..."
  },
  {
   "id": 111851,
@@ -6411,7 +6441,7 @@
   "role": "operations",
   "eng_type": "fs",
   "remote": "no",
-  "visa": "none",
+  "visa": "possible",
   "exp": 1,
   "team": 250,
   "sector": "Financial Technology and Services",
@@ -7800,21 +7830,6 @@
   "snippet": "# Growth\r \r LemonLime automates sales and marketing for small businesses. In short, we get them customers, and we do it for them completely hands-off.\r \r Doing ..."
  },
  {
-  "id": 109508,
-  "company": "HitPay",
-  "title": "Account Executive, United States",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 42,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-12T05:10:50.613Z",
-  "link": "https://www.ycombinator.com/companies/hitpay/jobs/fi6OAhA-account-executive-united-states",
-  "snippet": "ABOUT HITPAY  HitPay is the payments and business operations platform for SMEs across Asia Pacific - cards, e-wallets, bank transfers, PayNow, QR, invoicing, PO..."
- },
- {
   "id": 109475,
   "company": "SiPhox Health",
   "title": "Head of Consumer Experience; Home blood testing",
@@ -9155,7 +9170,7 @@
   "title": "Product Manager",
   "role": "product",
   "eng_type": "",
-  "remote": "no",
+  "remote": "yes",
   "visa": "yes",
   "exp": 5,
   "team": 7,
@@ -11610,6 +11625,21 @@
   "snippet": "**Klaimee** is building liability coverage for the mistakes and failures of AI agents. We are a Y Combinator company backed by insurance capacity from-rated Ber..."
  },
  {
+  "id": 106311,
+  "company": "Clara",
+  "title": "Founding full-stack growth Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "possible",
+  "exp": 3,
+  "team": 9,
+  "sector": "Healthcare",
+  "created": "2026-08-25T02:08:11.107Z",
+  "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+  "snippet": "You'll own Clara's growth engine, supporting our mission by helping more patients discover Clara and turn to it for their day-to-day primary care needs. Landing..."
+ },
+ {
   "id": 106310,
   "company": "Pocket",
   "title": "Founding Data Lead",
@@ -11743,21 +11773,6 @@
   "created": "2026-08-23T22:22:26.229Z",
   "link": "https://www.ycombinator.com/companies/synthetic-society/jobs/zBCibgU-founding-member-of-technical-staff",
   "snippet": "We’re hiring founding team members to take on high-ownership work across the business.\r \r Technical ability is required. Experience with social media is a stron..."
- },
- {
-  "id": 105947,
-  "company": "HitPay",
-  "title": "Regional Key Account Manager, APAC",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 3,
-  "team": 42,
-  "sector": "Financial Technology and Services",
-  "created": "2026-08-23T06:20:08.523Z",
-  "link": "https://www.ycombinator.com/companies/hitpay/jobs/hLj3izK-regional-key-account-manager-apac",
-  "snippet": "## About HitPay  HitPay is full-stack payments infrastructure for growing businesses across APAC. Founded in 2016 and headquartered in Singapore, we bring e-com..."
  },
  {
   "id": 105946,
@@ -18270,21 +18285,6 @@
   "snippet": "## About the role  We're a fast-growing W26 YC startup building the AI operating system for banks and credit unions.  We’re a team of repeat entrepreneurs, ex-V..."
  },
  {
-  "id": 98519,
-  "company": "Cityfurnish",
-  "title": "Video Editor Intern",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 90,
-  "sector": "Consumer",
-  "created": "2026-07-07T12:19:39.865Z",
-  "link": "https://www.ycombinator.com/companies/cityfurnish/jobs/PPwgnH8-video-editor-intern",
-  "snippet": "Cityfurnish is one of Indias leading furniture and appliance rental platforms, helping individuals and businesses furnish spaces through affordable, flexible, a..."
- },
- {
   "id": 98490,
   "company": "Cyble",
   "title": "Brand Monitoring Specialist - Bangalore (Hybrid)",
@@ -18398,7 +18398,7 @@
   "remote": "no",
   "visa": "none",
   "exp": 1,
-  "team": 40,
+  "team": 8,
   "sector": "Industrials",
   "created": "2026-07-06T09:56:46.535Z",
   "link": "https://www.ycombinator.com/companies/orangewood-labs/jobs/7BXkZuh-sales-engineer-robotics-automation",
@@ -18778,6 +18778,21 @@
   "created": "2026-07-01T13:10:22.948Z",
   "link": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
   "snippet": "### About us  [**Manufact**](https://manufact.com/) builds dev-tools and cloud infrastructure for MCP and software used by AI agents.  Our platform helps teams ..."
+ },
+ {
+  "id": 97958,
+  "company": "Clinikally",
+  "title": "Category Executive",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 125,
+  "sector": "Healthcare",
+  "created": "2026-07-01T13:08:15.086Z",
+  "link": "https://www.ycombinator.com/companies/clinikally/jobs/6JSahr3-category-executive",
+  "snippet": "As a **Category Executive**, you will play a key role in managing and growing product categories across the Clinikally platform. You will work closely with bran..."
  },
  {
   "id": 97834,
@@ -19363,21 +19378,6 @@
   "created": "2026-06-25T00:21:41.601Z",
   "link": "https://www.ycombinator.com/companies/curri/jobs/QtKagFS-fp-a-director",
   "snippet": "**FP&A Director**  **About the role:**  Curri is seeking an FP&A Director to build and own the company's financial planning and analysis function from the groun..."
- },
- {
-  "id": 97443,
-  "company": "Moss",
-  "title": "Founding Customer Success Manager",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 3,
-  "team": 5,
-  "sector": "B2B Software and Services",
-  "created": "2026-06-24T22:49:58.550Z",
-  "link": "https://www.ycombinator.com/companies/moss/jobs/HoI9AN3-founding-customer-success-manager",
-  "snippet": "Moss is the real-time retrieval layer for conversational AI. We help teams make AI products feel instant by getting the right context at the right time, without..."
  },
  {
   "id": 97442,
@@ -24210,21 +24210,6 @@
   "snippet": "### About the role  Terrakotta is the AI prospecting platform commercial real estate teams use to find better deals faster: ownership data, tenant intelligence,..."
  },
  {
-  "id": 94324,
-  "company": "Paasa",
-  "title": "Customer Support",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 9,
-  "sector": "Financial Technology and Services",
-  "created": "2026-05-06T08:16:54.011Z",
-  "link": "https://www.ycombinator.com/companies/paasa/jobs/z3JyLTU-customer-support",
-  "snippet": "# Customer Support Associate - Paasa  We’re looking for someone who cares deeply about customer experience, moves fast, and notices the small things others miss..."
- },
- {
   "id": 94313,
   "company": "Nova Credit",
   "title": "Staff Software Engineer",
@@ -26873,7 +26858,7 @@
   "remote": "yes",
   "visa": "yes",
   "exp": null,
-  "team": 40,
+  "team": 8,
   "sector": "Industrials",
   "created": "2026-03-24T12:25:33.763Z",
   "link": "https://www.ycombinator.com/companies/orangewood-labs/jobs/6Fhj4OB-marketing-and-bda-intern",
@@ -32078,7 +32063,7 @@
   "remote": "no",
   "visa": "none",
   "exp": null,
-  "team": 40,
+  "team": 8,
   "sector": "Industrials",
   "created": "2025-11-24T13:17:11.623Z",
   "link": "https://www.ycombinator.com/companies/orangewood-labs/jobs/VAAliEY-vision-engineer-intern-ai-computer-vision",
@@ -39433,21 +39418,6 @@
   "created": "2024-09-24T16:23:32.766Z",
   "link": "https://www.ycombinator.com/companies/varos/jobs/iv8SZ4m-senior-analytics-engineer",
   "snippet": "We're looking for a data guru to build product features and run analyses on top of our massive data set (7,000+ companies first-party data co-op + large public ..."
- },
- {
-  "id": 69508,
-  "company": "Paasa",
-  "title": "Founding Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "none",
-  "exp": 3,
-  "team": 9,
-  "sector": "Financial Technology and Services",
-  "created": "2024-09-22T23:15:57.237Z",
-  "link": "https://www.ycombinator.com/companies/paasa/jobs/xCuTPwl-founding-engineer",
-  "snippet": "**Senior Software Engineer - Paasa**  Paasa is building the first-of-its-kind global equities trading platform from India, for Indians across the globe. We’re b..."
  },
  {
   "id": 69506,
