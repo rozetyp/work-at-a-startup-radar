@@ -1,5 +1,350 @@
 [
  {
+  "id": 116356,
+  "company": "Zudo",
+  "title": "Forward-Deployed Engineer - AI Agents",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "only",
+  "visa": "possible",
+  "exp": 3,
+  "team": 4,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-14T05:37:51.616Z",
+  "link": "https://www.ycombinator.com/companies/zudo/jobs/EW0JY9V-forward-deployed-engineer-ai-agents",
+  "snippet": "**Location:** Remote (US or Canada)\\ **Experience:** 2-4 years preferred\\ **Type:** Full-time  ## About Zudo  At Zudo, we're building AI workers for the extende..."
+ },
+ {
+  "id": 116355,
+  "company": "Clinikally",
+  "title": "Customer Support Executive ",
+  "role": "support",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 125,
+  "sector": "Healthcare",
+  "created": "2026-10-14T05:30:36.479Z",
+  "link": "https://www.ycombinator.com/companies/clinikally/jobs/fuFPImQ-customer-support-executive",
+  "snippet": "**What you will do**:   ● Capability to identify what customers need and deliver suitable solutions efficiently and with professionalism.   ● Proper urgency, de..."
+ },
+ {
+  "id": 116349,
+  "company": "Molagri",
+  "title": "Scientist / Senior Scientist, Molecular Display and Binder Discovery",
+  "role": "science",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "none",
+  "exp": 3,
+  "team": 4,
+  "sector": "Industrials",
+  "created": "2026-10-14T02:03:27.375Z",
+  "link": "https://www.ycombinator.com/companies/molagri/jobs/qHL3N9N-scientist-senior-scientist-molecular-display-and-binder-discovery",
+  "snippet": "_We are seeking a hands-on scientist to build phage and yeast-display workflows for discovering binders that target insect receptors._  You will develop molecul..."
+ },
+ {
+  "id": 116346,
+  "company": "Nango",
+  "title": "Growth & Marketing Lead (Founding)",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 6,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-14T00:01:53.037Z",
+  "link": "https://www.ycombinator.com/companies/nango/jobs/sNXjkGq-growth-marketing-lead-founding",
+  "snippet": "Nango is AI infrastructure to connect agents to 1000+ APIs.  Please find more details &amp; apply for the position [**here.**](https://nango.dev/careers) We don..."
+ },
+ {
+  "id": 116345,
+  "company": "Nango",
+  "title": "Enterprise Account Executive (Founding)",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 6,
+  "team": 6,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-14T00:01:52.218Z",
+  "link": "https://www.ycombinator.com/companies/nango/jobs/JgJmIN7-enterprise-account-executive-founding",
+  "snippet": "Nango is AI infrastructure to connect agents to 1000+ APIs.  Please find more details &amp; apply for the position [**here.**](https://nango.dev/careers) We don..."
+ },
+ {
+  "id": 116344,
+  "company": "Nango",
+  "title": "Forward Deployed Engineer (Founding)",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 6,
+  "team": 6,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-14T00:01:50.520Z",
+  "link": "https://www.ycombinator.com/companies/nango/jobs/7Aep8KZ-forward-deployed-engineer-founding",
+  "snippet": "Nango is AI infrastructure to connect agents to 1000+ APIs.  Please find more details &amp; apply for the position [**here.**](https://nango.dev/careers) We don..."
+ },
+ {
+  "id": 116343,
+  "company": "Beam",
+  "title": "Product Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 5,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T23:34:46.246Z",
+  "link": "https://www.ycombinator.com/companies/beam/jobs/QFlGNxn-product-engineer",
+  "snippet": "**Beam** is an ultrafast AI inference platform. We built a serverless runtime that launches GPU-backed containers in less than 1 second and quickly scales out t..."
+ },
+ {
+  "id": 116341,
+  "company": "Hyperbound",
+  "title": "Creative Videographer & Producer",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 30,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T23:23:34.862Z",
+  "link": "https://www.ycombinator.com/companies/hyperbound/jobs/Hk2tpbQ-creative-videographer-producer",
+  "snippet": "### **About Hyperbound**  Sales is messy. Closing deals is hard. Multiple stakeholders, hours of calls, and endless emails. At Hyperbound, we're building the AI..."
+ },
+ {
+  "id": 116340,
+  "company": "General Astronautics",
+  "title": "Mechanical Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 4,
+  "sector": "Industrials",
+  "created": "2026-10-13T23:16:05.700Z",
+  "link": "https://www.ycombinator.com/companies/generalastro/jobs/kfNPWsr-mechanical-engineer",
+  "snippet": "## **About the Role**  General Astronautics is building autonomous dexterous robotic arms for orbital inspection, repair, and assembly. Our systems enable space..."
+ },
+ {
+  "id": 116306,
+  "company": "Soren",
+  "title": "Founding Forward Deployed Engineer",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": null,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T22:30:49.452Z",
+  "link": "https://www.ycombinator.com/companies/soren/jobs/Hc2oUbv-founding-forward-deployed-engineer",
+  "snippet": "# Founding Forward Deployed Engineer  We're hiring our first Forward Deployed Engineer.  As our founding FDE, you'll have significant ownership over the systems..."
+ },
+ {
+  "id": 116275,
+  "company": "Bloomy",
+  "title": "Partnerships Account Manager",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 3,
+  "team": 1,
+  "sector": "Education",
+  "created": "2026-10-13T21:21:45.475Z",
+  "link": "https://www.ycombinator.com/companies/bloomy/jobs/FQRMUCS-partnerships-account-manager",
+  "snippet": "Partnerships Account Manager   Bloomy (YC S26)  Flexible location · Full-time · 30-50% travel  $130,000-$150,000 OTE ($105,000-$115,000 base + $25,000-$35,000 t..."
+ },
+ {
+  "id": 116273,
+  "company": "Bloomy",
+  "title": "Chief Technology Officer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 6,
+  "team": 1,
+  "sector": "Education",
+  "created": "2026-10-13T21:20:26.133Z",
+  "link": "https://www.ycombinator.com/companies/bloomy/jobs/P5qe6yZ-chief-technology-officer",
+  "snippet": "Chief Technology Officer   Bloomy (YC S26)  San Francisco · Full-time  $200,000-$250,000 base salary, plus meaningful equity  ## About Bloomy  Bloomy is an AI-n..."
+ },
+ {
+  "id": 116240,
+  "company": "Cotool",
+  "title": "Account Executive",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 3,
+  "team": 8,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T18:19:23.190Z",
+  "link": "https://www.ycombinator.com/companies/cotool/jobs/8quCd1f-account-executive",
+  "snippet": "## Sell the next generation of security operations  Cotool is a SIEM and agent platform built for security teams. We bring together log storage and search, dete..."
+ },
+ {
+  "id": 116217,
+  "company": "GoGoGrandparent",
+  "title": "Front End JavaScript / TypeScript Engineer",
+  "role": "eng",
+  "eng_type": "fe",
+  "remote": "only",
+  "visa": "none",
+  "exp": 6,
+  "team": 50,
+  "sector": "Consumer",
+  "created": "2026-10-13T15:24:51.963Z",
+  "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+  "snippet": "### **About the Company**  GoGoGrandparent’s (GoGo’s) mission is to help older adults live independently in their home for as long as possible. We do that by ta..."
+ },
+ {
+  "id": 116216,
+  "company": "Sunflower",
+  "title": "AI SEO Lead",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "none",
+  "exp": 1,
+  "team": 15,
+  "sector": "Healthcare",
+  "created": "2026-10-13T15:12:45.865Z",
+  "link": "https://www.ycombinator.com/companies/sunflower/jobs/EJZyKD7-ai-seo-lead",
+  "snippet": "**THIS JOB IS IRL IN BUENOS AIRES :) Relocation assistance available for the right candidate.**  [Sunflower](https://sunflowersober.com/home) is hiring an **AI ..."
+ },
+ {
+  "id": 116215,
+  "company": "Whatnot",
+  "title": "Product Manager, Growth",
+  "role": "product",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 5,
+  "team": 1500,
+  "sector": "Consumer",
+  "created": "2026-10-13T14:18:28.439Z",
+  "link": "https://www.ycombinator.com/companies/whatnot/jobs/OEiQ0gJ-product-manager-growth",
+  "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
+ },
+ {
+  "id": 116214,
+  "company": "Emergent",
+  "title": "Influencer Marketing Specialist",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": null,
+  "sector": "Consumer",
+  "created": "2026-10-13T14:17:02.178Z",
+  "link": "https://www.ycombinator.com/companies/emergent/jobs/KYGnCAQ-influencer-marketing-specialist",
+  "snippet": "Emergent builds autonomous coding agents that generate, test, and deploy production applications directly from plain-language intent. Our systems operate at glo..."
+ },
+ {
+  "id": 116213,
+  "company": "DiligenceSquared",
+  "title": "Talent & People Lead",
+  "role": "recruiting",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T14:16:08.220Z",
+  "link": "https://www.ycombinator.com/companies/diligencesquared-inc/jobs/W7rX5nR-talent-people-lead",
+  "snippet": "## About DiligenceSquared  DiligenceSquared is the AI-native consulting firm. We deliver investment-grade market research and commercial due diligence, powered ..."
+ },
+ {
+  "id": 116212,
+  "company": "Middesk",
+  "title": "Lead Data Scientist",
+  "role": "eng",
+  "eng_type": "data_sci",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 6,
+  "team": 140,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T13:57:53.397Z",
+  "link": "https://www.ycombinator.com/companies/middesk/jobs/tsM4BKa-lead-data-scientist",
+  "snippet": "## **About Middesk:**  Middesk is building the data and intelligence infrastructure that helps businesses work together with confidence. We started by creating ..."
+ },
+ {
+  "id": 116210,
+  "company": "Great Question",
+  "title": "Business Development Representative ",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 0,
+  "team": 41,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T13:46:43.242Z",
+  "link": "https://www.ycombinator.com/companies/great-question/jobs/M1Xk4pT-business-development-representative",
+  "snippet": "## **About Great Question:**   Great Question is the all-in-one AI customer research platform for understanding your customers. Our platform enables teams to re..."
+ },
+ {
+  "id": 116209,
+  "company": "Great Question",
+  "title": "Product Manager",
+  "role": "product",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 5,
+  "team": 41,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-13T13:46:42.041Z",
+  "link": "https://www.ycombinator.com/companies/great-question/jobs/DcRlDKx-product-manager",
+  "snippet": "## **About Great Question:**   Great Question is the all-in-one AI customer research platform for understanding your customers. Our platform enables teams to re..."
+ },
+ {
+  "id": 116207,
+  "company": "Sava",
+  "title": "Founding Product Manager",
+  "role": "product",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 7,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-13T13:34:45.135Z",
+  "link": "https://www.ycombinator.com/companies/savahq/jobs/mFu7om9-founding-product-manager",
+  "snippet": "# **Founding Product Manager at Sava**  ### **The problem**  More than $6.5 trillion sits in trusts, and the industry that administers it still runs on PDFs, em..."
+ },
+ {
+  "id": 116174,
+  "company": "Freya",
+  "title": "Forward Deployed Engineer (2 openings)",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "no",
+  "visa": "none",
+  "exp": 0,
+  "team": 14,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-13T12:56:56.282Z",
+  "link": "https://www.ycombinator.com/companies/freya/jobs/crW5Fe8-forward-deployed-engineer-2-openings",
+  "snippet": "About Freya\\ We build voice AI for banks and insurers. Our speech and language models power assistants that handle real customer calls, including deployments in..."
+ },
+ {
   "id": 116148,
   "company": "Aktoria Robotics",
   "title": "HR Manager (India)",
@@ -53,7 +398,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 0,
-  "team": 4,
+  "team": 8,
   "sector": "B2B Software and Services",
   "created": "2026-10-12T22:45:27.828Z",
   "link": "https://www.ycombinator.com/companies/cotool/jobs/WWZZsd5-machine-learning-engineer-applied-ai-agents",
@@ -133,21 +478,6 @@
   "created": "2026-10-12T19:29:12.624Z",
   "link": "https://www.ycombinator.com/companies/community-phone-company/jobs/fUPAIUO-creative-director",
   "snippet": "### What you'll own  * You will set our creative direction as we scale from &lt;10% of American seniors and their families knowing about us to >50% in 2027. Tha..."
- },
- {
-  "id": 116079,
-  "company": "Serif Health",
-  "title": "Data Scientist",
-  "role": "eng",
-  "eng_type": "data_sci",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 3,
-  "team": 20,
-  "sector": "Healthcare",
-  "created": "2026-10-12T19:16:17.239Z",
-  "link": "https://www.ycombinator.com/companies/serif-health/jobs/aPiyArX-data-scientist",
-  "snippet": "**About Serif Health:**\r \r Serif Health is a YCombinator-backed startup dedicated to increasing transparency and lowering costs in the United States healthcare ..."
  },
  {
   "id": 116078,
@@ -313,21 +643,6 @@
   "created": "2026-10-12T13:27:12.393Z",
   "link": "https://www.ycombinator.com/companies/method-financial/jobs/PydfFE2-senior-software-engineer",
   "snippet": "## **Meet Method**  Method has built the most modern way to connect to consumer financial accounts. Combining real-time liability connectivity with instant paym..."
- },
- {
-  "id": 115944,
-  "company": "Pasito",
-  "title": "Executive Assistant",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 3,
-  "team": 20,
-  "sector": "Financial Technology and Services",
-  "created": "2026-10-12T10:00:14.899Z",
-  "link": "https://www.ycombinator.com/companies/pasito/jobs/FXyBlM2-executive-assistant",
-  "snippet": "### **About Pasito**  Pasito is the AI workspace for employee benefits.  We’re rethinking how group insurance and benefits are underwritten, delivered, used and..."
  },
  {
   "id": 115943,
@@ -1052,7 +1367,7 @@
  {
   "id": 115245,
   "company": "GovernGPT",
-  "title": "COO/CFO - GovernGPT (Montreal)",
+  "title": "President / COO - GovernGPT (Montreal)",
   "role": "operations",
   "eng_type": "",
   "remote": "no",
@@ -1061,8 +1376,8 @@
   "team": 7,
   "sector": "Financial Technology and Services",
   "created": "2026-10-08T18:40:49.727Z",
-  "link": "https://www.ycombinator.com/companies/governgpt/jobs/Jf7q0ZT-coo-cfo-governgpt-montreal",
-  "snippet": "## About GovernGPT:  We are YC-backed, profitable and both CEO and CTO are technical founders.  * We have real revenue from funds like Coatue. Coatue is now a c..."
+  "link": "https://www.ycombinator.com/companies/governgpt/jobs/Jf7q0ZT-president-coo-governgpt-montreal",
+  "snippet": "## **About GovernGPT**  We are YC-backed and profitable, and both our CEO and CTO are technical founders.  * We have real revenue from funds like Coatue. Coatue..."
  },
  {
   "id": 115244,
@@ -1830,21 +2145,6 @@
   "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
  },
  {
-  "id": 114962,
-  "company": "Emergent",
-  "title": "Performance Marketing Leader",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": null,
-  "sector": "Consumer",
-  "created": "2026-10-07T14:16:45.403Z",
-  "link": "https://www.ycombinator.com/companies/emergent/jobs/UAtK3cC-performance-marketing-leader",
-  "snippet": "Emergent builds autonomous coding agents that replace traditional software development by generating, testing, and deploying production applications directly fr..."
- },
- {
   "id": 114961,
   "company": "Blacksmith",
   "title": "Recruiting Coordinator ",
@@ -1892,7 +2192,7 @@
  {
   "id": 114958,
   "company": "David AI",
-  "title": "Head of Quality Operations",
+  "title": "Head of Quality Assurance Operations",
   "role": "operations",
   "eng_type": "",
   "remote": "only",
@@ -1901,7 +2201,7 @@
   "team": 10,
   "sector": "B2B Software and Services",
   "created": "2026-10-07T14:16:20.885Z",
-  "link": "https://www.ycombinator.com/companies/david-ai/jobs/AGURDNa-head-of-quality-operations",
+  "link": "https://www.ycombinator.com/companies/david-ai/jobs/AGURDNa-head-of-quality-assurance-operations",
   "snippet": "**About David AI**   David AI is the first audio data research company. We bring an R&D approach to data-developing datasets with the same rigor AI labs bring t..."
  },
  {
@@ -2022,7 +2322,7 @@
   "sector": "Healthcare",
   "created": "2026-10-06T23:35:54.754Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/7Ftzydk-senior-ai-ml-engineer",
-  "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
+  "snippet": "### **About Us**  Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you've..."
  },
  {
   "id": 114722,
@@ -2038,21 +2338,6 @@
   "created": "2026-10-06T22:05:25.166Z",
   "link": "https://www.ycombinator.com/companies/eventual/jobs/fjpa9hs-software-engineer-multimodal-backend-systems",
   "snippet": "# **About Eventual**  From humanoid robots to autonomous vehicles, every Physical AI model is trained on petabytes of video, lidar, radar, and sensor data. Toda..."
- },
- {
-  "id": 114690,
-  "company": "Molagri",
-  "title": "Sr. Research Associate, Yeast Expression and VLP Production",
-  "role": "science",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "none",
-  "exp": 3,
-  "team": 4,
-  "sector": "Industrials",
-  "created": "2026-10-06T21:19:03.490Z",
-  "link": "https://www.ycombinator.com/companies/molagri/jobs/YZjWSPT-sr-research-associate-yeast-expression-and-vlp-production",
-  "snippet": "_We are seeking a hands-on research associate to produce engineered VLPs in yeast and build production, purification, QC, and stability workflows._  You will he..."
  },
  {
   "id": 114591,
@@ -3015,21 +3300,6 @@
   "snippet": "Lemma is production monitoring for AI agents. We catch the silent failures your observability tools and evals miss (think bad tool calls, lost context, and infi..."
  },
  {
-  "id": 113899,
-  "company": "Cartage",
-  "title": "GTM Engineer",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 12,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-03T01:37:59.123Z",
-  "link": "https://www.ycombinator.com/companies/cartage/jobs/53WUNwv-gtm-engineer",
-  "snippet": "### **What is Cartage?**  Cartage is building Wilson, an AI that coordinates freight for manufacturers and distributors-handling the tedious work of booking, tr..."
- },
- {
   "id": 113898,
   "company": "Dill",
   "title": "AI Engineer / Lead",
@@ -3975,21 +4245,6 @@
   "snippet": "## **About us**  Encord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annot..."
  },
  {
-  "id": 113006,
-  "company": "HitPay",
-  "title": "Account Executive  (Hong Kong)",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 3,
-  "team": 42,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-30T06:32:00.748Z",
-  "link": "https://www.ycombinator.com/companies/hitpay/jobs/45cUsVC-account-executive-hong-kong",
-  "snippet": "ABOUT HITPAY  HitPay is the all-in-one payments and financial operations platform for SMEs across Asia-Pacific - payments, payouts, invoicing, POS, and more in ..."
- },
- {
   "id": 112973,
   "company": "CopyCat AI",
   "title": "Founding Account Executive",
@@ -4260,21 +4515,6 @@
   "snippet": "Based in Delhi NCR   Travel across India  We’re looking for an **Operations Lead** to build and run our worker video-collection operations across India.\\ You'll..."
  },
  {
-  "id": 112710,
-  "company": "Clinikally",
-  "title": "Quality & Training Manager (Customer Support)",
-  "role": "support",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 125,
-  "sector": "Healthcare",
-  "created": "2026-09-29T11:20:40.544Z",
-  "link": "https://www.ycombinator.com/companies/clinikally/jobs/CrY6GXA-quality-training-manager-customer-support",
-  "snippet": "Clinikally is one of India's fastest-growing consumer health platforms, transforming the way consumers access expert dermatological care and personalized skinca..."
- },
- {
   "id": 112709,
   "company": "CONUS",
   "title": "Senior Frontend Engineer, Product & UX",
@@ -4377,21 +4617,6 @@
   "sector": "Financial Technology and Services",
   "created": "2026-09-29T00:49:16.977Z",
   "link": "https://www.ycombinator.com/companies/dots-2/jobs/Z4r3zuq-executive-assistant",
-  "snippet": "## **About Dots**  Dots ([usedots.com](http://usedots.com)) is a Series A fintech backed by Y Combinator and DCM, building payout infrastructure for marketplace..."
- },
- {
-  "id": 112653,
-  "company": "Dots 💸",
-  "title": "Founding Product Manager",
-  "role": "product",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 10,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-29T00:45:02.516Z",
-  "link": "https://www.ycombinator.com/companies/dots-2/jobs/Vog3VqZ-founding-product-manager",
   "snippet": "## **About Dots**  Dots ([usedots.com](http://usedots.com)) is a Series A fintech backed by Y Combinator and DCM, building payout infrastructure for marketplace..."
  },
  {
@@ -5145,21 +5370,6 @@
   "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference..."
  },
  {
-  "id": 112052,
-  "company": "Culdesac",
-  "title": "Maintenance Technician",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 100,
-  "sector": "Real Estate and Construction",
-  "created": "2026-09-25T14:17:31.588Z",
-  "link": "https://www.ycombinator.com/companies/culdesac/jobs/tIsyWDT-maintenance-technician",
-  "snippet": "**Who We Are**  Culdesac is a real estate developer and neighborhood manager of walkable, mixed-use communities designed to embrace a culture of belonging, tran..."
- },
- {
   "id": 112051,
   "company": "Ooak Data",
   "title": "Head of Engineering ",
@@ -5458,21 +5668,6 @@
   "created": "2026-09-24T14:16:08.901Z",
   "link": "https://www.ycombinator.com/companies/dili/jobs/e0gtTc4-sale-operations-manager",
   "snippet": "**Sales Operations Manager**      Dili      **Team:** Revenue Operations      **Reports to:** CEO      **Location:** NYC      **Type:** Full-time          # **A..."
- },
- {
-  "id": 111952,
-  "company": "Culdesac",
-  "title": "Leasing & Community Operations Coordinator",
-  "role": "support",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 100,
-  "sector": "Real Estate and Construction",
-  "created": "2026-09-24T14:16:05.944Z",
-  "link": "https://www.ycombinator.com/companies/culdesac/jobs/8vPQN5w-leasing-community-operations-coordinator",
-  "snippet": "**Who We Are**  Culdesac Tempe is a mixed-use neighborhood development that opened in 2023. The neighborhood features open space, shared courtyards, and 20+ ret..."
  },
  {
   "id": 111951,
@@ -5775,21 +5970,6 @@
   "snippet": "# **Founding BDR/SDR**  **Berlin · On-site · Native-level German required**  ## **About KugelAudio**  KugelAudio is a Berlin-based deeptech startup building its..."
  },
  {
-  "id": 111561,
-  "company": "Novig",
-  "title": "Head of Customer Experience",
-  "role": "support",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 5,
-  "team": 55,
-  "sector": "Consumer",
-  "created": "2026-09-23T14:16:17.753Z",
-  "link": "https://www.ycombinator.com/companies/novig/jobs/utnFske-head-of-customer-experience",
-  "snippet": "### **Head of Customer Experience**  _$140,000-$180,000 • meaningful equity_  ### **About Novig**  Novig is building America's #1 sports prediction market. Our ..."
- },
- {
   "id": 111560,
   "company": "authzed",
   "title": "Solutions Engineer - U.S. and Canada",
@@ -5983,21 +6163,6 @@
   "created": "2026-09-22T20:17:03.606Z",
   "link": "https://www.ycombinator.com/companies/aqua/jobs/50a8BlO-chief-compliance-officer-and-general-counsel",
   "snippet": "**About Aqua**  _Aqua is the operating system for wealth channel alternatives. We are building the platform for independent broker-dealers (IBDs) and independen..."
- },
- {
-  "id": 111422,
-  "company": "Hive",
-  "title": "Manager, Customer Success",
-  "role": "support",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 5,
-  "team": 65,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-22T17:55:49.678Z",
-  "link": "https://www.ycombinator.com/companies/hive/jobs/TzPxu3h-manager-customer-success",
-  "snippet": "At Hive, we’re all about creating moments that matter and helping event marketers connect with their biggest fans. Live events bring people together, and our in..."
  },
  {
   "id": 111401,
@@ -6492,21 +6657,6 @@
   "sector": "B2B Software and Services",
   "created": "2026-09-19T14:19:48.105Z",
   "link": "https://www.ycombinator.com/companies/revenuecat/jobs/LwFpPQK-senior-product-manager-analytics-features",
-  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
- },
- {
-  "id": 110994,
-  "company": "RevenueCat",
-  "title": "Senior Product Designer",
-  "role": "design",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 5,
-  "team": 160,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-19T14:19:46.141Z",
-  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/VfYxMNM-senior-product-designer",
   "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
  },
  {
@@ -7155,21 +7305,6 @@
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
  },
  {
-  "id": 110348,
-  "company": "Whatnot",
-  "title": " Product Manager, Logistics",
-  "role": "product",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 5,
-  "team": 1500,
-  "sector": "Consumer",
-  "created": "2026-09-16T18:24:27.191Z",
-  "link": "https://www.ycombinator.com/companies/whatnot/jobs/h7FovFG-product-manager-logistics",
-  "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
- },
- {
   "id": 110344,
   "company": "Whatnot",
   "title": "Product Designer",
@@ -7560,21 +7695,6 @@
   "snippet": "Nash is the autonomic logistics platform. Self-optimizing, self-healing AI Agents unify decisioning and execution across fleets, carriers, and fulfillment netwo..."
  },
  {
-  "id": 109952,
-  "company": "ComplyDo",
-  "title": "Design Engineer",
-  "role": "design",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "none",
-  "exp": 1,
-  "team": 17,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-15T10:00:48.543Z",
-  "link": "https://www.ycombinator.com/companies/complydo/jobs/n14CZgd-design-engineer",
-  "snippet": "## We've built something people want.  ComplyDo is a YC-backed startup based in Berlin building the AI-native operating system for enterprise compliance.  We're..."
- },
- {
   "id": 109951,
   "company": "QuestDB",
   "title": "Pre-Sales Engineer, North America",
@@ -7633,21 +7753,6 @@
   "created": "2026-09-15T03:35:40.915Z",
   "link": "https://www.ycombinator.com/companies/ignition-benefits/jobs/04TOkxY-founding-member-of-technical-staff",
   "snippet": "## **About Ignition**\r \r Ignition Benefits is the AI-native employee-benefits brokerage for companies with 25-200 employees. We believe the $900B+ employer bene..."
- },
- {
-  "id": 109937,
-  "company": "Great Question",
-  "title": "Customer Success Manager, Scaled",
-  "role": "support",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 5,
-  "team": 41,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-15T01:12:16.679Z",
-  "link": "https://www.ycombinator.com/companies/great-question/jobs/ObGT6jd-customer-success-manager-scaled",
-  "snippet": "## **About Great Question:**   Great Question is the all-in-one AI customer research platform for understanding your customers. Our platform enables teams to re..."
  },
  {
   "id": 109904,
@@ -7812,7 +7917,7 @@
   "sector": "Healthcare",
   "created": "2026-09-14T18:00:27.846Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/va3Pgyc-head-of-customer-success",
-  "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
+  "snippet": "### **About Us**  Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you've..."
  },
  {
   "id": 109814,
@@ -8987,7 +9092,7 @@
  {
   "id": 108691,
   "company": "Agave",
-  "title": "Marketing Lead",
+  "title": "Founding Marketing Lead",
   "role": "marketing",
   "eng_type": "",
   "remote": "no",
@@ -8996,7 +9101,7 @@
   "team": 50,
   "sector": "B2B Software and Services",
   "created": "2026-09-08T16:50:32.877Z",
-  "link": "https://www.ycombinator.com/companies/agave/jobs/uXThVB4-marketing-lead",
+  "link": "https://www.ycombinator.com/companies/agave/jobs/uXThVB4-founding-marketing-lead",
   "snippet": "**tl;dr** Fresh off a $15M Series A led by Accel (total funding now $20M+), Agave is experiencing hockey-stick growth. We're hiring our first full-time marketin..."
  },
  {
@@ -10095,21 +10200,6 @@
   "snippet": "### **The Opportunity**  MedMe is building out a dedicated, in-house IT and internal security function to support our growing team. You'll step into a role with..."
  },
  {
-  "id": 107660,
-  "company": "Hypercubic",
-  "title": "Founder's Associate",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 1,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-02T14:18:14.203Z",
-  "link": "https://www.ycombinator.com/companies/hypercubic/jobs/6bh2SWK-founder-s-associate",
-  "snippet": "## **About the role**  You’ll work directly with the CEO as a force multiplier on the company’s highest-priority problems.  The role is intentionally broad. Dep..."
- },
- {
   "id": 107627,
   "company": "Arva AI",
   "title": "Head of Research",
@@ -10425,21 +10515,6 @@
   "snippet": "**GTM intern**  _Location: Paris 11, France_  _Duration: 6 months_  # **Hello, we’re nao Labs**  We are building an **open-source AI agent for data analytics**...."
  },
  {
-  "id": 107267,
-  "company": "HitPay",
-  "title": "Product Manager, Risk and Fraud",
-  "role": "product",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 6,
-  "team": 42,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-01T03:51:23.564Z",
-  "link": "https://www.ycombinator.com/companies/hitpay/jobs/1I62LwD-product-manager-risk-and-fraud",
-  "snippet": "================================================================================  ABOUT HITPAY  ================================================================..."
- },
- {
   "id": 107266,
   "company": "Klaimee",
   "title": "Growth Marketer (Intern) ",
@@ -10476,7 +10551,7 @@
   "role": "eng",
   "eng_type": "fs",
   "remote": "only",
-  "visa": "yes",
+  "visa": "none",
   "exp": 6,
   "team": 41,
   "sector": "B2B Software and Services",
@@ -11018,7 +11093,7 @@
   "remote": "yes",
   "visa": "possible",
   "exp": 3,
-  "team": 2,
+  "team": 4,
   "sector": "Industrials",
   "created": "2026-08-27T21:22:51.102Z",
   "link": "https://www.ycombinator.com/companies/relari/jobs/pjJ1WLP-data-operations-lead",
@@ -11033,7 +11108,7 @@
   "remote": "no",
   "visa": "possible",
   "exp": 0,
-  "team": 2,
+  "team": 4,
   "sector": "Industrials",
   "created": "2026-08-27T21:19:55.148Z",
   "link": "https://www.ycombinator.com/companies/relari/jobs/WfW1xjj-software-engineering-intern",
@@ -11048,7 +11123,7 @@
   "remote": "no",
   "visa": "possible",
   "exp": 3,
-  "team": 2,
+  "team": 4,
   "sector": "Industrials",
   "created": "2026-08-27T21:10:23.172Z",
   "link": "https://www.ycombinator.com/companies/relari/jobs/xoRkCNW-research-engineer-human-biomechanics",
@@ -11835,21 +11910,6 @@
   "snippet": "## **What we're building**  [**Jiga**](https://jiga.io/about-us) is on a mission to help the best hardware companies build faster.  The problem: engineers desig..."
  },
  {
-  "id": 106449,
-  "company": "Jiga",
-  "title": "Full Stack Product Engineer - Remote/Europe",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 0,
-  "team": 25,
-  "sector": "B2B Software and Services",
-  "created": "2026-08-25T16:54:05.779Z",
-  "link": "https://www.ycombinator.com/companies/jiga/jobs/OpM8CuF-full-stack-product-engineer-remote-europe",
-  "snippet": "## **What we're building**  [**Jiga**](https://jiga.io/about-us/) is on a mission to help engineers build physical products faster. Think `npm install` for mech..."
- },
- {
   "id": 106447,
   "company": "Jiga",
   "title": "Sales Development Representative (SDR) - Remote",
@@ -11878,6 +11938,21 @@
   "created": "2026-08-25T16:54:02.504Z",
   "link": "https://www.ycombinator.com/companies/jiga/jobs/ncLKacf-head-of-supplier-growth",
   "snippet": "## The mission  The US needs to reindustrialize. Defense programs and hardware startups run on custom mechanical parts, and most of those parts come from small ..."
+ },
+ {
+  "id": 106444,
+  "company": "Jiga",
+  "title": "Manufacturing / NPI Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 6,
+  "team": 25,
+  "sector": "B2B Software and Services",
+  "created": "2026-08-25T16:54:00.194Z",
+  "link": "https://www.ycombinator.com/companies/jiga/jobs/UCNnInE-manufacturing-npi-engineer",
+  "snippet": "## **What we're building**  Jiga is on a mission to help engineers build physical products faster.  The problem: engineers designing physical products waste wee..."
  },
  {
   "id": 106436,
@@ -12030,21 +12105,6 @@
   "snippet": "You'll own Clara's growth engine, supporting our mission by helping more patients discover Clara and turn to it for their day-to-day primary care needs. Landing..."
  },
  {
-  "id": 106310,
-  "company": "Pocket",
-  "title": "Founding Data Lead",
-  "role": "eng",
-  "eng_type": "data_sci",
-  "remote": "yes",
-  "visa": "possible",
-  "exp": 3,
-  "team": 35,
-  "sector": "Consumer",
-  "created": "2026-08-25T01:57:19.212Z",
-  "link": "https://www.ycombinator.com/companies/pocket/jobs/SDAImQ9-founding-data-lead",
-  "snippet": "### About the role  The owner of **Pocket’s data foundation and decision-making systems end to end**. You make our data reliable, accessible, and actionable acr..."
- },
- {
   "id": 106308,
   "company": "Artifact",
   "title": "Avionics Engineer",
@@ -12167,7 +12227,7 @@
  {
   "id": 105946,
   "company": "Autostep",
-  "title": "Founding Chief of Staff, GTM + Operations",
+  "title": "Founding GTM/SDR",
   "role": "operations",
   "eng_type": "",
   "remote": "no",
@@ -12176,7 +12236,7 @@
   "team": 1,
   "sector": "B2B Software and Services",
   "created": "2026-08-23T02:23:51.753Z",
-  "link": "https://www.ycombinator.com/companies/autostep/jobs/ySZUtf3-founding-chief-of-staff-gtm-operations",
+  "link": "https://www.ycombinator.com/companies/autostep/jobs/ySZUtf3-founding-gtm-sdr",
   "snippet": "# Mission  **Raise humanity’s starting point with every act of work.**  Humanity should not keep paying the cost of knowledge it has already created.  Autostep ..."
  },
  {
@@ -13410,21 +13470,6 @@
   "snippet": "# **Software Engineer**  ## **About Rivet**  Rivet is composable, open-source infrastructure for modern AI requirements. Everything we do is built with an empha..."
  },
  {
-  "id": 104558,
-  "company": "Hypercubic",
-  "title": "Founding Software Engineer - Backend",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-08-14T23:51:38.603Z",
-  "link": "https://www.ycombinator.com/companies/hypercubic/jobs/ombS9gf-founding-software-engineer-backend",
-  "snippet": "We are looking for a founding backend engineer with unusually strong engineering and design taste.  The world’s most critical infrastructure-banking, airlines, ..."
- },
- {
   "id": 104530,
   "company": "Overlap",
   "title": "GTM Internship",
@@ -13711,17 +13756,17 @@
  },
  {
   "id": 104228,
-  "company": "Lambda Robotics",
+  "company": "Runtime.si",
   "title": "Founding GTM",
   "role": "sales",
   "eng_type": "",
   "remote": "no",
   "visa": "yes",
   "exp": null,
-  "team": 6,
+  "team": 5,
   "sector": "Industrials",
   "created": "2026-08-13T07:04:46.244Z",
-  "link": "https://www.ycombinator.com/companies/lambda-robotics/jobs/UFzIOBo-founding-gtm",
+  "link": "https://www.ycombinator.com/companies/runtimesi/jobs/UFzIOBo-founding-gtm",
   "snippet": "Lambda Robotics builds robots for data-center operations and maintenance. We’re hiring our first GTM team member to turn customer interest and early pilots into..."
  },
  {
@@ -14115,6 +14160,21 @@
   "snippet": "We’re looking for a Design Engineer who can own the gap between design and engineering.  You’ll work across our product to design and build interfaces that feel..."
  },
  {
+  "id": 103717,
+  "company": "RevenueCat",
+  "title": "Senior CRO Designer, Paywalls and Funnels",
+  "role": "design",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 5,
+  "team": 160,
+  "sector": "B2B Software and Services",
+  "created": "2026-08-10T17:27:26.262Z",
+  "link": "https://www.ycombinator.com/companies/revenuecat/jobs/BchqeIi-senior-cro-designer-paywalls-and-funnels",
+  "snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown in..."
+ },
+ {
   "id": 103711,
   "company": "RevenueCat",
   "title": "Senior Product Marketing Manager",
@@ -14325,21 +14385,6 @@
   "snippet": "Regional / Remote (US) · Sales · \\~70% virtual, \\~30% in person · Full-time  **Craniometrix is building the care infrastructure that makes living with dementia ..."
  },
  {
-  "id": 103405,
-  "company": "KorrAI",
-  "title": "Geotechnical Engineer, Technical Assurance (AI Systems)",
-  "role": "science",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 3,
-  "team": 20,
-  "sector": "Industrials",
-  "created": "2026-08-07T22:03:33.425Z",
-  "link": "https://www.ycombinator.com/companies/korrai/jobs/Uq4tVEI-geotechnical-engineer-technical-assurance-ai-systems",
-  "snippet": "KorrAI builds TRAIL, software that geotechnical and closure engineers use to find and cross-reference what is already known about a site: instrumentation record..."
- },
- {
   "id": 103341,
   "company": "Raindrop",
   "title": "Sales Development Representative",
@@ -14488,21 +14533,6 @@
   "created": "2026-08-06T20:34:18.710Z",
   "link": "https://www.ycombinator.com/companies/pump-co/jobs/Q6Lg05D-brand-designer",
   "snippet": "**About the Role**  We’re hiring a&nbsp; **Brand Designer** to design and produce high-quality **visual and motion assets** for web, email, social, events, and ..."
- },
- {
-  "id": 103201,
-  "company": "General Astronautics",
-  "title": "Summer 2027 Engineering Internship/Co-op",
-  "role": "eng",
-  "eng_type": "mechanical",
-  "remote": "no",
-  "visa": "yes",
-  "exp": null,
-  "team": 2,
-  "sector": "Industrials",
-  "created": "2026-08-06T20:02:50.206Z",
-  "link": "https://www.ycombinator.com/companies/generalastro/jobs/7Yolgjv-summer-2027-engineering-internship-co-op",
-  "snippet": "General Astronautics was founded on the belief that the bottleneck to humanity's expansion into space is labor, not rockets or science. We build autonomous dext..."
  },
  {
   "id": 103198,
@@ -15466,17 +15496,17 @@
  },
  {
   "id": 102289,
-  "company": "Lambda Robotics",
+  "company": "Runtime.si",
   "title": "Founding Software Engineer, Robotics Infrastructure",
   "role": "eng",
   "eng_type": "be",
   "remote": "no",
   "visa": "yes",
   "exp": null,
-  "team": 6,
+  "team": 5,
   "sector": "Industrials",
   "created": "2026-07-30T23:32:33.516Z",
-  "link": "https://www.ycombinator.com/companies/lambda-robotics/jobs/0oIw1pj-founding-software-engineer-robotics-infrastructure",
+  "link": "https://www.ycombinator.com/companies/runtimesi/jobs/0oIw1pj-founding-software-engineer-robotics-infrastructure",
   "snippet": "Lambda Robotics builds autonomous systems for physical infrastructure. We’re looking for a founding software engineer to build the platform that turns individua..."
  },
  {
@@ -15518,7 +15548,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 3,
-  "team": 4,
+  "team": 32,
   "sector": "Consumer",
   "created": "2026-07-30T15:34:07.392Z",
   "link": "https://www.ycombinator.com/companies/rove/jobs/bJWUbv2-growth-engineer",
@@ -15793,21 +15823,6 @@
   "created": "2026-07-29T02:00:21.751Z",
   "link": "https://www.ycombinator.com/companies/soren/jobs/Q1niW87-growth-intern",
   "snippet": "# Growth Intern  We're hiring a Growth Intern.  As an early growth intern, you'll work alongside our founding team to help Soren grow, from building customer re..."
- },
- {
-  "id": 101999,
-  "company": "Soren",
-  "title": "Software Engineer Intern",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": null,
-  "team": null,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-29T01:58:13.869Z",
-  "link": "https://www.ycombinator.com/companies/soren/jobs/EDFFwRC-software-engineer-intern",
-  "snippet": "# Software Engineer Intern  We're hiring a Software Engineer Intern.  As an early engineering intern, you'll work alongside our founding team to build AI-powere..."
  },
  {
   "id": 101997,
@@ -16618,21 +16633,6 @@
   "created": "2026-07-23T10:09:33.200Z",
   "link": "https://www.ycombinator.com/companies/encord/jobs/A0pg6BM-finance-business-partner-gtm",
   "snippet": "## **About us**  Encord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annot..."
- },
- {
-  "id": 100730,
-  "company": "Bloomy",
-  "title": "Founding Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 1,
-  "sector": "Education",
-  "created": "2026-07-23T02:13:22.617Z",
-  "link": "https://www.ycombinator.com/companies/bloomy/jobs/7Kz07Zt-founding-engineer",
-  "snippet": "**About Bloomy**\r \r Bloomy is an AI tutor and curriculum for K-12 students. Our student users are learning approximately 2x faster in early pilots, and students..."
  },
  {
   "id": 100699,
@@ -19095,21 +19095,6 @@
   "snippet": "## **About Rovi Health**      Rovi is an AI-powered care concierge and virtual clinic for employer health plans. We monitor clinical data in real time, catch ex..."
  },
  {
-  "id": 97831,
-  "company": "Hyperbound",
-  "title": "Senior Product Designer",
-  "role": "design",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 30,
-  "sector": "B2B Software and Services",
-  "created": "2026-06-30T22:17:41.918Z",
-  "link": "https://www.ycombinator.com/companies/hyperbound/jobs/QlSrtXk-senior-product-designer",
-  "snippet": "**What we're building**  Hyperbound is the Revenue Activation Platform, the agentic OS for sales. We invented AI sales roleplay, and we help enterprise sales te..."
- },
- {
   "id": 97830,
   "company": "Relling",
   "title": "Business Operations Intern",
@@ -19131,8 +19116,8 @@
   "role": "sales",
   "eng_type": "",
   "remote": "only",
-  "visa": "yes",
-  "exp": 1,
+  "visa": "none",
+  "exp": 3,
   "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-06-30T16:20:48.133Z",
@@ -19363,6 +19348,21 @@
   "created": "2026-06-27T15:02:04.467Z",
   "link": "https://www.ycombinator.com/companies/arva-ai/jobs/XlzAjf0-enterprise-account-executive",
   "snippet": "**Location:** In person, NYC  **Type:** Full-Time  **Note on Salary:** For exceptional candidates with strong product impact and relevant experience, we are ope..."
+ },
+ {
+  "id": 97533,
+  "company": "Revion",
+  "title": "Founding Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "yes",
+  "visa": "none",
+  "exp": 0,
+  "team": 10,
+  "sector": "B2B Software and Services",
+  "created": "2026-06-27T04:30:01.231Z",
+  "link": "https://www.ycombinator.com/companies/revion/jobs/4ahU7yI-founding-engineer",
+  "snippet": "**Intro**  You're a versatile engineer who's as comfortable talking to customers as shipping code. You'll blend customer engineering with hands-on development: ..."
  },
  {
   "id": 97531,
@@ -20115,21 +20115,6 @@
   "snippet": "# **Founding Applied ML Engineer**  ## **About Wildcard**  Wildcard is the agentic commerce optimization platform for ecommerce and retail brands.  We help bran..."
  },
  {
-  "id": 97184,
-  "company": "Pocket",
-  "title": "Customer Support Specialist",
-  "role": "support",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 0,
-  "team": 35,
-  "sector": "Consumer",
-  "created": "2026-06-21T00:59:03.375Z",
-  "link": "https://www.ycombinator.com/companies/pocket/jobs/o9R0IZV-customer-support-specialist",
-  "snippet": "Frontline customer support for Pocket. You're who customers reach when they need help, and the one who makes sure they leave the conversation better off than th..."
- },
- {
   "id": 97183,
   "company": "Pocket",
   "title": "Customer Support Lead",
@@ -20337,7 +20322,7 @@
   "sector": "Healthcare",
   "created": "2026-06-18T15:06:29.587Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/9PTzUvR-technical-recruiter",
-  "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
+  "snippet": "### **About Us**  Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you've..."
  },
  {
   "id": 96990,
@@ -22110,6 +22095,21 @@
   "snippet": "atopile is for builders. We look for people with unusually high agency, deep technical expertise, and genuine ownership. The strongest candidates care about out..."
  },
  {
+  "id": 95652,
+  "company": "Serif Health",
+  "title": "Senior Fullstack (VueJS/Golang) Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 11,
+  "team": 20,
+  "sector": "Healthcare",
+  "created": "2026-06-01T16:02:24.050Z",
+  "link": "https://www.ycombinator.com/companies/serif-health/jobs/wzbNxeM-senior-fullstack-vuejs-golang-engineer",
+  "snippet": "At **Serif Health**, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, eas..."
+ },
+ {
   "id": 95618,
   "company": "Thera",
   "title": "Marketing Lead",
@@ -22153,21 +22153,6 @@
   "created": "2026-05-30T22:11:16.679Z",
   "link": "https://www.ycombinator.com/companies/nozomio/jobs/EaWLjdN-founding-member-of-technical-staff",
   "snippet": "We are Nozomio. We raised a $6.2M seed led by CRV, backed by BoxGroup, LocalGlobe, Y Combinator, Paul Graham, Gokul Rajaram, the CTO of Spotify, the founders of..."
- },
- {
-  "id": 95576,
-  "company": "Vela",
-  "title": "Founding Engineer @ Vela | Solving Scheduling | India",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 0,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2026-05-30T07:27:09.951Z",
-  "link": "https://www.ycombinator.com/companies/vela/jobs/qoFg7EJ-founding-engineer-vela-solving-scheduling-india",
-  "snippet": "## Who are we?  We are a team of obsessive thinkers, builders, and doers from Harvard, CMU, UChicago, UPenn, GT, and more. We have published papers, own patents..."
  },
  {
   "id": 95570,
@@ -22928,7 +22913,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 1,
-  "team": 2,
+  "team": 5,
   "sector": "Consumer",
   "created": "2026-05-21T03:46:23.178Z",
   "link": "https://www.ycombinator.com/companies/creativemode/jobs/fRFB52S-founding-growth-content",
@@ -24180,21 +24165,6 @@
   "snippet": "**About Flagright:**  Flagright is an AI operating system for financial crime compliance used globally by Fortune 500 companies, large banks, fintechs, and fast..."
  },
  {
-  "id": 94396,
-  "company": "Rove",
-  "title": "Director of Business Development, Earn",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 4,
-  "sector": "Consumer",
-  "created": "2026-05-07T23:09:17.880Z",
-  "link": "https://www.ycombinator.com/companies/rove/jobs/VAIf2SQ-director-of-business-development-earn",
-  "snippet": "A Director of Business Development, Earn at Rove will lead the partnerships strategy and execution behind the ways users earn Rove Miles outside of travel. This..."
- },
- {
   "id": 94395,
   "company": "Rove",
   "title": "Product Lead, Earn",
@@ -24203,7 +24173,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 6,
-  "team": 4,
+  "team": 32,
   "sector": "Consumer",
   "created": "2026-05-07T23:05:06.345Z",
   "link": "https://www.ycombinator.com/companies/rove/jobs/Rw5p3tV-product-lead-earn",
@@ -26775,21 +26745,6 @@
   "snippet": "**Role Overview**  Grailed is looking for a Senior Machine Learning Engineer to drive personalization, recommendation, and product marketplace improvement effor..."
  },
  {
-  "id": 92494,
-  "company": "Revion",
-  "title": "Founding Forward Deployed Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "yes",
-  "visa": "possible",
-  "exp": 0,
-  "team": 10,
-  "sector": "B2B Software and Services",
-  "created": "2026-03-25T22:12:20.388Z",
-  "link": "https://www.ycombinator.com/companies/revion/jobs/1z9Zy5a-founding-forward-deployed-engineer",
-  "snippet": "This role requires both strong technical skills and the ability to communicate effectively with a range of stakeholders. You're a versatile engineer who thrives..."
- },
- {
   "id": 92489,
   "company": "Voltic",
   "title": "Asymmetric Upside Engineering",
@@ -26862,7 +26817,7 @@
   "sector": "Healthcare",
   "created": "2026-03-25T02:22:24.363Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/jV2UFTN-strategic-projects-lead",
-  "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
+  "snippet": "### **About Us**  Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you've..."
  },
  {
   "id": 92460,
@@ -26877,7 +26832,7 @@
   "sector": "Healthcare",
   "created": "2026-03-25T01:01:50.749Z",
   "link": "https://www.ycombinator.com/companies/metriport/jobs/wV6tPZ2-product-design",
-  "snippet": "### **About Us**  \\ Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you'..."
+  "snippet": "### **About Us**  Medical data exchange is one of the biggest unsolved problems in US healthcare. If you've spent any real time in the healthcare system, you've..."
  },
  {
   "id": 92455,
@@ -26908,21 +26863,6 @@
   "created": "2026-03-24T22:11:56.611Z",
   "link": "https://www.ycombinator.com/companies/flock-safety/jobs/8WgCgM9-operations-research-scientist",
   "snippet": "**The Opportunity**   As an Operations Research Analyst, you will use advanced optimization modeling techniques to build and deploy prescriptive tools to help d..."
- },
- {
-  "id": 92450,
-  "company": "Nango",
-  "title": "Developer Relations (Founding)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 6,
-  "sector": "B2B Software and Services",
-  "created": "2026-03-24T21:58:12.620Z",
-  "link": "https://www.ycombinator.com/companies/nango/jobs/oiAdChY-developer-relations-founding",
-  "snippet": "Nango is AI infrastructure to connect agents to 900+ APIs.  Please find more details &amp; apply for the position [here.](https://nango.dev/careers) We don’t re..."
  },
  {
   "id": 92449,
@@ -30203,7 +30143,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 6,
-  "team": 130,
+  "team": 140,
   "sector": "B2B Software and Services",
   "created": "2026-01-20T22:51:42.684Z",
   "link": "https://www.ycombinator.com/companies/middesk/jobs/KoVL7IY-enterprise-account-executive",
@@ -30253,36 +30193,6 @@
   "created": "2026-01-20T19:20:43.846Z",
   "link": "https://www.ycombinator.com/companies/posh/jobs/O6hIbDB-commercial-and-industrial-sales-manager",
   "snippet": "**About Posh Energy**  Posh Energy is a leading provider of innovative battery energy storage solutions, helping commercial and industrial clients optimize thei..."
- },
- {
-  "id": 88929,
-  "company": "Middesk",
-  "title": "Product Designer ",
-  "role": "design",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 130,
-  "sector": "B2B Software and Services",
-  "created": "2026-01-20T18:28:51.989Z",
-  "link": "https://www.ycombinator.com/companies/middesk/jobs/FLl8naJ-product-designer",
-  "snippet": "**About Middesk:**  Middesk makes it easier for businesses to work together. Since 2018, we’ve been transforming business identity verification, replacing slow,..."
- },
- {
-  "id": 88921,
-  "company": "Middesk",
-  "title": "Software Engineer, Infrastructure ",
-  "role": "eng",
-  "eng_type": "be",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 6,
-  "team": 130,
-  "sector": "B2B Software and Services",
-  "created": "2026-01-20T18:28:49.525Z",
-  "link": "https://www.ycombinator.com/companies/middesk/jobs/SfxFAIW-software-engineer-infrastructure",
-  "snippet": "**About Middesk:**  Middesk makes it easier for businesses to work together. Since 2018, we’ve been transforming business identity verification, replacing slow,..."
  },
  {
   "id": 88877,
@@ -31273,6 +31183,21 @@
   "created": "2025-12-26T06:01:24.760Z",
   "link": "https://www.ycombinator.com/companies/unsiloed-ai/jobs/SJCT4d4-founding-ml-researcher",
   "snippet": "We are hiring a Founding ML Researcher in San Francisco.  We are building a small, talent-dense team. This role will define the engineering archetype at Unsiloe..."
+ },
+ {
+  "id": 87774,
+  "company": "Hypercubic",
+  "title": "Founding Software Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2025-12-24T22:17:33.514Z",
+  "link": "https://www.ycombinator.com/companies/hypercubic/jobs/8uytDI0-founding-software-engineer",
+  "snippet": "The world’s most critical infrastructure-banking, airlines, utilities-is held together by millions of lines of COBOL and mainframe logic written decades ago. Th..."
  },
  {
   "id": 87721,
@@ -34050,21 +33975,6 @@
   "snippet": "As engineer #1, you will work directly with the founders to build the product and shape our culture. You’ll wear many hats and touch everything from AI systems,..."
  },
  {
-  "id": 82601,
-  "company": "Rulebase",
-  "title": "Member of Technical Staff",
-  "role": "eng",
-  "eng_type": "ml",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 4,
-  "sector": "B2B Software and Services",
-  "created": "2025-09-30T14:57:56.544Z",
-  "link": "https://www.ycombinator.com/companies/rulebase/jobs/NsStyAT-member-of-technical-staff",
-  "snippet": "**Why you should join us**  * We are building an autonomous factory for financial service agents, with real-time feedback loops from some of the largest financi..."
- },
- {
   "id": 82588,
   "company": "Verto",
   "title": "Sales Manager",
@@ -34393,6 +34303,21 @@
   "created": "2025-09-18T20:22:55.993Z",
   "link": "https://www.ycombinator.com/companies/pair-team/jobs/wr0unYp-director-of-care-operations",
   "snippet": "## **About Pair Team**  At Pair Team, we’re an innovative, mission-driven company reimagining how Medicaid serves the most underserved populations. As a tech-en..."
+ },
+ {
+  "id": 81962,
+  "company": "Beam",
+  "title": "Head of GTM and Growth",
+  "role": "sales",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 5,
+  "sector": "B2B Software and Services",
+  "created": "2025-09-18T16:51:57.523Z",
+  "link": "https://www.ycombinator.com/companies/beam/jobs/6rKakUF-head-of-gtm-and-growth",
+  "snippet": "[Beam](https://beam.cloud) is building the fastest cloud runtime for AI. Our serverless runtime launches GPU-backed containers in under one second, powering app..."
  },
  {
   "id": 81917,
@@ -35985,21 +35910,6 @@
   "snippet": "**Company Description**\r \r Photonium builds next-generation design software for optical systems. Manually designing optical hardware is a costly bottleneck for ..."
  },
  {
-  "id": 78968,
-  "company": "GoGoGrandparent",
-  "title": "Backend Engineer",
-  "role": "eng",
-  "eng_type": "be",
-  "remote": "only",
-  "visa": "none",
-  "exp": 6,
-  "team": 50,
-  "sector": "Consumer",
-  "created": "2025-07-21T03:07:15.495Z",
-  "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-  "snippet": "**About the Company**  GoGoGrandparent’s (GoGo’s) mission is to help older adults live independently in their home for as long as possible. We do that by tailor..."
- },
- {
   "id": 78960,
   "company": "Coast",
   "title": "AI Engineer",
@@ -37410,21 +37320,6 @@
   "snippet": "### About us 🙂\r \r Every week, someone at a company somewhere spends hours manually downloading invoices, updating CRMs, applying to jobs, submitting government ..."
  },
  {
-  "id": 76066,
-  "company": "zudo.work",
-  "title": "Marketing Lead, Realtor Product",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 1,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2025-05-06T02:12:38.230Z",
-  "link": "https://www.ycombinator.com/companies/zudowork/jobs/3ill5wh-marketing-lead-realtor-product",
-  "snippet": "We are looking to grow our realtor product, which automatically converts a listing into a professional home walk through video, so realtors get 4X more inquirie..."
- },
- {
   "id": 76061,
   "company": "Slash",
   "title": "Product Engineer: Core Banking",
@@ -38700,21 +38595,6 @@
   "snippet": "# Role Description\r \r We are seeking a highly organized and proactive **Operations Coordinator** to support and optimize our day-to-day operations. The ideal ca..."
  },
  {
-  "id": 71910,
-  "company": "zudo.work",
-  "title": "Founding Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 3,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2025-01-10T15:54:21.402Z",
-  "link": "https://www.ycombinator.com/companies/zudowork/jobs/oKk8BIi-founding-engineer",
-  "snippet": "At [LazyCreator.ai](http://LazyCreator.ai), we are building a suite of tools to make the content creation process frictionless. \r \r 1. Our flagship product is [..."
- },
- {
   "id": 71827,
   "company": "Arpari",
   "title": "Sales Development Representative (NYC)",
@@ -39478,21 +39358,6 @@
   "created": "2024-10-04T11:13:25.197Z",
   "link": "https://www.ycombinator.com/companies/wefunder/jobs/oC8Vfe1-full-stack-product-engineer",
   "snippet": "## About Wefunder  We've raised over a billion dollars for thousands of founders in all 50 states, from ostrich farms to unicorns like Substack, Replit, & Mercu..."
- },
- {
-  "id": 69574,
-  "company": "zudo.work",
-  "title": "Marketing Lead, Realtor Product",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "possible",
-  "exp": null,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2024-09-26T15:55:04.600Z",
-  "link": "https://www.ycombinator.com/companies/zudowork/jobs/dm2affP-marketing-lead-realtor-product",
-  "snippet": "We are looking to grow our realtor product, which automatically converts a listing into a professional home walk through video, so realtors get 4X more inquirie..."
  },
  {
   "id": 69572,
@@ -41278,21 +41143,6 @@
   "created": "2024-01-04T00:18:16.146Z",
   "link": "https://www.ycombinator.com/companies/pillar-2/jobs/ecOEVRF-customer-success-manager",
   "snippet": "Pillar is actively looking for someone who loves to help others succeed while providing scalable support (via content) to users looking for support in launching..."
- },
- {
-  "id": 63954,
-  "company": "Provision",
-  "title": "Fullstack Software Engineer (In-person, Toronto, Canada)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "none",
-  "exp": 3,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2024-01-02T15:59:35.952Z",
-  "link": "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada",
-  "snippet": "## **About Provision**  Provision is automating construction. We help contractors speed up their work, reduce risk, and eliminate errors that cost the industry ..."
  },
  {
   "id": 63900,
