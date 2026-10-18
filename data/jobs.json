@@ -1,5 +1,125 @@
 [
  {
+  "id": 117299,
+  "company": "Solum Health",
+  "title": "Founnding Forward Deployed Engineer (FDE) - Healthcare Operations",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "yes",
+  "visa": "possible",
+  "exp": 3,
+  "team": 3,
+  "sector": "Healthcare",
+  "created": "2026-10-18T01:22:54.597Z",
+  "link": "https://www.ycombinator.com/companies/solum-health/jobs/rt2Hgq1-founnding-forward-deployed-engineer-fde-healthcare-operations",
+  "snippet": "## **About Solum Health**  Solum automates the insurance work behind outpatient care: verifying benefits, getting prior authorizations approved, and finding cov..."
+ },
+ {
+  "id": 117263,
+  "company": "Corgi Insurance",
+  "title": "General Manager Corgi Cafe",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 250,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-17T20:40:52.276Z",
+  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/yg4b6qg-general-manager-corgi-cafe",
+  "snippet": "**Title:** General Manager, Corgi Cafe (24/7 Coffee Shop), New York City NY, San Francisco CA  \\*\\* Certified Food Protection Manager (CFPM) REQUIRED  \\--  **Lo..."
+ },
+ {
+  "id": 117235,
+  "company": "Astranis",
+  "title": "Team Lead - Recruiting Coordination",
+  "role": "recruiting",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-10-17T14:18:08.877Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/LoUqNh3-team-lead-recruiting-coordination",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
+ },
+ {
+  "id": 117234,
+  "company": "Astranis",
+  "title": "Senior Technical Program Manager",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-10-17T14:18:07.985Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/OJpvs0w-senior-technical-program-manager",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
+ },
+ {
+  "id": 117233,
+  "company": "Kastle",
+  "title": "Technical Recruiter (Contract)",
+  "role": "recruiting",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 15,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-17T14:16:23.882Z",
+  "link": "https://www.ycombinator.com/companies/kastle/jobs/tDTfKw8-technical-recruiter-contract",
+  "snippet": "## **About Kastle**  Kastle is building the AI employee for banks. We work with some of America's financial institutions, helping them scale their contact cente..."
+ },
+ {
+  "id": 117232,
+  "company": "AssemblyAI",
+  "title": "Software Engineer, Agent Experience",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 65,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-17T14:16:23.725Z",
+  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/4hBaCUb-software-engineer-agent-experience",
+  "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference..."
+ },
+ {
+  "id": 117231,
+  "company": "Ultra",
+  "title": "Head of Pilot Operations",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 5,
+  "team": 4,
+  "sector": "Industrials",
+  "created": "2026-10-17T14:16:22.141Z",
+  "link": "https://www.ycombinator.com/companies/ultra/jobs/nXjHf7e-head-of-pilot-operations",
+  "snippet": "# About Ultra  Ultra builds industrial AI robots that are working in the real world today. Our robots automate mission-critical warehouse labor end-to-end, star..."
+ },
+ {
+  "id": 117230,
+  "company": "RADAR",
+  "title": "Senior Manager, Customer Experience",
+  "role": "support",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 120,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-17T14:16:08.716Z",
+  "link": "https://www.ycombinator.com/companies/radar/jobs/gB06RvT-senior-manager-customer-experience",
+  "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
+ },
+ {
   "id": 117197,
   "company": "Asha Health",
   "title": "Staff Software Engineer, AI Agents",
@@ -735,6 +855,21 @@
   "snippet": "The Role\\ We are hiring a Product Designer to own the look, feel, and flow of the Thera product. This is a hands-on role for someone who has designed complex pr..."
  },
  {
+  "id": 116544,
+  "company": "Durate",
+  "title": "Founding Full Stack Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 3,
+  "sector": "Healthcare",
+  "created": "2026-10-14T22:54:52.209Z",
+  "link": "https://www.ycombinator.com/companies/durate/jobs/IxpQj2P-founding-full-stack-engineer",
+  "snippet": "Full-time, in person in San Francisco. First engineering hire, working directly with both founders (both technical) and with our customers.  ### About Durate  D..."
+ },
+ {
   "id": 116543,
   "company": "Lamb Labs",
   "title": "Founding ASIC Engineer (Architecture & RTL)",
@@ -990,21 +1125,6 @@
   "snippet": "## We're Ooak Data  Ooak Data turns company data into training data for AI agents.  Frontier labs can train models to reason. They cannot train them to work: na..."
  },
  {
-  "id": 116456,
-  "company": "Astranis",
-  "title": "Employee Success Partner (HRBP)",
-  "role": "recruiting",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-10-14T14:18:08.949Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/XbSIw7y-employee-success-partner-hrbp",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
- },
- {
   "id": 116455,
   "company": "Whatnot",
   "title": "Business Recruiter, Operations ",
@@ -1202,8 +1322,8 @@
  {
   "id": 116439,
   "company": "Laminar",
-  "title": "Founding Talent Partner, Salesforce Expert Network",
-  "role": "sales",
+  "title": "Founding Talent Partner",
+  "role": "operations",
   "eng_type": "",
   "remote": "only",
   "visa": "yes",
@@ -1211,7 +1331,7 @@
   "team": 15,
   "sector": "B2B Software and Services",
   "created": "2026-10-14T14:16:14.155Z",
-  "link": "https://www.ycombinator.com/companies/laminar-com/jobs/hGSGGGi-founding-talent-partner-salesforce-expert-network",
+  "link": "https://www.ycombinator.com/companies/laminar-com/jobs/hGSGGGi-founding-talent-partner",
   "snippet": "## About Laminar  Laminar helps enterprise teams unlock the power of AI inside their existing systems. We partner with leading companies to solve complex operat..."
  },
  {
@@ -3510,21 +3630,6 @@
   "snippet": "Turn raw multi-camera footage into the 3D, verified datasets that frontier robotics labs train on.  ### About Hub  Hub is one of the fastest-growing data compan..."
  },
  {
-  "id": 114524,
-  "company": "Hub",
-  "title": "Community & Social Media Manager JD",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 3,
-  "team": 40,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-06T15:43:09.063Z",
-  "link": "https://www.ycombinator.com/companies/hub/jobs/8meFhEJ-community-social-media-manager-jd",
-  "snippet": "Hub provides custom robot teaching and data collection services tailored to specific real-world environments and focuses on bridging robot learning gaps by prov..."
- },
- {
   "id": 114506,
   "company": "Whatnot",
   "title": "Sales Manager (French-speaking)",
@@ -3553,21 +3658,6 @@
   "created": "2026-10-06T14:18:08.360Z",
   "link": "https://www.ycombinator.com/companies/whatnot/jobs/KCImSUX-lead-brand-designer",
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
- },
- {
-  "id": 114502,
-  "company": "Astranis",
-  "title": "Senior Information Systems Security Manager (ISSM)",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-10-06T14:18:01.987Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/TcubYfh-senior-information-systems-security-manager-issm",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
  },
  {
   "id": 114499,
@@ -4498,21 +4588,6 @@
   "created": "2026-10-02T14:16:34.339Z",
   "link": "https://www.ycombinator.com/companies/retell-ai/jobs/WyhQpEi-outbound-talent-sourcer-recruiting-sdr",
   "snippet": "## **ABOUT RETELL AI**  Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Ret..."
- },
- {
-  "id": 113502,
-  "company": "Ultra",
-  "title": "Data Operations Associate",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 1,
-  "team": 4,
-  "sector": "Industrials",
-  "created": "2026-10-02T14:16:23.012Z",
-  "link": "https://www.ycombinator.com/companies/ultra/jobs/9jPJKd3-data-operations-associate",
-  "snippet": "# About Ultra  Ultra builds industrial AI robots that are working in the real world today. Our robots automate mission-critical warehouse labor end-to-end, star..."
  },
  {
   "id": 113468,
@@ -5550,21 +5625,6 @@
   "snippet": "Polymath Robotics builds autonomy software for industrial vehicles. We make it possible to automate vehicles like tractors, bulldozers, haul trucks, and other h..."
  },
  {
-  "id": 112646,
-  "company": "Hub",
-  "title": "Account Manager",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 3,
-  "team": 40,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-29T00:07:07.177Z",
-  "link": "https://www.ycombinator.com/companies/hub/jobs/GQVXA5f-account-manager",
-  "snippet": "Own Hub's network of data partners: the companies that collect, label and check data with us, and bring us deals.  ### About Hub  Hub is one of the fastest-grow..."
- },
- {
   "id": 112644,
   "company": "Weave",
   "title": "Founding Business Development Representative",
@@ -6225,21 +6285,6 @@
   "snippet": "## About Kastle  Kastle is building the AI employee for banks. We work with some of America's largest financial institutions, helping them scale their contact c..."
  },
  {
-  "id": 112055,
-  "company": "AssemblyAI",
-  "title": "Finance Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 65,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-25T14:17:45.673Z",
-  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/1At8aGU-finance-engineer",
-  "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference..."
- },
- {
   "id": 112051,
   "company": "Ooak Data",
   "title": "Head of Engineering ",
@@ -6480,21 +6525,6 @@
   "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
  },
  {
-  "id": 111983,
-  "company": "RADAR",
-  "title": "Customer Support Specialist",
-  "role": "support",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 120,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-24T17:48:45.474Z",
-  "link": "https://www.ycombinator.com/companies/radar/jobs/w4bUjPF-customer-support-specialist",
-  "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
- },
- {
   "id": 111974,
   "company": "SafetyWing",
   "title": "Care Navigator",
@@ -6585,18 +6615,18 @@
   "snippet": "## About Us  Coach is building the AI coach for the physical world. Starting with in-person sales.  For centuries, field organizations have relied on layers of ..."
  },
  {
-  "id": 111821,
+  "id": 111820,
   "company": "COACH",
-  "title": "Founding Product Engineer",
+  "title": "Founding AI Engineer",
   "role": "eng",
-  "eng_type": "fs",
+  "eng_type": "ai",
   "remote": "no",
   "visa": "yes",
   "exp": 6,
   "team": 4,
   "sector": "B2B Software and Services",
-  "created": "2026-09-24T09:41:49.050Z",
-  "link": "https://www.ycombinator.com/companies/ai-coach/jobs/Zft5Jk7-founding-product-engineer",
+  "created": "2026-09-24T09:11:42.456Z",
+  "link": "https://www.ycombinator.com/companies/ai-coach/jobs/VHrbq7B-founding-ai-engineer",
   "snippet": "## About Us  Coach is building the AI coach for the physical world. Starting with in-person sales.  For centuries, field organizations have relied on layers of ..."
  },
  {
@@ -7700,7 +7730,7 @@
   "title": "Enterprise Solution Architect",
   "role": "operations",
   "eng_type": "",
-  "remote": "no",
+  "remote": "yes",
   "visa": "yes",
   "exp": 6,
   "team": 7,
@@ -7843,21 +7873,6 @@
   "created": "2026-09-17T20:25:27.546Z",
   "link": "https://www.ycombinator.com/companies/luca-iq/jobs/U8IX0ke-ai-engineer",
   "snippet": "Professional tax preparation begins with a messy set of documents and ends with a return that must be accurate. Luca IQ is building the modern tax engine and ap..."
- },
- {
-  "id": 110610,
-  "company": "Corgi Insurance",
-  "title": "Project Manager (Operations Team)",
-  "role": "operations",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "possible",
-  "exp": 1,
-  "team": 250,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-17T19:59:52.776Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/z4GNCym-project-manager-operations-team",
-  "snippet": "**About Corgi**  Corgi is vertically integrating the entire insurance industry. We design, underwrite, price, and issue insurance directly: no brokers, no third..."
  },
  {
   "id": 110600,
@@ -10260,21 +10275,6 @@
   "snippet": "### **About Flick**  [Flick](https://flick.art) is defining the future interface for professional AI-native filmmaking.  * Founded by an engineer who helped bui..."
  },
  {
-  "id": 108123,
-  "company": "Shasta Health",
-  "title": "Support Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "none",
-  "exp": 1,
-  "team": 5,
-  "sector": "Healthcare",
-  "created": "2026-09-05T01:42:11.974Z",
-  "link": "https://www.ycombinator.com/companies/shasta-health/jobs/Pc8OF2q-support-engineer",
-  "snippet": "We are looking for a support engineer to improve customers’ experiences with the Shasta Health AI agents.  This is a hands-on, customer-facing role at the inter..."
- },
- {
   "id": 108122,
   "company": "Opalite Health",
   "title": "Founding Technical GTM",
@@ -10400,7 +10400,7 @@
   "title": "Sr AI Software Engineer",
   "role": "eng",
   "eng_type": "fs",
-  "remote": "no",
+  "remote": "yes",
   "visa": "yes",
   "exp": 5,
   "team": 7,
@@ -10415,7 +10415,7 @@
   "title": "Product Manager",
   "role": "product",
   "eng_type": "",
-  "remote": "no",
+  "remote": "yes",
   "visa": "yes",
   "exp": 5,
   "team": 7,
@@ -12975,21 +12975,6 @@
   "snippet": "We're hiring our **first GTM hire**: a founding, full-cycle Account Executive to own the US market. This is not a hand-off role and not a role with a playbook w..."
  },
  {
-  "id": 105746,
-  "company": "Codingal",
-  "title": "Student Ops Intern",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "none",
-  "exp": null,
-  "team": 100,
-  "sector": "Education",
-  "created": "2026-08-21T13:12:44.017Z",
-  "link": "https://www.ycombinator.com/companies/codingal/jobs/zzPMH1Z-student-ops-intern",
-  "snippet": "Codingal ([www.codingal.com](http://www.codingal.com)) is a global leader in online coding education for kids and teens, offering live, interactive classes taug..."
- },
- {
   "id": 105715,
   "company": "Zippi",
   "title": "Growth Designer",
@@ -14715,21 +14700,6 @@
   "snippet": "We're building a new class of Scientific Processing Units (SPUs) to push the boundaries of High-Performance Computing (HPC). In this role, you'll develop and op..."
  },
  {
-  "id": 103734,
-  "company": "Lance",
-  "title": "Design Engineer",
-  "role": "design",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 10,
-  "sector": "B2B Software and Services",
-  "created": "2026-08-10T21:58:48.978Z",
-  "link": "https://www.ycombinator.com/companies/lance/jobs/Mu3kg0x-design-engineer",
-  "snippet": "We’re looking for a Design Engineer who can own the gap between design and engineering.  You’ll work across our product to design and build interfaces that feel..."
- },
- {
   "id": 103717,
   "company": "RevenueCat",
   "title": "Senior CRO Designer, Paywalls and Funnels",
@@ -15398,7 +15368,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 3,
-  "team": 50,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2026-08-05T19:47:51.469Z",
   "link": "https://www.ycombinator.com/companies/infisical/jobs/D4OujHu-solutions-engineer",
@@ -16305,21 +16275,6 @@
   "snippet": "## **Sales Development Representative**  **Remote · Full-time · Healthcare AI**  ### **About Solum**  Solum builds AI employees for healthcare practices. We sta..."
  },
  {
-  "id": 102002,
-  "company": "Solum Health",
-  "title": "FDE - Forward Deployment Engineer (Founding Team)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 3,
-  "team": 3,
-  "sector": "Healthcare",
-  "created": "2026-07-29T04:02:56.136Z",
-  "link": "https://www.ycombinator.com/companies/solum-health/jobs/VvWA2kO-fde-forward-deployment-engineer-founding-team",
-  "snippet": "### **About Solum**  Solum builds AI employees for healthcare practices. We started with front desk agents for therapy providers in the U.S., and today we autom..."
- },
- {
   "id": 102000,
   "company": "Soren",
   "title": "Growth Intern",
@@ -16693,21 +16648,6 @@
   "created": "2026-07-25T17:17:08.247Z",
   "link": "https://www.ycombinator.com/companies/vector-legal/jobs/8SrWHg5-ecvc-associate",
   "snippet": "Vector Legal is hiring junior / mid-level emerging company venture capital (ECVC) lawyers with (2-5 years of experience) to serve as both a client advisor and c..."
- },
- {
-  "id": 101159,
-  "company": "Hub",
-  "title": "Fullstack Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "yes",
-  "visa": "none",
-  "exp": 3,
-  "team": 40,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-25T11:58:44.106Z",
-  "link": "https://www.ycombinator.com/companies/hub/jobs/Dy8e5Gu-fullstack-engineer",
-  "snippet": "Own the platforms that collect, check and pay for the data behind the largest AI and robotics models.  ### About Hub  Hub is one of the fastest-growing data com..."
  },
  {
   "id": 101093,
@@ -20220,6 +20160,21 @@
   "snippet": "We're a small team building a live consumer credit product - a dynamic credit card: application funnel, KYC/credit decisioning, a double-entry ledger, statement..."
  },
  {
+  "id": 97385,
+  "company": "Tracecat",
+  "title": "Founding Engineer (Full-stack)",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": null,
+  "sector": "B2B Software and Services",
+  "created": "2026-06-24T03:49:31.185Z",
+  "link": "https://www.ycombinator.com/companies/tracecat/jobs/iatK7cl-founding-engineer-full-stack",
+  "snippet": "We are looking for full-stack generalist engineers who ship fast with an unrelenting bar for quality. You'll work directly with the founders every day, own user..."
+ },
+ {
   "id": 97381,
   "company": "Pocket",
   "title": "Research Engineer - Voice Intelligence",
@@ -23113,51 +23068,6 @@
   "created": "2026-05-22T22:28:36.179Z",
   "link": "https://www.ycombinator.com/companies/reform/jobs/EfKLPPO-forward-deployed-engineer-spanish-speaking",
   "snippet": "We are seeking a talented Forward Deployed Engineer who is passionate about leveraging technology to solve complex, real-world problems. In this role, you’ll em..."
- },
- {
-  "id": 95197,
-  "company": "Solum Health",
-  "title": "Founding Product Operations ",
-  "role": "product",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "possible",
-  "exp": 3,
-  "team": 3,
-  "sector": "Healthcare",
-  "created": "2026-05-22T06:26:29.671Z",
-  "link": "https://www.ycombinator.com/companies/solum-health/jobs/NNPzzm8-founding-product-operations",
-  "snippet": "\\ We are looking for a **Product Operation** to help us scale the bridge between operations, product, implementation, and customer success.  This is a full-time..."
- },
- {
-  "id": 95196,
-  "company": "Solum Health",
-  "title": "Founding Full Stack Engineer - Build the Future of Healthcare Automation",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 3,
-  "sector": "Healthcare",
-  "created": "2026-05-22T06:25:04.242Z",
-  "link": "https://www.ycombinator.com/companies/solum-health/jobs/dN6vfNk-founding-full-stack-engineer-build-the-future-of-healthcare-automation",
-  "snippet": "**Location:** In Person San Francisco   **Type:** Full-time  **Seniority:** Senior  **Compensation:** Competitive salary + meaningful equity  **About Solum Heal..."
- },
- {
-  "id": 95194,
-  "company": "Solum Health",
-  "title": "Founding Product Operations ",
-  "role": "product",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "possible",
-  "exp": 3,
-  "team": 3,
-  "sector": "Healthcare",
-  "created": "2026-05-22T00:03:12.256Z",
-  "link": "https://www.ycombinator.com/companies/solum-health/jobs/GKiAT9X-founding-product-operations",
-  "snippet": "\\ We are looking for a **Product Operation** to help us scale the bridge between operations, product, implementation, and customer success.  This is a full-time..."
  },
  {
   "id": 95169,
@@ -30473,7 +30383,7 @@
   "remote": "yes",
   "visa": "none",
   "exp": 3,
-  "team": 50,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2026-01-19T05:02:43.020Z",
   "link": "https://www.ycombinator.com/companies/infisical/jobs/wjckxpL-design-engineer",
@@ -30488,7 +30398,7 @@
   "remote": "yes",
   "visa": "none",
   "exp": 1,
-  "team": 50,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2026-01-19T05:01:16.245Z",
   "link": "https://www.ycombinator.com/companies/infisical/jobs/SHYFnFw-design-engineer-brand",
@@ -31546,7 +31456,7 @@
  },
  {
   "id": 87331,
-  "company": "Roger",
+  "company": "Augment Inc.",
   "title": "Head of Sales",
   "role": "sales",
   "eng_type": "",
@@ -31556,7 +31466,7 @@
   "team": 2,
   "sector": "B2B Software and Services",
   "created": "2025-12-17T16:50:30.834Z",
-  "link": "https://www.ycombinator.com/companies/roger-2/jobs/yIVxpJW-head-of-sales",
+  "link": "https://www.ycombinator.com/companies/augment-inc/jobs/yIVxpJW-head-of-sales",
   "snippet": "**About Roger**\\ Roger is an AI-powered SDR that automates outbound sales from end to end. We help small to mid-sized teams scale pipeline without stacking tool..."
  },
  {
@@ -36658,21 +36568,6 @@
   "created": "2025-07-01T08:54:38.870Z",
   "link": "https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-infra-agent-systems",
   "snippet": "## Overview\r \r Cua is building the infrastructure that enables general-purpose AI agents to safely and scalably use real computers and applications.\r \r We're a ..."
- },
- {
-  "id": 78099,
-  "company": "Solum Health",
-  "title": "Founding Full Stack Engineer - Build the Future of Healthcare Automation",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "none",
-  "exp": 3,
-  "team": 3,
-  "sector": "Healthcare",
-  "created": "2025-06-29T21:11:03.726Z",
-  "link": "https://www.ycombinator.com/companies/solum-health/jobs/iWrdrKg-founding-full-stack-engineer-build-the-future-of-healthcare-automation",
-  "snippet": "**Founding Full Stack Engineer - Build the Future of Healthcare Automation**\r \r **Location**: Remote (US Time Zones)\r \r **Type**: Full-time\r \r **Compensation**:..."
  },
  {
   "id": 78009,
