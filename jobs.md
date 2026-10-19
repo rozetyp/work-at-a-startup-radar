@@ -1,9 +1,18 @@
-# YC Work at a Startup - job radar (2026-10-18)
+# YC Work at a Startup - job radar (2026-10-19)
 
-2995 open roles. Metadata and a short snippet only; full descriptions live on the linked source page. Unofficial, links back to each posting.
+2994 open roles. Metadata and a short snippet only; full descriptions live on the linked source page. Unofficial, links back to each posting.
 
 | company | role | eng | remote | visa | exp | team | sector | link |
 |--|--|--|--|--|--|--|--|--|
+| Miyagi Labs | Content Creator & Growth Contract - Pakistan |  | only | yes | 0 | 2 | Education | [link](https://www.ycombinator.com/companies/miyagi-labs/jobs/L5qCuST-content-creator-growth-contract-pakistan) |
+| Asha Health | Member of Technical Staff, AI | fs | no | possible | 3 | 9 | Healthcare | [link](https://www.ycombinator.com/companies/asha-health/jobs/vqnrvk9-member-of-technical-staff-ai) |
+| Autumn | Founding Growth Lead |  | no | yes | 0 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/autumn-ai/jobs/YOGxz3Z-founding-growth-lead) |
+| Corgi Insurance | Account Executive |  | no | yes | 1 | 250 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/corgi-insurance/jobs/98uADco-account-executive) |
+| Wardstone | Head of Manufacturing |  | no | yes | 5 | 8 | Industrials | [link](https://www.ycombinator.com/companies/wardstone/jobs/nWEQ2kq-head-of-manufacturing) |
+| Wardstone | Propulsion Engineer | fs | no | yes | 0 | 8 | Industrials | [link](https://www.ycombinator.com/companies/wardstone/jobs/0GHovwc-propulsion-engineer) |
+| Wardstone | Business Development Intern |  | no | yes | 0 | 8 | Industrials | [link](https://www.ycombinator.com/companies/wardstone/jobs/7PA8Aqr-business-development-intern) |
+| Conduit | GTM Engineer |  | no | yes | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/diELayJ-gtm-engineer) |
+| Lance | Deployment Specialist (Contract) |  | no | yes | 0 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/lance/jobs/OBbE4y9-deployment-specialist-contract) |
 | Solum Health | Founnding Forward Deployed Engineer (FDE) - Healthcare Operations | ai | yes | possible | 3 | 3 | Healthcare | [link](https://www.ycombinator.com/companies/solum-health/jobs/rt2Hgq1-founnding-forward-deployed-engineer-fde-healthcare-operations) |
 | Corgi Insurance | General Manager Corgi Cafe |  | no | yes | 0 | 250 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/corgi-insurance/jobs/yg4b6qg-general-manager-corgi-cafe) |
 | Astranis | Team Lead - Recruiting Coordination |  | no | yes | 5 | 500 | Industrials | [link](https://www.ycombinator.com/companies/astranis/jobs/LoUqNh3-team-lead-recruiting-coordination) |
@@ -16,7 +25,6 @@
 | Rally | Sr. Growth Marketing Manager |  | only | yes | 6 | 33 | B2B Software and Services | [link](https://www.ycombinator.com/companies/rallyuxr/jobs/wp0EEnO-sr-growth-marketing-manager) |
 | Flick | Motion & Graphic Design Intern |  | only | yes | None | 2 | Consumer | [link](https://www.ycombinator.com/companies/flick/jobs/Dfvekvd-motion-graphic-design-intern) |
 | SiPhox Health | Manager, Clinical & Product Operations |  | no | none | 1 | 63 | Healthcare | [link](https://www.ycombinator.com/companies/siphox-health/jobs/0IOwcU4-manager-clinical-product-operations) |
-| Corgi Insurance | Account Manager |  | no | yes | 1 | 250 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/corgi-insurance/jobs/7o5TMzR-account-manager) |
 | SiPhox Health | Senior Customer Support Specialist and Trainer |  | yes | none | 3 | 63 | Healthcare | [link](https://www.ycombinator.com/companies/siphox-health/jobs/vXAeAvZ-senior-customer-support-specialist-and-trainer) |
 | Beam | Compute Trader | fs | no | yes | 3 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/beam/jobs/V4JS1as-compute-trader) |
 | Complif | Account Executive |  | no | yes | 3 | 45 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complif/jobs/pJlRe3Y-account-executive) |
@@ -158,7 +166,7 @@
 | Structured AI | Founding Infrastructure Engineer | devops | no | yes | 3 | 11 | Real Estate and Construction | [link](https://www.ycombinator.com/companies/structured-ai/jobs/vZdpLe1-founding-infrastructure-engineer) |
 | Truss | Junior Compliance Analyst |  | no | yes | 1 | 15 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/truss/jobs/jgKiRY1-junior-compliance-analyst) |
 | Abacum | Senior Partner Account Manager |  | only | yes | 5 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/SmKsWbn-senior-partner-account-manager) |
-| Abacum | People Operations Generalist |  | yes | yes | 0 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/kKVHK2J-people-operations-generalist) |
+| Abacum | People Operations Generalist |  | no | yes | 0 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/kKVHK2J-people-operations-generalist) |
 | Asha Health | Head of Product, AI | be | no | possible | 3 | 9 | Healthcare | [link](https://www.ycombinator.com/companies/asha-health/jobs/Qd1IZWf-head-of-product-ai) |
 | SalesPatriot | Engineering Lead (Warsaw) | fs | no | none | 6 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/salespatriot/jobs/dFfNIZr-engineering-lead-warsaw) |
 | Atrisa | Founding AI / ML Engineer | ml | no | none | 3 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/atrisa/jobs/we9oeZy-founding-ai-ml-engineer) |
@@ -174,8 +182,7 @@
 | Nash | Workplace & Employee Experience Manager |  | no | yes | 5 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/X8Q2cuz-workplace-employee-experience-manager) |
 | Mach9 | Perception Intern |  | no | yes | None | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/mach9/jobs/iaBeLx3-perception-intern) |
 | Novig | Senior Backend Engineer, Core Trading Systems | fs | no | yes | 5 | 55 | Consumer | [link](https://www.ycombinator.com/companies/novig/jobs/yphw6hx-senior-backend-engineer-core-trading-systems) |
-| Forage | Founding Engineer, Financial Products  | fs | yes | yes | 0 | 66 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/forage-2/jobs/bgnpRvn-founding-engineer-financial-products) |
-| Forage | New Grad, Software Engineer  | fs | no | yes | 0 | 66 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/forage-2/jobs/eB100Rk-new-grad-software-engineer) |
+| Forage | Founding Engineer, Financial Products  | fs | no | yes | 0 | 66 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/forage-2/jobs/bgnpRvn-founding-engineer-financial-products) |
 | RADAR | Senior Site Reliability Engineer | fs | no | yes | 5 | 120 | B2B Software and Services | [link](https://www.ycombinator.com/companies/radar/jobs/KG47M8F-senior-site-reliability-engineer) |
 | Orthogonal | Design Engineer | fs | no | yes | 0 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/orthogonal/jobs/30qoV7B-design-engineer) |
 | Orthogonal | Growth Lead |  | no | yes | 5 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/orthogonal/jobs/hnvSlmj-growth-lead) |
@@ -212,17 +219,17 @@
 | AgentMail | Founding Product Engineer | fs | no | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/agentmail/jobs/uBDHJL8-founding-product-engineer) |
 | Surface Labs | Chief of Staff |  | no | possible | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/surface-labs/jobs/utlT6TV-chief-of-staff) |
 | Zip | Solutions Integration Architect - SAP |  | only | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/TQVwska-solutions-integration-architect-sap) |
-| Zip | GTM Engineer | fs | yes | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/DtgGxK3-gtm-engineer) |
-| Zip | Senior Customer Success Manager - Technical Account Management |  | yes | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/VgLIU8s-senior-customer-success-manager-technical-account-management) |
-| Zip | Director of EMEA Field Marketing |  | yes | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/MBsFV0Y-director-of-emea-field-marketing) |
+| Zip | Strategic Finance Associate/Sr. Associate - Product |  | no | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/A3p0mzW-strategic-finance-associate-sr-associate-product) |
+| Zip | GTM Engineer | fs | no | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/DtgGxK3-gtm-engineer) |
+| Zip | Senior Customer Success Manager - Technical Account Management |  | no | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/VgLIU8s-senior-customer-success-manager-technical-account-management) |
+| Zip | Director of EMEA Field Marketing |  | no | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/MBsFV0Y-director-of-emea-field-marketing) |
+| Zip | Strategic Account Executive |  | no | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/l2wWsQB-strategic-account-executive) |
 | Zip | Principal Business Value Consultant |  | only | yes | 8 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/oamNuH2-principal-business-value-consultant) |
-| Zip | Senior Product Designer |  | yes | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/HYFxx6Q-senior-product-designer) |
-| Zip | Recruiting Coordinator |  | yes | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/85yboNY-recruiting-coordinator) |
-| Zip | Senior / Principal Product Manager, Contract Orchestration |  | yes | yes | 8 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/wDewwx3-senior-principal-product-manager-contract-orchestration) |
-| Zip | Technical Solutions Consultant - AUS |  | no | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/W4aJyjT-technical-solutions-consultant-aus) |
+| Zip | Senior Product Designer |  | no | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/HYFxx6Q-senior-product-designer) |
+| Zip | Recruiting Coordinator |  | no | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/85yboNY-recruiting-coordinator) |
+| Zip | Senior / Principal Product Manager, Contract Orchestration |  | no | yes | 8 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/wDewwx3-senior-principal-product-manager-contract-orchestration) |
 | Zip | Technical Recruiter |  | only | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/JzaWi5e-technical-recruiter) |
 | Zip | Senior Solution Engineer (Pre-Sales) | fs | only | yes | 5 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/Xm4czJM-senior-solution-engineer-pre-sales) |
-| Zip | Business Development Representative |  | no | yes | 0 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/Sm83MrD-business-development-representative) |
 | Wordware | Senior Platform Engineer | fs | no | yes | 5 | 15 | Consumer | [link](https://www.ycombinator.com/companies/wordware/jobs/Obb6hO2-senior-platform-engineer) |
 | Spice Data | Enterprise SDR |  | no | yes | 1 | None | B2B Software and Services | [link](https://www.ycombinator.com/companies/spice-data/jobs/m6nCtia-enterprise-sdr) |
 | Careforce | Customer Success & Delivery Lead - Careforce |  | yes | possible | 3 | 9 | Healthcare | [link](https://www.ycombinator.com/companies/careforce/jobs/0YNOnut-customer-success-delivery-lead-careforce) |
@@ -241,6 +248,7 @@
 | Outerport | Member of Technical Staff, DSL for Automation & Electrical CAD | be | yes | yes | 6 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/outerport/jobs/sRFUnQ9-member-of-technical-staff-dsl-for-automation-electrical-cad) |
 | PRINCEPS | Founding Engineer | fs | no | none | 1 | 2 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/princeps/jobs/nLXB8CE-founding-engineer) |
 | Authologic | Campaign Manager (GTM, ABM & Events) |  | yes | none | 6 | 44 | B2B Software and Services | [link](https://www.ycombinator.com/companies/authologic/jobs/K6TgbdT-campaign-manager-gtm-abm-events) |
+| Forage | Product Engineer  | fs | yes | yes | 3 | 66 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/forage-2/jobs/bQNfA9j-product-engineer) |
 | OWNY | Head of Compliance |  | yes | yes | 6 | 15 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/owny/jobs/R1wTKoj-head-of-compliance) |
 | Metriport | Senior AI/ML Engineer | fs | no | yes | 6 | 29 | Healthcare | [link](https://www.ycombinator.com/companies/metriport/jobs/7Ftzydk-senior-ai-ml-engineer) |
 | Eventual | Software Engineer, Multimodal Backend Systems | fs | no | yes | 3 | 18 | B2B Software and Services | [link](https://www.ycombinator.com/companies/eventual/jobs/fjpa9hs-software-engineer-multimodal-backend-systems) |
@@ -249,6 +257,7 @@
 | Whatnot | Sales Manager (French-speaking) |  | yes | yes | 5 | 1500 | Consumer | [link](https://www.ycombinator.com/companies/whatnot/jobs/2IINNWl-sales-manager-french-speaking) |
 | Whatnot | Lead Brand Designer |  | yes | yes | 5 | 1500 | Consumer | [link](https://www.ycombinator.com/companies/whatnot/jobs/KCImSUX-lead-brand-designer) |
 | Retell AI | Compliance Manager (Contract) |  | yes | yes | 0 | 50 | B2B Software and Services | [link](https://www.ycombinator.com/companies/retell-ai/jobs/6pAolRp-compliance-manager-contract) |
+| Abacum | Professional Services Manager (EPM) |  | yes | yes | 5 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/UzkLgaB-professional-services-manager-epm) |
 | Halluminate | People Platform Lead  |  | no | yes | 5 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/halluminate/jobs/k5fgKxm-people-platform-lead) |
 | PostHog | Product Manager (ex-founder or ex-product engineer) | fs | only | yes | 5 | 150 | B2B Software and Services | [link](https://www.ycombinator.com/companies/posthog/jobs/CeN2MPl-product-manager-ex-founder-or-ex-product-engineer) |
 | Credal.ai | Software Engineer | fs | no | yes | 0 | 14 | B2B Software and Services | [link](https://www.ycombinator.com/companies/credal-ai/jobs/YYLdmmL-software-engineer) |
@@ -287,7 +296,7 @@
 | Centaur | Technical Product Manager, Labeling Tools |  | only | yes | 3 | 45 | Healthcare | [link](https://www.ycombinator.com/companies/centaur/jobs/8ElCTgv-technical-product-manager-labeling-tools) |
 | HealthKey | Business Manager (Accounting & Operations) - [Part Time / In-Person] |  | no | yes | 3 | 10 | Healthcare | [link](https://www.ycombinator.com/companies/healthkey/jobs/trfvIw4-business-manager-accounting-operations-part-time-in-person) |
 | Guardian RF | Electrical Engineer | electrical | no | yes | 1 | 15 | Industrials | [link](https://www.ycombinator.com/companies/guardian-rf/jobs/iWpyyX4-electrical-engineer) |
-| Brickwise | Sales Development Representative (SDR) - £40k-£50k Base (£70k+ Uncapped OTE) |  | no | none | 1 | 13 | Real Estate and Construction | [link](https://www.ycombinator.com/companies/brickwise/jobs/RGpTj8P-sales-development-representative-sdr-40k-50k-base-70k-uncapped-ote) |
+| Brickwise | Sales Development Representative (SDR) - £40k-£50k Base (£70k+ Uncapped OTE) |  | no | none | 1 | 12 | Real Estate and Construction | [link](https://www.ycombinator.com/companies/brickwise/jobs/RGpTj8P-sales-development-representative-sdr-40k-50k-base-70k-uncapped-ote) |
 | Vela | Founding Recruiter, India |  | only | none | 1 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/vela/jobs/YLfFzDU-founding-recruiter-india) |
 | Vela | Founding Customer Success Lead |  | no | yes | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/vela/jobs/eMkJlvY-founding-customer-success-lead) |
 | Runtime | Founding AI Ops |  | no | possible | 3 | 7 | B2B Software and Services | [link](https://www.ycombinator.com/companies/runtime/jobs/pNjYg79-founding-ai-ops) |
@@ -333,7 +342,6 @@
 | Whatnot | Manager, Product Communications |  | yes | yes | 5 | 1500 | Consumer | [link](https://www.ycombinator.com/companies/whatnot/jobs/DwgTJpR-manager-product-communications) |
 | Emergent | Talent Acquisition Lead - Sales/ GTM |  | no | yes | 0 | None | Consumer | [link](https://www.ycombinator.com/companies/emergent/jobs/4TJXDF9-talent-acquisition-lead-sales-gtm) |
 | Nash | Head of Corporate Communications |  | only | yes | 5 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/OO1h8zr-head-of-corporate-communications) |
-| Floracene | Founding Forward-Deployed Engineer | fs | no | yes | 0 | 2 | Healthcare | [link](https://www.ycombinator.com/companies/floracene/jobs/DMvW6ie-founding-forward-deployed-engineer) |
 | truemetrics | GTM Founder's Associate |  | no | none | 1 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
 | Stilta | Platform Engineer | devops | no | none | 3 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/stilta/jobs/csTwoad-platform-engineer) |
 | shortkit | Full-Stack Engineer | fs | only | yes | 1 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/shortkit/jobs/FdAm5KK-full-stack-engineer) |
@@ -369,7 +377,6 @@
 | Charge Robotics | Technical Project Manager |  | no | yes | 5 | 25 | Industrials | [link](https://www.ycombinator.com/companies/charge-robotics/jobs/HeAIT2W-technical-project-manager) |
 | DiligenceSquared | GTM Associate |  | no | yes | 1 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/diligencesquared-inc/jobs/KiQIvSe-gtm-associate) |
 | Beyond Reach Labs | Strategy and Growth Lead |  | no | yes | 5 | 15 | Industrials | [link](https://www.ycombinator.com/companies/beyond-reach-labs/jobs/DSD1AYi-strategy-and-growth-lead) |
-| Aktoria Robotics | Egocentric Operations Lead |  | no | none | 1 | 2 | Industrials | [link](https://www.ycombinator.com/companies/aktoria-robotics/jobs/eES62Ab-egocentric-operations-lead) |
 | CONUS | Senior Frontend Engineer, Product & UX | fe | no | none | 6 | 3 | Healthcare | [link](https://www.ycombinator.com/companies/conus/jobs/iJWPsUM-senior-frontend-engineer-product-ux) |
 | Brumby (Formerly GrazeMate) | Software Engineer | fs | no | yes | 0 | 3 | Industrials | [link](https://www.ycombinator.com/companies/brumby/jobs/ar7aJ98-software-engineer) |
 | Brumby (Formerly GrazeMate) | Operations Associate |  | no | none | 1 | 3 | Industrials | [link](https://www.ycombinator.com/companies/brumby/jobs/n8GBsUB-operations-associate) |
@@ -401,7 +408,7 @@
 | Sixtyfour | Product Marketing Lead |  | no | yes | 1 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/sixtyfour/jobs/WR7Fp66-product-marketing-lead) |
 | Clicks Health | Founding Field Sales Rep |  | yes | yes | 1 | 8 | B2B Software and Services | [link](https://www.ycombinator.com/companies/clicks-health/jobs/3AP4VEI-founding-field-sales-rep) |
 | SF Tensor | Member of Mathematical Staff |  | no | yes | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/sf-tensor/jobs/abpmgWv-member-of-mathematical-staff) |
-| Conduit | Head of Revenue |  | no | yes | 5 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/1z6zSGy-head-of-revenue) |
+| Conduit | Head of Business Development |  | no | yes | 5 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/4usYhQz-head-of-business-development) |
 | Vera Health | Founding Designer |  | no | possible | 0 | 6 | Healthcare | [link](https://www.ycombinator.com/companies/vera-health/jobs/uQyQ2Hp-founding-designer) |
 | Fernstone | Growth & Operations Analyst |  | no | yes | 0 | 5 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/fernstone/jobs/1YekzVV-growth-operations-analyst) |
 | Fernstone | Founding Engineer | fs | no | yes | 1 | 5 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/fernstone/jobs/AUE2Y7y-founding-engineer) |
@@ -460,7 +467,7 @@
 | Limrun | Account Executive |  | no | possible | 3 | 1 | B2B Software and Services | [link](https://www.ycombinator.com/companies/limrun/jobs/Bgetg6K-account-executive) |
 | Inlet | Founding Engineer | fs | yes | yes | 0 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/inlet-2/jobs/5vq9L5e-founding-engineer) |
 | Dalus | Senior Software Engineer - PLM/CAD Integrations | be | yes | none | 4 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/dalus/jobs/sZ6myaQ-senior-software-engineer-plm-cad-integrations) |
-| KugelAudio | Founding BDR/SDR |  | no | none | 1 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/kugelaudio/jobs/OujwnhC-founding-bdr-sdr) |
+| KugelAudio | Founding Sales (Outbound) |  | no | none | 1 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/kugelaudio/jobs/OujwnhC-founding-sales-outbound) |
 | authzed | Solutions Engineer - U.S. and Canada | fs | only | yes | 3 | 31 | B2B Software and Services | [link](https://www.ycombinator.com/companies/authzed/jobs/ena6RKJ-solutions-engineer-u-s-and-canada) |
 | PiinPoint | Full-Stack Developer | fs | yes | none | 3 | 20 | B2B Software and Services | [link](https://www.ycombinator.com/companies/piinpoint/jobs/m3bS17e-full-stack-developer) |
 | Codingal | Performance Marketing Specialist |  | no | none | 1 | 100 | Education | [link](https://www.ycombinator.com/companies/codingal/jobs/X1OOyzK-performance-marketing-specialist) |
@@ -475,7 +482,7 @@
 | Trellis AI | RCM Operations Specialist, Infusion (AI Platform) |  | yes | possible | 3 | 34 | B2B Software and Services | [link](https://www.ycombinator.com/companies/trellis-ai/jobs/Dtj2yEH-rcm-operations-specialist-infusion-ai-platform) |
 | Aqua | Chief Compliance Officer and General Counsel |  | no | yes | 6 | 23 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/aqua/jobs/50a8BlO-chief-compliance-officer-and-general-counsel) |
 | Peakflo | Delivery Manager Intern, Enterprise (India/Remote) | ml | only | none | 1 | 45 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/peakflo/jobs/dxHpqu2-delivery-manager-intern-enterprise-india-remote) |
-| Popl | Senior Digital Marketing Manager |  | only | none | 6 | 60 | B2B Software and Services | [link](https://www.ycombinator.com/companies/popl/jobs/Rxav0Tr-senior-digital-marketing-manager) |
+| Popl | Senior Digital Marketing Manager |  | only | none | 6 | 70 | B2B Software and Services | [link](https://www.ycombinator.com/companies/popl/jobs/Rxav0Tr-senior-digital-marketing-manager) |
 | Fernstone | Founding Sales Development Representative |  | no | yes | 0 | 5 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/fernstone/jobs/HNZMqpH-founding-sales-development-representative) |
 | Complir | Product Engineer | fs | no | yes | 0 | 13 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complir/jobs/A20A77P-product-engineer) |
 | DiligenceSquared | Engineer - Backend | fs | no | yes | 0 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/diligencesquared-inc/jobs/E6eftaq-engineer-backend) |
@@ -496,7 +503,7 @@
 | Copperlane | Founding Software Engineer | be | no | yes | 1 | 3 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/copperlane/jobs/RW3yRBp-founding-software-engineer) |
 | Mutiny | Staff Product Designer |  | no | yes | 6 | 20 | B2B Software and Services | [link](https://www.ycombinator.com/companies/mutiny/jobs/vPPtHNx-staff-product-designer) |
 | Candid Health | Technical Sourcer |  | no | yes | 3 | 200 | Healthcare | [link](https://www.ycombinator.com/companies/candid-health/jobs/fMWfcRI-technical-sourcer) |
-| Popl | Senior Product Designer  |  | only | yes | 3 | 60 | B2B Software and Services | [link](https://www.ycombinator.com/companies/popl/jobs/oRsfoPy-senior-product-designer) |
+| Popl | Senior Product Designer  |  | only | yes | 3 | 70 | B2B Software and Services | [link](https://www.ycombinator.com/companies/popl/jobs/oRsfoPy-senior-product-designer) |
 | Andson Biotech | Embedded Systems Engineer | embedded | no | yes | 1 | 12 | Healthcare | [link](https://www.ycombinator.com/companies/andson-biotech/jobs/FLURghm-embedded-systems-engineer) |
 | Elayne | Legal Product Fellow |  | no | yes | None | 8 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/elayne/jobs/OFRhZk4-legal-product-fellow) |
 | flowscope | Founding Engineer | fs | no | yes | 2 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/flowscope/jobs/l9IvfsO-founding-engineer) |
@@ -604,7 +611,6 @@
 | Mach9 | Community Marketing Manager |  | no | yes | 5 | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/mach9/jobs/TrHOo1g-community-marketing-manager) |
 | Mach9 | Founding Recruiting Lead |  | no | yes | 5 | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/mach9/jobs/aFHEXEy-founding-recruiting-lead) |
 | Forge | Founding GTM |  | no | yes | 0 | 7 | B2B Software and Services | [link](https://www.ycombinator.com/companies/forge/jobs/jz3xNXt-founding-gtm) |
-| Asha Health | Senior Software Engineer, AI | be | no | yes | 3 | 9 | Healthcare | [link](https://www.ycombinator.com/companies/asha-health/jobs/j38rB2o-senior-software-engineer-ai) |
 | Marble | Founding Engineer | fs | no | yes | 1 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/joinmarble/jobs/JIr3duM-founding-engineer) |
 | Cua | Founding Technical GTM Lead |  | yes | yes | 3 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead) |
 | Superset | Founding Design Engineer | fe | no | none | 0 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/superset/jobs/rp22UiM-founding-design-engineer) |
@@ -612,7 +618,7 @@
 | Jarmin | Founding Sales - Account Executive |  | yes | yes | 6 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/jarmin/jobs/jl80fR1-founding-sales-account-executive) |
 | Artisan | Staff AI Engineer - Agent Architecture & Behavior | ml | no | possible | 3 | 50 | B2B Software and Services | [link](https://www.ycombinator.com/companies/artisan/jobs/RckyIGW-staff-ai-engineer-agent-architecture-behavior) |
 | FirstWork | Marketing Design Lead |  | only | yes | 5 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firstwork/jobs/lgyvomJ-marketing-design-lead) |
-| Abacum | Marketing Manager, Lifecycle |  | yes | yes | 5 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/gJnc6nF-marketing-manager-lifecycle) |
+| Abacum | Marketing Manager, Lifecycle |  | no | yes | 5 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/gJnc6nF-marketing-manager-lifecycle) |
 | LemonLime | Growth |  | no | yes | 0 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/lemonlime/jobs/qeSCOOz-growth) |
 | SiPhox Health | Head of Consumer Experience; Home blood testing |  | yes | yes | 6 | 63 | Healthcare | [link](https://www.ycombinator.com/companies/siphox-health/jobs/N05WFT7-head-of-consumer-experience-home-blood-testing) |
 | Phonely | QA Engineer | qa | only | yes | 1 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/phonely/jobs/EMM562h-qa-engineer) |
@@ -639,7 +645,7 @@
 | RADAR | Lead, Field Maintenance Support |  | yes | yes | 5 | 120 | B2B Software and Services | [link](https://www.ycombinator.com/companies/radar/jobs/DOtbHVF-lead-field-maintenance-support) |
 | RADAR | Human Resources Business Partner |  | no | yes | 6 | 120 | B2B Software and Services | [link](https://www.ycombinator.com/companies/radar/jobs/zMaxFCo-human-resources-business-partner) |
 | Nash | Forward Deployed Engineer | fs | only | yes | 0 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/NVSoRin-forward-deployed-engineer) |
-| Abacum | Finance Solutions Engineer - EPM  | fs | yes | yes | 0 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/QJMMJOe-finance-solutions-engineer-epm) |
+| Abacum | Finance Solutions Engineer - EPM  | fs | no | yes | 0 | 125 | B2B Software and Services | [link](https://www.ycombinator.com/companies/abacum/jobs/QJMMJOe-finance-solutions-engineer-epm) |
 | FirstWork | Senior Software Engineer | fs | only | yes | 5 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firstwork/jobs/sRQFKmZ-senior-software-engineer) |
 | Antigen | Security Researcher | devops | no | yes | 1 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/antigen/jobs/CAQhaJY-security-researcher) |
 | Pulse | Growth and Marketing |  | no | yes | 0 | 22 | B2B Software and Services | [link](https://www.ycombinator.com/companies/pulse-3/jobs/nPfmn5m-growth-and-marketing) |
@@ -766,6 +772,7 @@
 | ClaimSorted | Account Executive (Remote) |  | only | yes | 0 | 20 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/claimsorted/jobs/PCMn3Z0-account-executive-remote) |
 | ClaimSorted | Forward Deployed Engineer | fs | no | yes | 0 | 20 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/claimsorted/jobs/7F5yX2H-forward-deployed-engineer) |
 | ClaimSorted | Founding Account Manager |  | no | yes | 5 | 20 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/claimsorted/jobs/peAuRzS-founding-account-manager) |
+| Firecrawl | Legal Engineer | fs | no | yes | 5 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firecrawl/jobs/IVOP5ci-legal-engineer) |
 | Cardinal | Founding Customer Engineer | fs | no | yes | 0 | 0 | B2B Software and Services | [link](https://www.ycombinator.com/companies/trycardinal-ai/jobs/Po0pWFA-founding-customer-engineer) |
 | SF Tensor | Member of Technical Staff, Product Engineering | fs | no | yes | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/sf-tensor/jobs/gkuqeM2-member-of-technical-staff-product-engineering) |
 | RevenueCat | Head of Sales |  | only | yes | 5 | 160 | B2B Software and Services | [link](https://www.ycombinator.com/companies/revenuecat/jobs/F17FBEw-head-of-sales) |
@@ -854,7 +861,7 @@
 | Klaimee | Founding Broker Partnerships Lead |  | yes | yes | 6 | 2 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/klaimee/jobs/z9edN2S-founding-broker-partnerships-lead) |
 | Clara | Founding full-stack growth Engineer | fs | no | possible | 3 | 9 | Healthcare | [link](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer) |
 | Artifact | Avionics Engineer | electrical | no | yes | 1 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/artifact-2/jobs/2FKYUO3-avionics-engineer) |
-| Conduit | Head of Sales |  | no | yes | 6 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/4FRNpYY-head-of-sales) |
+| Conduit | VP of Sales |  | no | yes | 6 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/4FRNpYY-vp-of-sales) |
 | Clearest Health | Head of Partnerships |  | yes | yes | 6 | 11 | Healthcare | [link](https://www.ycombinator.com/companies/clearest-health/jobs/0vbEI0d-head-of-partnerships) |
 | FleetWorks | Senior Product Manager  |  | no | yes | 5 | 20 | B2B Software and Services | [link](https://www.ycombinator.com/companies/fleetworks/jobs/bBwSR4j-senior-product-manager) |
 | FleetWorks | Senior Backend Software Engineer  | fs | no | yes | 5 | 20 | B2B Software and Services | [link](https://www.ycombinator.com/companies/fleetworks/jobs/hLXKyvN-senior-backend-software-engineer) |
@@ -931,7 +938,6 @@
 | Gooseworks | Founding Creative Engineer |  | yes | possible | 0 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
 | Fleek | Chief of Staff |  | no | yes | 6 | 100 | B2B Software and Services | [link](https://www.ycombinator.com/companies/fleek/jobs/E0TEd6R-chief-of-staff) |
 | Ergo |  Sales Development Representative |  | no | yes | 0 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/ergo/jobs/9EzPf70-sales-development-representative) |
-| Conduit | Marketing Lead |  | no | yes | 6 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/rNQxsat-marketing-lead) |
 | Casco | Sales Development Representative |  | no | yes | 1 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/casco/jobs/vhGzMBB-sales-development-representative) |
 | Parametric | Mechatronics Engineer, Intern (Fall/Winter '26) | hw | no | yes | None | 7 | Industrials | [link](https://www.ycombinator.com/companies/parametric/jobs/xnrysgJ-mechatronics-engineer-intern-fall-winter-26) |
 | Axiom | Systems Engineer | fs | no | yes | 0 | 2 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/axiom/jobs/fZ9O8AX-systems-engineer) |
@@ -956,7 +962,7 @@
 | SiPhox Health | Product Manager, Mail-In Blood Testing |  | no | yes | 3 | 63 | Healthcare | [link](https://www.ycombinator.com/companies/siphox-health/jobs/kVeUyK3-product-manager-mail-in-blood-testing) |
 | Terranox AI | AI/ML Engineer | ml | no | yes | 0 | 2 | Industrials | [link](https://www.ycombinator.com/companies/terranox-ai/jobs/TxXPS7x-ai-ml-engineer) |
 | Overlap | Product Engineer | fs | no | yes | 0 | 6 | Consumer | [link](https://www.ycombinator.com/companies/overlap/jobs/fDiBIej-product-engineer) |
-| KugelAudio | Berlin · Part-time · On-site |  | no | yes | None | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/kugelaudio/jobs/WKo2Gk0-berlin-part-time-on-site) |
+| KugelAudio | Berlin · Part-time · On-site |  | no | yes | None | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/kugelaudio/jobs/WKo2Gk0-berlin-part-time-on-site) |
 | Akute Health | Account Executive |  | only | yes | 1 | 4 | Healthcare | [link](https://www.ycombinator.com/companies/akute-health/jobs/Fk7oZlm-account-executive) |
 | PostHog | Site Reliability Engineer (US - Pacific time) | fs | no | yes | 6 | 150 | B2B Software and Services | [link](https://www.ycombinator.com/companies/posthog/jobs/u8dJbOn-site-reliability-engineer-us-pacific-time) |
 | Autonomous Technologies Group | Client Director |  | yes | yes | 5 | 8 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/2Ho2HEk-client-director) |
@@ -971,7 +977,7 @@
 | Vulcan Technologies | Security Engineer | be | no | yes | 1 | 17 | B2B Software and Services | [link](https://www.ycombinator.com/companies/vulcan-technologies/jobs/X8WD9yw-security-engineer) |
 | Rhem Labs | Founding Creative Generalist |  | no | yes | 0 | 2 | Healthcare | [link](https://www.ycombinator.com/companies/rhem-labs/jobs/TCR7cgZ-founding-creative-generalist) |
 | Laylo | Brand Editorial Lead |  | only | yes | 3 | 24 | B2B Software and Services | [link](https://www.ycombinator.com/companies/laylo/jobs/17GAMb7-brand-editorial-lead) |
-| Complir | Open Application |  | yes | yes | 0 | 13 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complir/jobs/83TkluK-open-application) |
+| Complir | Open Application |  | no | yes | 0 | 13 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complir/jobs/83TkluK-open-application) |
 | Reflex | Growth Engineer |  | no | yes | 0 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) |
 | Casco | Product Engineer | fs | no | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/casco/jobs/Vy9JSfH-product-engineer) |
 | Legalist | AI Native Engineer | fs | no | yes | 0 | 40 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/legalist/jobs/zA533X6-ai-native-engineer) |
@@ -990,7 +996,7 @@
 | Finku | Growth & Content Marketing |  | no | none | 3 | 20 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/finku/jobs/LgG94vi-growth-content-marketing) |
 | screenpipe | Forward Deployed Engineer (Enterprise) | fs | no | yes | 6 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/screenpipe/jobs/EudBGQb-forward-deployed-engineer-enterprise) |
 | Nash | Technical Support Specialist, AU |  | only | yes | 0 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/DhgAgVP-technical-support-specialist-au) |
-| Nash | Senior Data Scientist | fs | yes | yes | 5 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/0IzrGGq-senior-data-scientist) |
+| Nash | Senior Data Scientist | fs | no | yes | 5 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/0IzrGGq-senior-data-scientist) |
 | EffiGov | Founding Engineer | fs | no | possible | 3 | 3 | Government | [link](https://www.ycombinator.com/companies/effigov/jobs/ZtQu2FO-founding-engineer) |
 | LineLeap | Staff Software Engineer, Product Innovation | fs | no | yes | 0 | 50 | Consumer | [link](https://www.ycombinator.com/companies/lineleap/jobs/rfQYh55-staff-software-engineer-product-innovation) |
 | Revnu | Founding Engineer | fs | no | none | 0 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/revnu/jobs/VM4oyLB-founding-engineer) |
@@ -1025,8 +1031,7 @@
 | Sygaldry Technologies | Applied AI Scientist, Technology Partnerships (Senior/Principal) |  | no | yes | 8 | None | Industrials | [link](https://www.ycombinator.com/companies/sygaldry-technologies/jobs/lJARmJZ-applied-ai-scientist-technology-partnerships-senior-principal) |
 | Sygaldry Technologies | Research Scientist - Frontier AI/ML & Quantum Algorithms |  | no | yes | 0 | None | Industrials | [link](https://www.ycombinator.com/companies/sygaldry-technologies/jobs/oOdEn1O-research-scientist-frontier-ai-ml-quantum-algorithms) |
 | Lance | GTM & Content Marketing Intern |  | no | yes | None | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/lance/jobs/R2XRSzI-gtm-content-marketing-intern) |
-| Firecrawl | Success Engineer | fs | no | yes | 3 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firecrawl/jobs/dKbj0C0-success-engineer) |
-| Firecrawl | Head of Growth Marketing |  | yes | yes | 5 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firecrawl/jobs/M6uZca7-head-of-growth-marketing) |
+| Firecrawl | Head of Growth Marketing |  | no | yes | 5 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/firecrawl/jobs/M6uZca7-head-of-growth-marketing) |
 | Camber | Technical Recruiter |  | no | yes | 3 | 101 | Healthcare | [link](https://www.ycombinator.com/companies/camber-2/jobs/38ATrZE-technical-recruiter) |
 | Infisical | Solutions Engineer |  | only | yes | 3 | 70 | B2B Software and Services | [link](https://www.ycombinator.com/companies/infisical/jobs/D4OujHu-solutions-engineer) |
 | Klaimee | General Counsel & Head of Insurance |  | yes | yes | 6 | 2 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/klaimee/jobs/CXFmWvr-general-counsel-head-of-insurance) |
@@ -1042,7 +1047,7 @@
 | Dataleap | Working Student/Intern | be | yes | none | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/dataleap/jobs/ucclInO-working-student-intern) |
 | Roame | Lead Full-Stack Engineer  | fs | only | yes | 3 | 3 | Consumer | [link](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
 | Ultra | Head of People |  | no | yes | 5 | 4 | Industrials | [link](https://www.ycombinator.com/companies/ultra/jobs/SVLN1F9-head-of-people) |
-| Ultra | Field Support Technician |  | yes | yes | 0 | 4 | Industrials | [link](https://www.ycombinator.com/companies/ultra/jobs/pq8Nnee-field-support-technician) |
+| Ultra | Field Support Technician |  | no | yes | 0 | 4 | Industrials | [link](https://www.ycombinator.com/companies/ultra/jobs/pq8Nnee-field-support-technician) |
 | Hyperbound | Mid Market Account Executive, Existing Business |  | no | yes | 3 | 30 | B2B Software and Services | [link](https://www.ycombinator.com/companies/hyperbound/jobs/tvJPAYL-mid-market-account-executive-existing-business) |
 | Salient | Founding Product Designer |  | no | yes | 0 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/salient/jobs/sR1WLFi-founding-product-designer) |
 | Salient | Technical Recruiter  |  | no | yes | 0 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/salient/jobs/oExhPG5-technical-recruiter) |
@@ -1198,7 +1203,6 @@
 | Taiv | Marketing Coordinator |  | yes | yes | 0 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/taiv/jobs/62QXzP5-marketing-coordinator) |
 | ArchiLabs | Founding MEP Software Engineer | fs | no | possible | 0 | 3 | Real Estate and Construction | [link](https://www.ycombinator.com/companies/archilabs/jobs/0TitW1Y-founding-mep-software-engineer) |
 | SalaryBox | Senior Executive- Account Manager (B2B SaaS Sales) |  | no | yes | 1 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/salarybox/jobs/xz8CTdF-senior-executive-account-manager-b2b-saas-sales) |
-| Complir | Head of Germany |  | no | yes | 5 | 13 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complir/jobs/4JZzlHG-head-of-germany) |
 | Alguna | Customer Success Manager - North America |  | yes | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/alguna/jobs/xEKypni-customer-success-manager-north-america) |
 | Mutiny | Head of GTM (Path to COO) |  | no | yes | 5 | 20 | B2B Software and Services | [link](https://www.ycombinator.com/companies/mutiny/jobs/Cmy8fTR-head-of-gtm-path-to-coo) |
 | Alguna | Customer Success Manager - EMEA |  | only | none | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/alguna/jobs/favvk7b-customer-success-manager-emea) |
@@ -1467,7 +1471,6 @@
 | Cotera | Future Founder - Engineering | fs | no | yes | 1 | 8 | B2B Software and Services | [link](https://www.ycombinator.com/companies/cotera/jobs/PBRc5J6-future-founder-engineering) |
 | Cotera | Future Founder - Growth |  | no | yes | 0 | 8 | B2B Software and Services | [link](https://www.ycombinator.com/companies/cotera/jobs/G0KUSN9-future-founder-growth) |
 | Output Labs | Member of the Technical Staff, Cheminformatics | ml | no | yes | 3 | 8 | Healthcare | [link](https://www.ycombinator.com/companies/output-labs/jobs/xvgqWYn-member-of-the-technical-staff-cheminformatics) |
-| Output Labs | Head of Discovery |  | no | yes | 5 | 8 | Healthcare | [link](https://www.ycombinator.com/companies/output-labs/jobs/ODtwc9C-head-of-discovery) |
 | Simbie AI | Product Engineer / Senior Product Engineer | be | yes | yes | 3 | 5 | Healthcare | [link](https://www.ycombinator.com/companies/simbie-ai/jobs/DmsGSBf-product-engineer-senior-product-engineer) |
 | Landeed | Product Engineer |  | no | yes | 6 | 35 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/landeed/jobs/5ER5jHm-product-engineer) |
 | Scalar Field | Digital Native Community, Social & Creator Growth Internship |  | only | yes | None | 3 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/scalar-field/jobs/O0pkhfz-digital-native-community-social-creator-growth-internship) |
@@ -1482,8 +1485,8 @@
 | Cedana | Systems Engineer: Linux Kernel Test and Validation | be | only | yes | 6 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/cedana/jobs/BntWOIg-systems-engineer-linux-kernel-test-and-validation) |
 | Garage | Software Engineer, Growth | fs | no | yes | 0 | 35 | B2B Software and Services | [link](https://www.ycombinator.com/companies/garage-2/jobs/e2vOJM9-software-engineer-growth) |
 | Dill | Sales Development Representative |  | yes | yes | 1 | None | B2B Software and Services | [link](https://www.ycombinator.com/companies/dill/jobs/PU1CUuB-sales-development-representative) |
-| Skyvern | Founding Developer Marketing - Open Source AI |  | only | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
-| Skyvern | Founding Account Executive - AI Infrastructure |  | only | yes | 1 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/9eucL4u-founding-account-executive-ai-infrastructure) |
+| Skyvern | Founding Developer Marketing - Open Source AI |  | only | yes | 3 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
+| Skyvern | Founding Account Executive - AI Infrastructure |  | only | yes | 1 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/9eucL4u-founding-account-executive-ai-infrastructure) |
 | throxy | Summer Intern |  | yes | none | None | 55 | B2B Software and Services | [link](https://www.ycombinator.com/companies/throxy/jobs/bgsg88w-summer-intern) |
 | Storylane | Sales Development Representative (SDR) - Only India |  | only | none | 0 | 55 | B2B Software and Services | [link](https://www.ycombinator.com/companies/storylane/jobs/6qdSykp-sales-development-representative-sdr-only-india) |
 | Zensors | AI Solutions Specalist |  | no | possible | 1 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zensors-inc/jobs/AEeKUE6-ai-solutions-specalist) |
@@ -1621,7 +1624,6 @@
 | Zymbly | Forward Deployed Engineer | fs | no | none | 1 | 0 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zymbly/jobs/ueWPYCh-forward-deployed-engineer) |
 | 10x | 🦷 Founding Engineer at 10x Dental (YC W25) | fs | no | yes | 0 | 3 | Healthcare | [link](https://www.ycombinator.com/companies/10x/jobs/F9oCew6-founding-engineer-at-10x-dental-yc-w25) |
 | Booko | Founding Growth Lead |  | yes | yes | 0 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/booko/jobs/7yAOw07-founding-growth-lead) |
-| Wardstone | Mechanical & Structural Engineer | mechanical | no | yes | 3 | 8 | Industrials | [link](https://www.ycombinator.com/companies/wardstone/jobs/yKhigEn-mechanical-structural-engineer) |
 | Centralize | Software Engineer (Product) | fs | yes | yes | 1 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/centralize/jobs/4dgWq6o-software-engineer-product) |
 | Tasklet | Customer Success Engineer |  | no | yes | 0 | 8 | B2B Software and Services | [link](https://www.ycombinator.com/companies/tasklet-2/jobs/UcpBWuw-customer-success-engineer) |
 | Cascade Space | Senior Mechanical Engineer | mechanical | no | yes | 3 | 7 | Industrials | [link](https://www.ycombinator.com/companies/cascade-space/jobs/oD1pldv-senior-mechanical-engineer) |
@@ -1720,7 +1722,7 @@
 | Windmill | Founding Growth & Developer Marketing |  | yes | none | 0 | 7 | B2B Software and Services | [link](https://www.ycombinator.com/companies/windmill/jobs/t7ToQBK-founding-growth-developer-marketing) |
 | Varos | Forward Deployed Consultant |  | yes | yes | 3 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/varos/jobs/VQltlos-forward-deployed-consultant) |
 | Unbound | Software Engineering Intern | be | no | yes | None | 7 | B2B Software and Services | [link](https://www.ycombinator.com/companies/unbound/jobs/hn66xKN-software-engineering-intern) |
-| Elevate | AI Deployment Lead | data_sci | no | yes | 3 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/elevate-2/jobs/KyJ5rH5-ai-deployment-lead) |
+| Elevate | AI Deployment Lead | data_sci | no | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/elevate-2/jobs/KyJ5rH5-ai-deployment-lead) |
 | PocketSuite | Marketing Generalist - SMB Growth & Strategy |  | only | yes | 3 | 30 | B2B Software and Services | [link](https://www.ycombinator.com/companies/pocketsuite/jobs/JwwrzBW-marketing-generalist-smb-growth-strategy) |
 | Avent | Founding Forward Deployed Engineer | fs | no | yes | 0 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/avent/jobs/WD2kTsF-founding-forward-deployed-engineer) |
 | Adaptional | Founding Engineer | fs | no | yes | 1 | None | B2B Software and Services | [link](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
@@ -2061,7 +2063,7 @@
 | Pair AI | Framer Designer / Developer  |  | only | yes | 3 | 2 | Consumer | [link](https://www.ycombinator.com/companies/pair-ai/jobs/YqpNvwr-framer-designer-developer) |
 | Helium | Founding Full-Stack Engineer | fs | no | yes | 1 | 9 | B2B Software and Services | [link](https://www.ycombinator.com/companies/helium/jobs/HIa0j38-founding-full-stack-engineer) |
 | item | Product Engineer | fs | no | possible | 1 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/item/jobs/xD9P6r7-product-engineer) |
-| Brighterway | Sales Associate |  | no | yes | 0 | 14 | Healthcare | [link](https://www.ycombinator.com/companies/brighterway/jobs/UfDkqaY-sales-associate) |
+| Brighterway | Sales Associate |  | no | yes | 0 | 14 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/brighterway/jobs/UfDkqaY-sales-associate) |
 | Human Archive | Videographer |  | no | none | 0 | 100 | Industrials | [link](https://www.ycombinator.com/companies/human-archive/jobs/4ZHnJO3-videographer) |
 | Jeevy Fabrication | Backend Data + AI Engineer | fs | yes | yes | 6 | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/jeevy-fabrication/jobs/dRpwwvW-backend-data-ai-engineer) |
 | No Logo | Software Engineer | fs | no | yes | 0 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/no-logo/jobs/7OzjhOe-software-engineer) |
@@ -2072,7 +2074,7 @@
 | Anara | Technical Product Manager |  | no | possible | 3 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/anara/jobs/1vX8BWc-technical-product-manager) |
 | Anara | Software Engineer, Backend | fs | no | possible | 3 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/anara/jobs/5bRqg4t-software-engineer-backend) |
 | Numeral | Onboarding Manager |  | no | yes | 3 | 130 | B2B Software and Services | [link](https://www.ycombinator.com/companies/numeral/jobs/XmIh59S-onboarding-manager) |
-| Brighterway | Senior Software Engineer | fs | no | yes | 3 | 14 | Healthcare | [link](https://www.ycombinator.com/companies/brighterway/jobs/vJvWxbO-senior-software-engineer) |
+| Brighterway | Senior Software Engineer | fs | no | yes | 3 | 14 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/brighterway/jobs/vJvWxbO-senior-software-engineer) |
 | Macadamia | Founding GTM Lead  |  | yes | possible | 3 | 2 | B2B Software and Services | [link](https://www.ycombinator.com/companies/macadamia/jobs/0FN5u8j-founding-gtm-lead) |
 | Human Archive | Operations Manager |  | no | none | 0 | 100 | Industrials | [link](https://www.ycombinator.com/companies/human-archive/jobs/di880ZV-operations-manager) |
 | Podium | Staff AI Engineer - USA | fs | yes | yes | 11 | 1000 | B2B Software and Services | [link](https://www.ycombinator.com/companies/podium/jobs/qgKxAEM-staff-ai-engineer-usa) |
@@ -2093,7 +2095,6 @@
 | Nowadays | Founding Operator |  | no | yes | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nowadays/jobs/3hKed4I-founding-operator) |
 | Nowadays | Founding Account Executive |  | no | yes | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nowadays/jobs/hq419qc-founding-account-executive) |
 | telli | Sales Development Representative |  | no | none | 3 | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/telli/jobs/A7keKbR-sales-development-representative) |
-| Zip | Software Engineer, Identity | be | no | possible | 3 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/ORuSG8h-software-engineer-identity) |
 | Zensors | AI/ML Infrastructure Engineer | be | no | possible | 3 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zensors-inc/jobs/O6towJf-ai-ml-infrastructure-engineer) |
 | Landed | Business Operations Manager |  | only | yes | 3 | 50 | B2B Software and Services | [link](https://www.ycombinator.com/companies/landed-2/jobs/Q7xQ1OT-business-operations-manager) |
 | Enerjazz | General Manager - Business Development & Operations  |  | no | none | 6 | 9 | Industrials | [link](https://www.ycombinator.com/companies/enerjazz/jobs/qjPBBZH-general-manager-business-development-operations) |
@@ -2336,11 +2337,10 @@
 | Apten | Founding SDR |  | no | yes | 0 | 6 | B2B Software and Services | [link](https://www.ycombinator.com/companies/apten/jobs/Wh8L33A-founding-sdr) |
 | Laylo | Customer Support Specialist |  | only | none | 3 | 24 | B2B Software and Services | [link](https://www.ycombinator.com/companies/laylo/jobs/6HXkMIO-customer-support-specialist) |
 | Digipals | iOS/Android Full Stack Software Engineering | ios | no | yes | 1 | 3 | Consumer | [link](https://www.ycombinator.com/companies/digipals/jobs/oZmOW5w-ios-android-full-stack-software-engineering) |
-| Raven | Software Engineer (Backend/AI) | be | no | none | 3 | 4 | B2B Software and Services | [link](https://www.ycombinator.com/companies/raven/jobs/7OMJHg2-software-engineer-backend-ai) |
 | Treblo | Summer 2026 ML Engineer/Research Intern | ml | no | yes | None | 4 | Consumer | [link](https://www.ycombinator.com/companies/treblo/jobs/UQAJuQ8-summer-2026-ml-engineer-research-intern) |
 | RetailReady | Full Stack Software Engineering Intern | fs | no | yes | None | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/retailready/jobs/KfkyR7c-full-stack-software-engineering-intern) |
 | Dyneti Technologies | Marketing Intern |  | no | yes | None | 3 | B2B Software and Services | [link](https://www.ycombinator.com/companies/dyneti-technologies/jobs/YFHVUaK-marketing-intern) |
-| Conduit | Software Engineer | fs | no | yes | 1 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/cJoje4G-software-engineer) |
+| Conduit | Member of Technical Staff | fs | no | yes | 1 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/cJoje4G-member-of-technical-staff) |
 | Turing Labs Inc. | Community Architect Intern |  | no | yes | None | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/turing-labs-inc/jobs/IxA4lSR-community-architect-intern) |
 | Candle | Software Engineering Intern (Summer 2026) | fs | no | yes | None | 2 | Consumer | [link](https://www.ycombinator.com/companies/candle/jobs/VvOMLDD-software-engineering-intern-summer-2026) |
 | Reacher | Software Engineer Intern (Fall 2025/Summer 2026) | fs | no | yes | None | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/reacher/jobs/HxPjZJm-software-engineer-intern-fall-2025-summer-2026) |
@@ -2466,7 +2466,7 @@
 | Cartage | Sales Development Representative |  | no | yes | 0 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/cartage/jobs/1QP2BxS-sales-development-representative) |
 | Notabene | Sales Director, Americas (Institutional) |  | only | yes | 6 | 47 | B2B Software and Services | [link](https://www.ycombinator.com/companies/notabene/jobs/dWkUMzI-sales-director-americas-institutional) |
 | Type | Founding Product Engineer | fs | no | yes | 3 | 5 | Consumer | [link](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
-| Conduit | Agent Product Manager |  | yes | possible | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/xY3NkA8-agent-product-manager) |
+| Conduit | Agent Product Manager |  | no | yes | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/conduit-ai/jobs/xY3NkA8-agent-product-manager) |
 | arnata | Solution Engineer | fs | no | yes | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/arnata/jobs/5fJvq8p-solution-engineer) |
 | Canix | Senior Implementation Specialist - Canix |  | yes | yes | 6 | 22 | B2B Software and Services | [link](https://www.ycombinator.com/companies/canix/jobs/ASsCyRh-senior-implementation-specialist-canix) |
 | Vooma | Forward Deployed Engineer | fs | no | yes | 3 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/vooma/jobs/Fc1pqyd-forward-deployed-engineer) |
@@ -2492,7 +2492,7 @@
 | Meticulous | Software Engineer | fs | no | none | 3 | 15 | B2B Software and Services | [link](https://www.ycombinator.com/companies/meticulous/jobs/rCpqot1-software-engineer) |
 | Topkey | Financial Technology Consultant (Product & Accounting Focus) |  | no | yes | 3 | 17 | B2B Software and Services | [link](https://www.ycombinator.com/companies/topkey/jobs/m37HRpa-financial-technology-consultant-product-accounting-focus) |
 | Popl | Customer Success Manager (Mid-Market) |  | only | yes | 3 | 60 | B2B Software and Services | [link](https://www.ycombinator.com/companies/popl/jobs/8vthtps-customer-success-manager-mid-market) |
-| Skyvern | AI Agent Builder / Workflow Wizard |  | only | yes | 0 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/YFDIaHd-ai-agent-builder-workflow-wizard) |
+| Skyvern | AI Agent Builder / Workflow Wizard |  | only | yes | 0 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/skyvern/jobs/YFDIaHd-ai-agent-builder-workflow-wizard) |
 | Slash | Product Engineer: Core Banking | fs | no | yes | 0 | 70 | Financial Technology and Services | [link](https://www.ycombinator.com/companies/slash/jobs/HKHRb37-product-engineer-core-banking) |
 | Arketa | Sales Development Representative,  UK |  | no | yes | 0 | 55 | B2B Software and Services | [link](https://www.ycombinator.com/companies/arketa/jobs/VgocMix-sales-development-representative-uk) |
 | Gather | Staff Fullstack Engineer - Grapevine (AI) | be | only | possible | 6 | 60 | Consumer | [link](https://www.ycombinator.com/companies/gather-2/jobs/a45XtHa-staff-fullstack-engineer-grapevine-ai) |
@@ -2539,13 +2539,13 @@
 | Variance | Business Development Representative |  | no | yes | 0 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/variance/jobs/bxFqv04-business-development-representative) |
 | Shadeform | Founding (Senior) Software Engineer | be | yes | possible | 3 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
 | Shadeform | Founding Sales |  | yes | yes | 1 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/shadeform/jobs/ZBDwwU6-founding-sales) |
-| Zip | Senior / Principal Product Manager, New Products |  | no | yes | 6 | 500 | B2B Software and Services | [link](https://www.ycombinator.com/companies/zip/jobs/FNk5f6F-senior-principal-product-manager-new-products) |
 | Complete | Product Designer |  | no | yes | 3 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/complete/jobs/7Ll5o6A-product-designer) |
 | Ankr Health | Independent Reps, Rep Groups, and Distributors Wanted |  | only | yes | 6 | 30 | Healthcare | [link](https://www.ycombinator.com/companies/ankr-health/jobs/QurDWyN-independent-reps-rep-groups-and-distributors-wanted) |
 | ParadeDB | Distributed Systems Engineer - Postgres Platform | be | yes | possible | 3 | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/paradedb/jobs/yWsaLaN-distributed-systems-engineer-postgres-platform) |
 | Assembly | Senior Software Engineer | fs | no | yes | 3 | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/assembly-com/jobs/s5keYI3-senior-software-engineer) |
 | Assembly | Customer Success Manager |  | no | yes | 1 | 25 | B2B Software and Services | [link](https://www.ycombinator.com/companies/assembly-com/jobs/e6AFh1N-customer-success-manager) |
 | Twenty | Junior Product Designer - Intership Paris |  | no | none | None | 11 | B2B Software and Services | [link](https://www.ycombinator.com/companies/twenty/jobs/2OAbiTK-junior-product-designer-intership-paris) |
+| Nash | Senior Backend Engineer | fs | yes | yes | 3 | 40 | B2B Software and Services | [link](https://www.ycombinator.com/companies/nash/jobs/eDOwMsW-senior-backend-engineer) |
 | Intryc | Senior Product Designer |  | no | yes | 3 | 12 | B2B Software and Services | [link](https://www.ycombinator.com/companies/intryc/jobs/xrvcSVT-senior-product-designer) |
 | Spark | Software Engineer, Full Stack - Founding Team | be | no | possible | 3 | 5 | B2B Software and Services | [link](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
 | Hype | Software Engineer | fs | no | yes | 1 | 3 | Consumer | [link](https://www.ycombinator.com/companies/hype/jobs/Aabj9TY-software-engineer) |
@@ -2976,7 +2976,6 @@
 | InEvent | Sales Account Executive |  | yes | yes | 3 | 150 | B2B Software and Services | [link](https://www.ycombinator.com/companies/inevent/jobs/66ykd0PuC-sales-account-executive) |
 | BeGo | Full Stack Sr | fs | yes | possible | 3 | 65 | B2B Software and Services | [link](https://www.ycombinator.com/companies/be-go/jobs/ceQsKiheA-full-stack-sr) |
 | GiveCampus | Full Stack Engineer | fs | yes | yes | 3 | 130 | Education | [link](https://www.ycombinator.com/companies/givecampus/jobs/NJQAJaLHz-full-stack-engineer) |
-| AlemHealth | Full Stack Software Engineer (Python/ReactJS) | fs | yes | yes | 3 | 25 | Healthcare | [link](https://www.ycombinator.com/companies/alemhealth/jobs/3NAvuw1Y8-full-stack-software-engineer-python-reactjs) |
 | Flockjay | Software Engineer, Full-Stack | fs | only | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/flockjay/jobs/MCZ9EwDC7-software-engineer-full-stack) |
 | Bitmovin | Sales Director |  | yes | possible | 3 | 145 | B2B Software and Services | [link](https://www.ycombinator.com/companies/bitmovin/jobs/SPlTI7FBv-sales-director) |
 | Flockjay | Software Engineer, Frontend | fe | yes | yes | 3 | 10 | B2B Software and Services | [link](https://www.ycombinator.com/companies/flockjay/jobs/DCDqHARrt-software-engineer-frontend) |
