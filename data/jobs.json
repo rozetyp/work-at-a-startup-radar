@@ -1,5 +1,140 @@
 [
  {
+  "id": 118649,
+  "company": "Mederva",
+  "title": "Head of Marketing & Growth",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 3,
+  "team": 13,
+  "sector": "Healthcare",
+  "created": "2026-10-25T03:34:28.024Z",
+  "link": "https://www.ycombinator.com/companies/mederva/jobs/Gz3PDld-head-of-marketing-growth",
+  "snippet": "Mederva is an AI longevity lab on a mission to add healthy years to everyone's life. We help people halt, and even reverse, the progression of chronic disease a..."
+ },
+ {
+  "id": 118616,
+  "company": "Stoa",
+  "title": "Chief of Staff",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "none",
+  "exp": 0,
+  "team": 3,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-24T22:17:50.432Z",
+  "link": "https://www.ycombinator.com/companies/stoa/jobs/eWTo7MT-chief-of-staff",
+  "snippet": "**About Stoa**  Stoa (YC S26) builds market infrastructure for AI compute and hardware. We are headquartered in San Francisco.  **About the Role**  You will wor..."
+ },
+ {
+  "id": 118583,
+  "company": "Audun",
+  "title": "Founding Engineer",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "no",
+  "visa": "none",
+  "exp": 1,
+  "team": 5,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-24T19:13:54.274Z",
+  "link": "https://www.ycombinator.com/companies/audun/jobs/kRofbvT-founding-engineer",
+  "snippet": "We are looking for an experienced software engineer to take broad technical ownership at Audun. You will work closely with our CTO Henrik and Chief Scientist Pe..."
+ },
+ {
+  "id": 118559,
+  "company": "Astranis",
+  "title": "Material Handler",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-10-24T14:18:11.427Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/ZZki6u9-material-handler",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
+ },
+ {
+  "id": 118558,
+  "company": "Astranis",
+  "title": "Electrical Engineering Manager - Software Defined Radio Hardware",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-10-24T14:18:10.522Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/0RJCdEi-electrical-engineering-manager-software-defined-radio-hardware",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
+ },
+ {
+  "id": 118555,
+  "company": "Firecrawl",
+  "title": "Senior Field Engagment Manager",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-24T14:16:40.826Z",
+  "link": "https://www.ycombinator.com/companies/firecrawl/jobs/7xtonpq-senior-field-engagment-manager",
+  "snippet": "## **Senior Field Engagement Manager**  You'll own Deployment's side of the rooms Firecrawl shows up in: the private dinners for the labs and companies we want ..."
+ },
+ {
+  "id": 118554,
+  "company": "AssemblyAI",
+  "title": "Forward Deployed Engineer, Triage (Singapore)",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 65,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-24T14:16:29.396Z",
+  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/HNUfjUG-forward-deployed-engineer-triage-singapore",
+  "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference..."
+ },
+ {
+  "id": 118551,
+  "company": "Ultra",
+  "title": "Robotics Application Engineer - Hardware",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 4,
+  "sector": "Industrials",
+  "created": "2026-10-24T14:16:25.418Z",
+  "link": "https://www.ycombinator.com/companies/ultra/jobs/1aWsSNh-robotics-application-engineer-hardware",
+  "snippet": "# About Ultra  Ultra builds industrial AI robots that are working in the real world today. Our robots automate mission-critical warehouse labor end-to-end, star..."
+ },
+ {
+  "id": 118550,
+  "company": "David AI",
+  "title": "Research Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 10,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-24T14:16:21.786Z",
+  "link": "https://www.ycombinator.com/companies/david-ai/jobs/oAcHI1I-research-engineer",
+  "snippet": "## **About David AI**  David AI is the first audio data research company. We bring an R&D approach to data-developing datasets with the same rigor AI labs bring..."
+ },
+ {
   "id": 118518,
   "company": "Aktoria Robotics",
   "title": "Head of Marketing",
@@ -793,21 +928,6 @@
   "created": "2026-10-21T21:50:46.622Z",
   "link": "https://www.ycombinator.com/companies/novaflow/jobs/WgOcQTz-founding-gtm-lead",
   "snippet": "### About Novaflow  We’re building the future of AI in biology. Novaflow develops AI agents that help scientists analyze complex biological data and answer rese..."
- },
- {
-  "id": 118055,
-  "company": "Casey",
-  "title": "Commercial Insurance Producer - Property",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 3,
-  "team": 5,
-  "sector": "Financial Technology and Services",
-  "created": "2026-10-21T18:55:51.092Z",
-  "link": "https://www.ycombinator.com/companies/casey/jobs/wNdYej6-commercial-insurance-producer-property",
-  "snippet": "**About Casey**  Casey is a commercial insurance brokerage, built from the ground up with AI at its core. AI is changing how insurance brokering gets done, and ..."
  },
  {
   "id": 118023,
@@ -1682,7 +1802,7 @@
  {
   "id": 117456,
   "company": "Wardstone",
-  "title": "MBA Intern - Missile Defense",
+  "title": "MBA Intern",
   "role": "operations",
   "eng_type": "",
   "remote": "no",
@@ -1691,7 +1811,7 @@
   "team": 8,
   "sector": "Industrials",
   "created": "2026-10-19T14:18:22.083Z",
-  "link": "https://www.ycombinator.com/companies/wardstone/jobs/oD9vGAc-mba-intern-missile-defense",
+  "link": "https://www.ycombinator.com/companies/wardstone/jobs/oD9vGAc-mba-intern",
   "snippet": "## Overview  Wardstone is a defense-tech startup building next-generation air and missile defense systems to protect the United States and its allies. We work c..."
  },
  {
@@ -1935,21 +2055,6 @@
   "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
  },
  {
-  "id": 117234,
-  "company": "Astranis",
-  "title": "Senior Technical Program Manager",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-10-17T14:18:07.985Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/OJpvs0w-senior-technical-program-manager",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
- },
- {
   "id": 117233,
   "company": "Kastle",
   "title": "Technical Recruiter ",
@@ -1963,21 +2068,6 @@
   "created": "2026-10-17T14:16:23.882Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/tDTfKw8-technical-recruiter",
   "snippet": "## **About Kastle**  Kastle is building the AI employee for banks. We work with some of America's financial institutions, helping them scale their contact cente..."
- },
- {
-  "id": 117232,
-  "company": "AssemblyAI",
-  "title": "Software Engineer, Agent Experience",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 65,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-17T14:16:23.725Z",
-  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/4hBaCUb-software-engineer-agent-experience",
-  "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 600M+ inference..."
  },
  {
   "id": 117231,
@@ -2460,21 +2550,6 @@
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
  },
  {
-  "id": 116744,
-  "company": "Astranis",
-  "title": "Software Engineer (Mission Applications)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-10-15T14:18:16.488Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/dRUOXFb-software-engineer-mission-applications",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
- },
- {
   "id": 116743,
   "company": "Zip",
   "title": "Senior Account Manager",
@@ -2938,21 +3013,6 @@
   "created": "2026-10-14T14:16:30.583Z",
   "link": "https://www.ycombinator.com/companies/retell-ai/jobs/mLB7zaw-senior-billing-manager",
   "snippet": "## **ABOUT RETELL AI**  Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Ret..."
- },
- {
-  "id": 116448,
-  "company": "Firecrawl",
-  "title": "Member of Design Staff",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-14T14:16:30.500Z",
-  "link": "https://www.ycombinator.com/companies/firecrawl/jobs/VreTHY3-member-of-design-staff",
-  "snippet": "# **Member of Design Staff**  Firecrawl ships fast, and right now our visuals can't keep up. We're looking for a designer with real taste who builds their own A..."
  },
  {
   "id": 116446,
@@ -4213,21 +4273,6 @@
   "created": "2026-10-09T14:16:23.145Z",
   "link": "https://www.ycombinator.com/companies/forage-2/jobs/bgnpRvn-founding-engineer-financial-products",
   "snippet": "## **About Us:**      Forage’s mission is to expand financial access for low-income families.      According to recent studies, the cost of groceries is the num..."
- },
- {
-  "id": 115417,
-  "company": "RADAR",
-  "title": "Senior Site Reliability Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 120,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-09T14:16:13.950Z",
-  "link": "https://www.ycombinator.com/companies/radar/jobs/KG47M8F-senior-site-reliability-engineer",
-  "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
  },
  {
   "id": 115416,
@@ -7842,6 +7887,21 @@
   "sector": "B2B Software and Services",
   "created": "2026-09-24T17:48:48.503Z",
   "link": "https://www.ycombinator.com/companies/radar/jobs/96A42Ky-staff-software-technical-program-manager-platform",
+  "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
+ },
+ {
+  "id": 111985,
+  "company": "RADAR",
+  "title": "Systems Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": 120,
+  "sector": "B2B Software and Services",
+  "created": "2026-09-24T17:48:47.537Z",
+  "link": "https://www.ycombinator.com/companies/radar/jobs/jzanzvF-systems-engineer",
   "snippet": "### ABOUT US  E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that.      RADAR is building the data ..."
  },
  {
@@ -12465,21 +12525,6 @@
   "snippet": "# At SF Tensor, we're building the future of high-performance compute  We firmly believe that the future of AI depends on the unglamorous: rethinking and rebuil..."
  },
  {
-  "id": 107001,
-  "company": "Ultra",
-  "title": "Senior Software Infrastructure Engineer ",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 4,
-  "sector": "Industrials",
-  "created": "2026-08-29T14:18:58.695Z",
-  "link": "https://www.ycombinator.com/companies/ultra/jobs/hyzmpbG-senior-software-infrastructure-engineer",
-  "snippet": "# About Ultra  Ultra builds industrial AI robots that are working in the real world today. Our robots automate mission-critical warehouse labor end-to-end, star..."
- },
- {
   "id": 107000,
   "company": "Manufact",
   "title": "Sales Development Representative (SDR)",
@@ -12658,21 +12703,6 @@
   "created": "2026-08-28T00:57:53.177Z",
   "link": "https://www.ycombinator.com/companies/pax-historia/jobs/yE3zKmX-founding-engineer-harness-optimization",
   "snippet": "**Company**  Pax Historia is creating the future of interactive entertainment.  We’re building the platform for worldbuilders, storytellers, and game devs to cr..."
- },
- {
-  "id": 106819,
-  "company": "Intelligence Factory",
-  "title": "Mechanical Engineer (India)",
-  "role": "eng",
-  "eng_type": "mechanical",
-  "remote": "no",
-  "visa": "none",
-  "exp": 0,
-  "team": 10,
-  "sector": "Industrials",
-  "created": "2026-08-28T00:41:43.028Z",
-  "link": "https://www.ycombinator.com/companies/intelligence-factory/jobs/RADFs9S-mechanical-engineer-india",
-  "snippet": "We're building foundational models for general purpose manipulation. Our data infrastructure allows us to generate rich, multi-modal human demonstration data at..."
  },
  {
   "id": 106818,
@@ -15028,21 +15058,6 @@
   "created": "2026-08-14T15:06:48.069Z",
   "link": "https://www.ycombinator.com/companies/saturn/jobs/X6cOXNi-partner",
   "snippet": "**Your role**  As a Partner, you will build your own book of clients the way the best advisers build a practice: firms you found, won, and advised for years, wi..."
- },
- {
-  "id": 104495,
-  "company": "David AI",
-  "title": "Product Engineer, Backend",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 10,
-  "sector": "B2B Software and Services",
-  "created": "2026-08-14T14:19:11.951Z",
-  "link": "https://www.ycombinator.com/companies/david-ai/jobs/pdc3rnR-product-engineer-backend",
-  "snippet": "**About David AI**  David AI is the first audio data research company. We bring an R&D approach to data-developing datasets with the same rigor AI labs bring to..."
  },
  {
   "id": 104493,
@@ -18178,6 +18193,21 @@
   "created": "2026-07-20T21:06:33.843Z",
   "link": "https://www.ycombinator.com/companies/kuli/jobs/3xm0u76-founding-engineer",
   "snippet": "### **The role**  We are hiring a Founding Engineer to increase our engineering velocity and own the architecture of our agent orchestration layer.  You will wo..."
+ },
+ {
+  "id": 100369,
+  "company": "Intelligence Factory",
+  "title": "Hardware Engineer (India)",
+  "role": "eng",
+  "eng_type": "hw",
+  "remote": "no",
+  "visa": "none",
+  "exp": 0,
+  "team": 10,
+  "sector": "Industrials",
+  "created": "2026-07-20T19:30:26.591Z",
+  "link": "https://www.ycombinator.com/companies/intelligence-factory/jobs/pN7uLK1-hardware-engineer-india",
+  "snippet": "We're building foundational models for general purpose manipulation. Our data infrastructure allows us to generate rich, multi-modal human demonstration data at..."
  },
  {
   "id": 100346,
@@ -25208,7 +25238,7 @@
   "remote": "no",
   "visa": "possible",
   "exp": 0,
-  "team": 10,
+  "team": 11,
   "sector": "Healthcare",
   "created": "2026-05-01T20:21:16.372Z",
   "link": "https://www.ycombinator.com/companies/biostack-platforms/jobs/M8GyMNX-founding-research-engineer-rl-reasoning",
@@ -27173,7 +27203,7 @@
   "remote": "no",
   "visa": "possible",
   "exp": 0,
-  "team": 10,
+  "team": 11,
   "sector": "Healthcare",
   "created": "2026-03-29T02:37:12.736Z",
   "link": "https://www.ycombinator.com/companies/biostack-platforms/jobs/HIfysXu-clinical-data-lead",
