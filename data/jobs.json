@@ -1,5 +1,80 @@
 [
  {
+  "id": 118718,
+  "company": "Inflection Space Systems",
+  "title": "Electrical Engineer",
+  "role": "eng",
+  "eng_type": "hw",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": null,
+  "sector": "Industrials",
+  "created": "2026-10-25T22:16:11.358Z",
+  "link": "https://www.ycombinator.com/companies/inflection-space-systems/jobs/O5se0H6-electrical-engineer",
+  "snippet": "**About the role**  Inflection is seeking an experienced electrical engineer to own Inflection’s vertically integrated spacecraft avionics architecture and powe..."
+ },
+ {
+  "id": 118716,
+  "company": "Inflection Space Systems",
+  "title": "Head of Manufacturing",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": null,
+  "sector": "Industrials",
+  "created": "2026-10-25T22:13:56.282Z",
+  "link": "https://www.ycombinator.com/companies/inflection-space-systems/jobs/mDKrEzt-head-of-manufacturing",
+  "snippet": "**About the role**  Inflection is seeking a Head of Manufacturing to build and lead the manufacturing organization at the company. This is a hands-on leadership..."
+ },
+ {
+  "id": 118715,
+  "company": "Inflection Space Systems",
+  "title": "Head of Business Development",
+  "role": "sales",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 3,
+  "team": null,
+  "sector": "Industrials",
+  "created": "2026-10-25T22:12:06.576Z",
+  "link": "https://www.ycombinator.com/companies/inflection-space-systems/jobs/ikE8jep-head-of-business-development",
+  "snippet": "**About the role**\r \r Inflection is seeking an experienced business development professional to build customer relationships and turn mission needs into spacecr..."
+ },
+ {
+  "id": 118684,
+  "company": "Strac",
+  "title": "Customer Success Engineer",
+  "role": "support",
+  "eng_type": "",
+  "remote": "only",
+  "visa": "yes",
+  "exp": 3,
+  "team": 8,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-25T19:59:16.267Z",
+  "link": "https://www.ycombinator.com/companies/strac/jobs/hh3yBCu-customer-success-engineer",
+  "snippet": "**About Strac**  Strac is data security for the AI era. We stop sensitive data (PII, PHI, secrets, confidential files) from leaking through the tools employees ..."
+ },
+ {
+  "id": 118682,
+  "company": "Ooak Data",
+  "title": "Lead SWE",
+  "role": "eng",
+  "eng_type": "eng_mgmt",
+  "remote": "no",
+  "visa": "none",
+  "exp": 6,
+  "team": 5,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-25T19:30:38.961Z",
+  "link": "https://www.ycombinator.com/companies/ooak-data/jobs/UG1TDVy-lead-swe",
+  "snippet": "## We're Ooak Data  Ooak Data turns company data into training data for AI agents.  Frontier labs can train models to reason. They cannot train them to work: na..."
+ },
+ {
   "id": 118649,
   "company": "Mederva",
   "title": "Head of Marketing & Growth",
@@ -1527,7 +1602,7 @@
   "sector": "Industrials",
   "created": "2026-10-19T23:33:13.841Z",
   "link": "https://www.ycombinator.com/companies/inloop-robotics/jobs/qWNS3wg-research-engineer",
-  "snippet": "InLoop builds warehouse robots that run fully autonomously in customer warehouses today. The fleet is growing quickly, and the demand is huge.  We're hiring a r..."
+  "snippet": "InLoop builds warehouse robots that run fully autonomously in customer warehouses today. The fleet is growing quickly (20+ robots), and the demand is huge.  We'..."
  },
  {
   "id": 117575,
@@ -1535,14 +1610,29 @@
   "title": "Field and Assembly Technician",
   "role": "operations",
   "eng_type": "",
-  "remote": "no",
+  "remote": "yes",
   "visa": "none",
-  "exp": 6,
+  "exp": 0,
   "team": 10,
   "sector": "Industrials",
   "created": "2026-10-19T23:29:35.285Z",
   "link": "https://www.ycombinator.com/companies/inloop-robotics/jobs/26r2ICw-field-and-assembly-technician",
   "snippet": "InLoop builds warehouse robots that run fully autonomously in customer warehouses today. The fleet is growing quickly, and the demand is huge.  We're hiring a f..."
+ },
+ {
+  "id": 117573,
+  "company": "InLoop Robotics",
+  "title": "Deployment Engineer ",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "none",
+  "exp": 1,
+  "team": 10,
+  "sector": "Industrials",
+  "created": "2026-10-19T23:17:54.926Z",
+  "link": "https://www.ycombinator.com/companies/inloop-robotics/jobs/s2Q6lXH-deployment-engineer",
+  "snippet": "InLoop builds warehouse robots that run fully autonomously in customer warehouses today. The fleet is growing quickly, and the demand is huge.  We're hiring a d..."
  },
  {
   "id": 117567,
@@ -2010,6 +2100,21 @@
   "snippet": "### **About Kastle**  Kastle is building the AI employee for regulated finance. We work with some of America's largest banks and mortgage lenders, helping them ..."
  },
  {
+  "id": 117329,
+  "company": "Corgi Insurance",
+  "title": "Marketing Lead (Operations Team)",
+  "role": "marketing",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "possible",
+  "exp": 1,
+  "team": 250,
+  "sector": "Financial Technology and Services",
+  "created": "2026-10-18T12:50:57.667Z",
+  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/FbiSXBL-marketing-lead-operations-team",
+  "snippet": "**About Corgi**  Corgi is vertically integrating the entire insurance industry. We design, underwrite, price, and issue insurance directly: no brokers, no third..."
+ },
+ {
   "id": 117299,
   "company": "Solum Health",
   "title": "Founnding Forward Deployed Engineer (FDE) - Healthcare Operations",
@@ -2342,7 +2447,7 @@
  {
   "id": 116999,
   "company": "SureBright",
-  "title": "Sr Product Manager",
+  "title": "Senior Product Manager",
   "role": "product",
   "eng_type": "",
   "remote": "no",
@@ -2351,7 +2456,7 @@
   "team": 35,
   "sector": "B2B Software and Services",
   "created": "2026-10-16T11:56:49.772Z",
-  "link": "https://www.ycombinator.com/companies/surebright/jobs/mdSidh6-sr-product-manager",
+  "link": "https://www.ycombinator.com/companies/surebright/jobs/mdSidh6-senior-product-manager",
   "snippet": "SureBright (Y Combinator S24) is building the world's first AI-native warranty company. We protect what people buy, from electronics and furniture to e-bikes an..."
  },
  {
@@ -2438,7 +2543,7 @@
   "remote": "yes",
   "visa": "yes",
   "exp": 3,
-  "team": 10,
+  "team": 8,
   "sector": "B2B Software and Services",
   "created": "2026-10-15T23:06:14.862Z",
   "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/uTWqXak-linguist-speech-conversational-ai",
@@ -2468,7 +2573,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 3,
-  "team": 60,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2026-10-15T20:09:14.679Z",
   "link": "https://www.ycombinator.com/companies/popl/jobs/ocuh66a-sales-development-representative",
@@ -2513,7 +2618,7 @@
   "remote": "yes",
   "visa": "yes",
   "exp": 0,
-  "team": 10,
+  "team": 8,
   "sector": "B2B Software and Services",
   "created": "2026-10-15T19:15:23.755Z",
   "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/dPIlkr6-rl-environment-engineer-full-time-part-time-or-contract",
@@ -5183,7 +5288,7 @@
   "remote": "no",
   "visa": "none",
   "exp": 3,
-  "team": 40,
+  "team": 60,
   "sector": "B2B Software and Services",
   "created": "2026-10-06T15:46:27.378Z",
   "link": "https://www.ycombinator.com/companies/hub/jobs/ghznA3v-machine-learning-engineer",
@@ -5790,21 +5895,6 @@
   "snippet": "Join Brickwise as our Sales Development Representative (SDR) and help us bring \"Alice\" to property managers across the UK and beyond. Target earnings (OTE) rang..."
  },
  {
-  "id": 114066,
-  "company": "Vela",
-  "title": "Founding Recruiter, India",
-  "role": "recruiting",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "none",
-  "exp": 1,
-  "team": 15,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-04T06:25:58.012Z",
-  "link": "https://www.ycombinator.com/companies/vela/jobs/YLfFzDU-founding-recruiter-india",
-  "snippet": "## About Vela  Vela is a YC-backed startup building AI that handles coordination, starting with scheduling for recruiting and executive search firms.  We’re loo..."
- },
- {
   "id": 114064,
   "company": "Vela",
   "title": "Founding Customer Success Lead",
@@ -5817,7 +5907,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-10-04T03:49:43.429Z",
   "link": "https://www.ycombinator.com/companies/vela/jobs/eMkJlvY-founding-customer-success-lead",
-  "snippet": "**Vela   San Francisco   Full-time, in person**\\ Reports to: Co-founder &amp; CEO\\ Compensation: $110,000-$180,000 total comp  ## About Vela  Vela is a YC-backe..."
+  "snippet": "**Vela   San Francisco   Full-time, in person**\\ Reports to: Co-founder &amp; CEO\\ Compensation: $100,000-$160,000 total comp  ## About Vela  Vela is a YC-backe..."
  },
  {
   "id": 114063,
@@ -6540,21 +6630,6 @@
   "snippet": "**AI Transformation for Enterprise Finance**  Rex builds AI agents for enterprise finance, starting with order to cash. Our customers delegate a process to us, ..."
  },
  {
-  "id": 113089,
-  "company": "Corgi Insurance",
-  "title": "Marketing Associate",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 250,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-30T15:02:42.871Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/XiMhxNb-marketing-associate",
-  "snippet": "**Location:** Columbus, OH  **Type:** Full-Time  **Compensation:** Flexible based on experience.  **About Corgi**  Corgi is building the next generation of fina..."
- },
- {
   "id": 113088,
   "company": "Corgi Insurance",
   "title": "Accounting Lead",
@@ -7247,16 +7322,16 @@
  {
   "id": 112511,
   "company": "Emerge Career",
-  "title": "New Business & Strategy Manager",
+  "title": "New Business & Strategy Lead",
   "role": "operations",
   "eng_type": "",
   "remote": "no",
   "visa": "yes",
-  "exp": 3,
+  "exp": 6,
   "team": 8,
   "sector": "Education",
   "created": "2026-09-28T13:34:49.043Z",
-  "link": "https://www.ycombinator.com/companies/emerge-career/jobs/AScaDBa-new-business-strategy-manager",
+  "link": "https://www.ycombinator.com/companies/emerge-career/jobs/AScaDBa-new-business-strategy-lead",
   "snippet": "**About the role**  Having secured \\~$50M in government allocations to deliver over the next four years, we know we've built something government wants. Our res..."
  },
  {
@@ -7648,21 +7723,6 @@
   "created": "2026-09-25T14:17:52.895Z",
   "link": "https://www.ycombinator.com/companies/aiprise/jobs/xKvR9Zl-senior-product-marketing-manager",
   "snippet": "**About this role**   We're looking for a Senior Product Marketing Manager to own how AiPrise's products are positioned, launched, and proven.  The product move..."
- },
- {
-  "id": 112051,
-  "company": "Ooak Data",
-  "title": "Head of Engineering ",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "none",
-  "exp": 11,
-  "team": 5,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-25T14:05:12.530Z",
-  "link": "https://www.ycombinator.com/companies/ooak-data/jobs/cFitSes-head-of-engineering",
-  "snippet": "## We're Ooak Data  Ooak Data turns company data into training data for AI agents.  Frontier labs can train models to reason. They cannot train them to work: na..."
  },
  {
   "id": 112050,
@@ -17880,21 +17940,6 @@
   "snippet": "# About Clipboard  Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals..."
  },
  {
-  "id": 100631,
-  "company": "Rulebase",
-  "title": "Founding GTM Lead",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 4,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-22T16:36:20.760Z",
-  "link": "https://www.ycombinator.com/companies/rulebase/jobs/rGWeZBN-founding-gtm-lead",
-  "snippet": "### About Rulebase  AI customer operations for regulated industries. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of i..."
- },
- {
   "id": 100600,
   "company": "Candid Health",
   "title": "Senior Product Designer",
@@ -18788,11 +18833,11 @@
   "remote": "yes",
   "visa": "none",
   "exp": 1,
-  "team": 40,
+  "team": 60,
   "sector": "B2B Software and Services",
   "created": "2026-07-14T10:41:19.025Z",
   "link": "https://www.ycombinator.com/companies/hub/jobs/uJPqDL4-field-operator-brazil",
-  "snippet": "We need one person to own Hub's ground operation in São Paulo. Contributors and businesses across your territory record real data for us every day. Your job is ..."
+  "snippet": "We’re hiring for Field Ops in Brazil. Contributors and businesses across your territory record real data for us every day. Your job is to keep that engine runni..."
  },
  {
   "id": 99410,
@@ -20618,7 +20663,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 0,
-  "team": 10,
+  "team": 8,
   "sector": "B2B Software and Services",
   "created": "2026-06-24T20:56:55.610Z",
   "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
@@ -20702,16 +20747,16 @@
  {
   "id": 97385,
   "company": "Tracecat",
-  "title": "Founding Engineer (Full-stack)",
+  "title": "Software Engineer (Full-stack)",
   "role": "eng",
   "eng_type": "fs",
   "remote": "no",
   "visa": "yes",
-  "exp": 0,
+  "exp": 1,
   "team": null,
   "sector": "B2B Software and Services",
   "created": "2026-06-24T03:49:31.185Z",
-  "link": "https://www.ycombinator.com/companies/tracecat/jobs/iatK7cl-founding-engineer-full-stack",
+  "link": "https://www.ycombinator.com/companies/tracecat/jobs/iatK7cl-software-engineer-full-stack",
   "snippet": "We are looking for full-stack generalist engineers who ship fast with an unrelenting bar for quality. You'll work directly with the founders every day, own user..."
  },
  {
@@ -29468,7 +29513,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 3,
-  "team": 60,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2026-02-10T22:13:15.560Z",
   "link": "https://www.ycombinator.com/companies/popl/jobs/d9TAjlK-senior-backend-engineer",
@@ -30388,21 +30433,6 @@
   "created": "2026-01-24T15:04:05.653Z",
   "link": "https://www.ycombinator.com/companies/fieldguide/jobs/8C9W6S1-senior-technical-recruiter",
   "snippet": "**About Us**   Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance..."
- },
- {
-  "id": 89120,
-  "company": "Trelium",
-  "title": "Founding Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 0,
-  "team": 11,
-  "sector": "B2B Software and Services",
-  "created": "2026-01-24T09:26:44.360Z",
-  "link": "https://www.ycombinator.com/companies/trelium/jobs/UBebsyO-founding-engineer",
-  "snippet": "We’re looking for a **Founding Engineer** to help build the core systems that power Questom.  This is not a framework-specialist role. It’s not about perfect ab..."
  },
  {
   "id": 89117,
@@ -33932,7 +33962,7 @@
  {
   "id": 83243,
   "company": "Strac",
-  "title": "Account Executive",
+  "title": "Enterprise Account Executive",
   "role": "sales",
   "eng_type": "",
   "remote": "yes",
@@ -33941,8 +33971,8 @@
   "team": 8,
   "sector": "B2B Software and Services",
   "created": "2025-10-10T20:50:30.011Z",
-  "link": "https://www.ycombinator.com/companies/strac/jobs/e5KNH2P-account-executive",
-  "snippet": "**About Strac**  Strac is on a mission to make sensitive data protection effortless. We’re building the leading platform for Sensitive Data Discovery, Data Loss..."
+  "link": "https://www.ycombinator.com/companies/strac/jobs/e5KNH2P-enterprise-account-executive",
+  "snippet": "**About Strac**  Strac is data security for the AI era. We stop sensitive data (PII, PHI, secrets, confidential files) from leaking through the tools employees ..."
  },
  {
   "id": 83160,
@@ -37523,7 +37553,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 3,
-  "team": 60,
+  "team": 70,
   "sector": "B2B Software and Services",
   "created": "2025-05-06T17:24:04.955Z",
   "link": "https://www.ycombinator.com/companies/popl/jobs/8vthtps-customer-success-manager-mid-market",
@@ -39298,21 +39328,6 @@
   "created": "2024-11-17T05:58:10.107Z",
   "link": "https://www.ycombinator.com/companies/alex/jobs/uB3KJ2P-founding-engineer",
   "snippet": "Founding Engineer at Alex"
- },
- {
-  "id": 70821,
-  "company": "Strac",
-  "title": "Head of Marketing",
-  "role": "marketing",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "possible",
-  "exp": 6,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2024-11-15T02:59:23.995Z",
-  "link": "https://www.ycombinator.com/companies/strac/jobs/8DFTfAp-head-of-marketing",
-  "snippet": "### Responsibilities\r \r [Strac](https://strac.io) is seeking a Head of Marketing to lead and elevate our brand as a leader in Data Security and DLP. This role o..."
  },
  {
   "id": 70810,
