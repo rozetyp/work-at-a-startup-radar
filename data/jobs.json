@@ -1,5 +1,125 @@
 [
  {
+  "id": 119713,
+  "company": "Lance",
+  "title": "Executive Assistant",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 0,
+  "team": 10,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T16:49:50.222Z",
+  "link": "https://www.ycombinator.com/companies/lance/jobs/3uqCoTj-executive-assistant",
+  "snippet": "Help keep Lance running as it continues to scale.  ## About Lance  Lance (YC W26) builds autonomous AI agents that run hotel operations end to end. They answer ..."
+ },
+ {
+  "id": 119712,
+  "company": "Lance",
+  "title": "Chief of Staff",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 10,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T16:48:19.564Z",
+  "link": "https://www.ycombinator.com/companies/lance/jobs/4tMXdIc-chief-of-staff",
+  "snippet": "Help lead Lance as it continues to scale.  ## About Lance  Lance (YC W26) builds autonomous AI agents that run hotel operations end to end. They answer guest ca..."
+ },
+ {
+  "id": 119711,
+  "company": "Knowtex",
+  "title": "Senior Software Engineer, Android",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 5,
+  "team": null,
+  "sector": "Healthcare",
+  "created": "2026-10-31T16:33:58.887Z",
+  "link": "https://www.ycombinator.com/companies/knowtex/jobs/qnpIDBm-senior-software-engineer-android",
+  "snippet": "**Knowtex.ai**  Senior Software Engineer (Android)  **LOCATION**  San Francisco, CA (in office 3 days a week)  **EMPLOYMENT**  Full-time, individual contributor..."
+ },
+ {
+  "id": 119710,
+  "company": "Beam",
+  "title": "Compute Partnerships Manager",
+  "role": "operations",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 3,
+  "team": 5,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T14:44:00.154Z",
+  "link": "https://www.ycombinator.com/companies/beam/jobs/EFHffcr-compute-partnerships-manager",
+  "snippet": "[Beam](https://beam.cloud) is building the fastest cloud runtime for AI. Our serverless runtime launches GPU-backed containers in under a second, powering apps ..."
+ },
+ {
+  "id": 119709,
+  "company": "Astranis",
+  "title": "Electrical Engineer- SDR Hardware ",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 500,
+  "sector": "Industrials",
+  "created": "2026-10-31T14:18:01.575Z",
+  "link": "https://www.ycombinator.com/companies/astranis/jobs/S78hJX1-electrical-engineer-sdr-hardware",
+  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
+ },
+ {
+  "id": 119708,
+  "company": "Blacksmith",
+  "title": "Systems Security Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T14:16:46.927Z",
+  "link": "https://www.ycombinator.com/companies/blacksmith/jobs/axARmh6-systems-security-engineer",
+  "snippet": "**About Blacksmith**  - We started by building infrastructure to run CI workloads really fast. Our first product helps companies run GitHub Actions substantiall..."
+ },
+ {
+  "id": 119706,
+  "company": "Pirros",
+  "title": "Customer Support Specialist",
+  "role": "support",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 44,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T14:16:10.172Z",
+  "link": "https://www.ycombinator.com/companies/pirros/jobs/hoQP42m-customer-support-specialist",
+  "snippet": "**About Pirros**  Pirros is building the intelligence layer for design production. We are fundamentally reshaping how architecture and engineering firms manage ..."
+ },
+ {
+  "id": 119705,
+  "company": "Postscript",
+  "title": "Head of Growth",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 5,
+  "team": 180,
+  "sector": "B2B Software and Services",
+  "created": "2026-10-31T14:16:08.110Z",
+  "link": "https://www.ycombinator.com/companies/postscript/jobs/BFxqW1B-head-of-growth",
+  "snippet": "Postscript is the AI messaging platform trusted by 20,000+ Shopify brands - including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp;  With a mission..."
+ },
+ {
   "id": 119675,
   "company": "Asendia AI",
   "title": "Product Engineer",
@@ -27,7 +147,7 @@
   "sector": "Industrials",
   "created": "2026-10-31T03:33:22.946Z",
   "link": "https://www.ycombinator.com/companies/darwin/jobs/agnBdfi-chief-of-staff",
-  "snippet": "### **The Mission**  Every machine is built and repaired by skilled hands. The world needs more of them. At Darwin, we're building general-purpose robot technic..."
+  "snippet": "### The Mission  Every machine is built and repaired by skilled hands. The world needs more of them. At Darwin, we're building general-purpose robot technicians..."
  },
  {
   "id": 119673,
@@ -103,21 +223,6 @@
   "created": "2026-10-30T20:53:41.682Z",
   "link": "https://www.ycombinator.com/companies/kalpa-labs/jobs/0f7ceoC-founding-ml-infrastructure-engineer",
   "snippet": "We’re hiring a Founding ML Infrastructure Engineer in Bengaluru to own the systems that train and serve our Speech models: the distributed training stack, Realt..."
- },
- {
-  "id": 119573,
-  "company": "Knowtex",
-  "title": "Senior Software Engineer, Web",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": null,
-  "sector": "Healthcare",
-  "created": "2026-10-30T17:27:27.884Z",
-  "link": "https://www.ycombinator.com/companies/knowtex/jobs/Di7YFJh-senior-software-engineer-web",
-  "snippet": "**Knowtex.ai**  **Senior Software Engineer, Web**  **LOCATION**  San Francisco, CA (in office 3 days a week)  **EMPLOYMENT**  Full-time, individual contributor ..."
  },
  {
   "id": 119551,
@@ -598,21 +703,6 @@
   "created": "2026-10-29T14:18:29.183Z",
   "link": "https://www.ycombinator.com/companies/whatnot/jobs/p4PKSA3-livestream-production-manager",
   "snippet": "## **🚀 Join the Future of Commerce with Whatnot!**  Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the thi..."
- },
- {
-  "id": 119412,
-  "company": "Astranis",
-  "title": "Senior RF/Communication Systems Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 500,
-  "sector": "Industrials",
-  "created": "2026-10-29T14:18:02.042Z",
-  "link": "https://www.ycombinator.com/companies/astranis/jobs/5ikh2b3-senior-rf-communication-systems-engineer",
-  "snippet": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure netwo..."
  },
  {
   "id": 119411,
@@ -1997,7 +2087,7 @@
  {
   "id": 118554,
   "company": "AssemblyAI",
-  "title": "Forward Deployed Engineer, Triage (Singapore)",
+  "title": "Forward Deployed Engineer, Triage",
   "role": "eng",
   "eng_type": "fs",
   "remote": "no",
@@ -2006,7 +2096,7 @@
   "team": 65,
   "sector": "B2B Software and Services",
   "created": "2026-10-24T14:16:29.396Z",
-  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/HNUfjUG-forward-deployed-engineer-triage-singapore",
+  "link": "https://www.ycombinator.com/companies/assemblyai/jobs/HNUfjUG-forward-deployed-engineer-triage",
   "snippet": "### **Why AssemblyAI**  AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. We have a lab, and we also power..."
  },
  {
@@ -2928,7 +3018,7 @@
   "id": 117958,
   "company": "Interfere",
   "title": "Founding BDR",
-  "role": "sales",
+  "role": "operations",
   "eng_type": "",
   "remote": "no",
   "visa": "yes",
@@ -3676,7 +3766,7 @@
  },
  {
   "id": 117417,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Account Executive",
   "role": "sales",
   "eng_type": "",
@@ -3686,7 +3776,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-10-19T01:39:00.555Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/98uADco-account-executive",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/98uADco-account-executive",
   "snippet": "## About Corgi  Corgi is a full-stack insurance carrier. We're an AI-native company that underwrites and issues policies while selling direct to the customer. T..."
  },
  {
@@ -3705,23 +3795,8 @@
   "snippet": "## About Conduit  Conduit is an AI agent platform purpose-built for hospitality. Hotels, vacation rentals, and resorts deploy our agents across guest-facing com..."
  },
  {
-  "id": 117395,
-  "company": "Lance",
-  "title": "Deployment Specialist (Contract)",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 10,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-18T20:02:48.561Z",
-  "link": "https://www.ycombinator.com/companies/lance/jobs/OBbE4y9-deployment-specialist-contract",
-  "snippet": "On-site at hotels across the US (NYC, Florida, DC, LA and beyond) · Contract · All travel included  ABOUT LANCE  Lance (YC W26) runs hotel operations with AI ag..."
- },
- {
   "id": 117329,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Marketing Lead (Operations Team)",
   "role": "marketing",
   "eng_type": "",
@@ -3731,7 +3806,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-10-18T12:50:57.667Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/FbiSXBL-marketing-lead-operations-team",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/FbiSXBL-marketing-lead-operations-team",
   "snippet": "**About Corgi**  Corgi is vertically integrating the entire insurance industry. We design, underwrite, price, and issue insurance directly: no brokers, no third..."
  },
  {
@@ -3751,7 +3826,7 @@
  },
  {
   "id": 117263,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "General Manager Corgi Cafe",
   "role": "operations",
   "eng_type": "",
@@ -3761,7 +3836,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-10-17T20:40:52.276Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/yg4b6qg-general-manager-corgi-cafe",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/yg4b6qg-general-manager-corgi-cafe",
   "snippet": "**Title:** General Manager, Corgi Cafe (24/7 Coffee Shop), New York City NY, San Francisco CA  \\*\\* Certified Food Protection Manager (CFPM) REQUIRED  \\--  **Lo..."
  },
  {
@@ -4201,7 +4276,7 @@
  },
  {
   "id": 116801,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Founding Engineer, Transportation",
   "role": "eng",
   "eng_type": "fs",
@@ -4211,7 +4286,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-10-15T18:20:05.882Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/JEzeGBS-founding-engineer-transportation",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/JEzeGBS-founding-engineer-transportation",
   "snippet": "### About Corgi  Corgi is building an AI-native insurance carrier. We underwrite and issue our own policies, giving us control over the technology, pricing, and..."
  },
  {
@@ -4753,21 +4828,6 @@
   "created": "2026-10-14T14:16:12.928Z",
   "link": "https://www.ycombinator.com/companies/laminar-com/jobs/cIuLQfr-forward-deployed-engineer",
   "snippet": "## About Laminar  Laminar helps enterprise teams unlock the power of AI inside their existing systems. We partner with leading companies to solve complex operat..."
- },
- {
-  "id": 116405,
-  "company": "Beam",
-  "title": "Head of Compute Operations",
-  "role": "operations",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 5,
-  "sector": "B2B Software and Services",
-  "created": "2026-10-14T12:20:52.027Z",
-  "link": "https://www.ycombinator.com/companies/beam/jobs/qwLlBWJ-head-of-compute-operations",
-  "snippet": "[Beam](https://beam.cloud) is building the fastest cloud runtime for AI. Our serverless runtime launches GPU-backed containers in under a second, powering apps ..."
  },
  {
   "id": 116375,
@@ -7191,13 +7251,13 @@
   "role": "eng",
   "eng_type": "robotics",
   "remote": "no",
-  "visa": "none",
+  "visa": "yes",
   "exp": 1,
   "team": 2,
   "sector": "Industrials",
   "created": "2026-10-05T04:21:32.169Z",
   "link": "https://www.ycombinator.com/companies/impact-drones/jobs/yVR7VxO-autonomy-engineer-interceptor-drones",
-  "snippet": "We are Jasper and Alessandro, the founders of Impact Drones (YC S26). We are hiring an autonomy engineer for our Warsaw team to make our interceptor drones fly ..."
+  "snippet": "We are Jasper and Alessandro, the founders of Impact Drones (YC S26). We are hiring an autonomy engineer in San Francisco to make WEAVER, our net interceptor, f..."
  },
  {
   "id": 114194,
@@ -7981,7 +8041,7 @@
  },
  {
   "id": 113088,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Accounting Lead",
   "role": "finance",
   "eng_type": "",
@@ -7991,7 +8051,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-09-30T15:00:42.825Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/7KDq91y-accounting-lead",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/7KDq91y-accounting-lead",
   "snippet": "**Location:** New York, NY (some travel required)  **Type:** Full-Time  **Compensation:** Flexible based on experience.  **About Corgi**  Corgi is building the ..."
  },
  {
@@ -8580,21 +8640,6 @@
   "snippet": "At Loombotic, we’re automating wire harness manufacturing.  We need an exceptional robotics engineer to make robots assemble harnesses reliably. You’ll focus on..."
  },
  {
-  "id": 112514,
-  "company": "Postscript",
-  "title": "Client Strategist",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 0,
-  "team": 180,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-28T14:50:33.320Z",
-  "link": "https://www.ycombinator.com/companies/postscript/jobs/usTEBCt-client-strategist",
-  "snippet": "Postscript is the AI messaging platform trusted by 20,000+ Shopify brands - including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp;  With a mission..."
- },
- {
   "id": 112511,
   "company": "Emerge Career",
   "title": "New Business & Strategy Lead",
@@ -8881,7 +8926,7 @@
  },
  {
   "id": 112085,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Head of Specialty Product & Underwriting",
   "role": "product",
   "eng_type": "",
@@ -8891,7 +8936,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-09-25T19:58:55.751Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/C2JPOMT-head-of-specialty-product-underwriting",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/C2JPOMT-head-of-specialty-product-underwriting",
   "snippet": "**About Corgi**  Corgi is an AI-first property and casualty insurance carrier backed by Y Combinator (S24). We're building a surplus lines carrier from the grou..."
  },
  {
@@ -9360,21 +9405,6 @@
   "snippet": "Full-time. Founding team. New York City, in-person required. Reports to the Co-founder & CTO and works directly with both founders and customers.  **About Penna..."
  },
  {
-  "id": 111722,
-  "company": "Pennant",
-  "title": "Founder Fellow - GTM, Growth & Strategy",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": null,
-  "team": 2,
-  "sector": "Financial Technology and Services",
-  "created": "2026-09-23T23:24:50.164Z",
-  "link": "https://www.ycombinator.com/companies/pennant/jobs/21lflHF-founder-fellow-gtm-growth-strategy",
-  "snippet": "Pennant is growing fast and opening our NYC office (IRL is a must for this role). Come pace the frontier with us for this unique opportunity to join a YC-backed..."
- },
- {
   "id": 111721,
   "company": "Topkey",
   "title": "Senior Sales Development Representative",
@@ -9840,36 +9870,6 @@
   "snippet": "**About Roame**  Roame helps travelers turn credit card points and miles into extraordinary trips. We make it easier to find award flights and hotel stays and g..."
  },
  {
-  "id": 111231,
-  "company": "Apolink",
-  "title": "Astrodynamics Lead (Founding Role)",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 7,
-  "sector": "Industrials",
-  "created": "2026-09-21T20:51:39.423Z",
-  "link": "https://www.ycombinator.com/companies/apolink/jobs/C4Eh4jb-astrodynamics-lead-founding-role",
-  "snippet": "**About Apolink**  Apolink is building the first-ever backward-compatible data relay constellation in low Earth orbit. By enabling efficient data aggregation an..."
- },
- {
-  "id": 111230,
-  "company": "Apolink",
-  "title": "Chief Engineer (Optical Comms)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": 7,
-  "sector": "Industrials",
-  "created": "2026-09-21T20:51:38.478Z",
-  "link": "https://www.ycombinator.com/companies/apolink/jobs/AABx2Fo-chief-engineer-optical-comms",
-  "snippet": "**About Apolink**  Apolink is building the first-ever backward-compatible data relay constellation in low Earth orbit. By enabling efficient data aggregation an..."
- },
- {
   "id": 111229,
   "company": "VectorShift",
   "title": "Chief of Staff",
@@ -10148,7 +10148,7 @@
   "remote": "only",
   "visa": "none",
   "exp": 7,
-  "team": 8,
+  "team": 14,
   "sector": "B2B Software and Services",
   "created": "2026-09-18T22:46:27.433Z",
   "link": "https://www.ycombinator.com/companies/warpbuild/jobs/UCEOEhn-senior-network-engineer",
@@ -12421,7 +12421,7 @@
  },
  {
   "id": 108195,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Property underwriter (USA based)",
   "role": "product",
   "eng_type": "",
@@ -12431,7 +12431,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-09-05T22:22:53.470Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/MyZfKqb-property-underwriter-usa-based",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/MyZfKqb-property-underwriter-usa-based",
   "snippet": "We're hiring an **Underwriter** to own risk selection and pricing decisions across our book. You'll bring sharp judgment, deep technical knowledge, and the comm..."
  },
  {
@@ -13456,7 +13456,7 @@
  },
  {
   "id": 107085,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Lead Actuary",
   "role": "finance",
   "eng_type": "",
@@ -13466,7 +13466,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-08-31T00:28:19.660Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/ZlBPB5p-lead-actuary",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/ZlBPB5p-lead-actuary",
   "snippet": "We are looking for an FCAS who owns admitted P&amp;C rate, rule, and form filings from initial regulatory assessment through final Department of Insurance (DOI)..."
  },
  {
@@ -15376,7 +15376,7 @@
  },
  {
   "id": 105455,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Digital Advertising Designer",
   "role": "design",
   "eng_type": "",
@@ -15386,7 +15386,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-08-19T15:56:32.977Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/hL7HNdq-digital-advertising-designer",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/hL7HNdq-digital-advertising-designer",
   "snippet": "Full Time   In-Office  **Location:** New York, NY  **Salary:** Flexible based on experience  **About Corgi**  Corgi is building the infrastructure for the next ..."
  },
  {
@@ -16756,7 +16756,7 @@
  },
  {
   "id": 103337,
-  "company": "Corgi Insurance",
+  "company": "Corgi",
   "title": "Corporate Attorney",
   "role": "legal",
   "eng_type": "",
@@ -16766,7 +16766,7 @@
   "team": 250,
   "sector": "Financial Technology and Services",
   "created": "2026-08-07T16:10:07.191Z",
-  "link": "https://www.ycombinator.com/companies/corgi-insurance/jobs/AZZKUiM-corporate-attorney",
+  "link": "https://www.ycombinator.com/companies/corgi/jobs/AZZKUiM-corporate-attorney",
   "snippet": "## **About the job**  Location: San Francisco, New York, Atlanta  Total compensation commensurate with experience.  Corgi is an AI-enabled, full-stack insurance..."
  },
  {
@@ -17535,21 +17535,6 @@
   "snippet": "### **About Blacksmith**  - We started by building infrastructure to run CI workloads really fast. Our first product helps companies run GitHub Actions substant..."
  },
  {
-  "id": 102327,
-  "company": "Blacksmith",
-  "title": "Staff Product Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 8,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-31T14:05:20.255Z",
-  "link": "https://www.ycombinator.com/companies/blacksmith/jobs/o7Y9gHP-staff-product-engineer",
-  "snippet": "**About Blacksmith**  - We started by building infrastructure to run CI workloads really fast. Our first product helps companies run GitHub Actions substantiall..."
- },
- {
   "id": 102299,
   "company": "Bunting Labs",
   "title": "GIS Technician ",
@@ -18028,21 +18013,6 @@
   "created": "2026-07-27T22:26:17.949Z",
   "link": "https://www.ycombinator.com/companies/interfere/jobs/1GvQshp-founding-product-engineer",
   "snippet": "## About Interfere  Interfere is building the self-healing layer of the internet: software that detects broken product experiences, understands what caused them..."
- },
- {
-  "id": 101756,
-  "company": "Interfere",
-  "title": "Opportunistic",
-  "role": "operations",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 0,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2026-07-27T22:26:16.660Z",
-  "link": "https://www.ycombinator.com/companies/interfere/jobs/AHkVvCT-opportunistic",
-  "snippet": "Interfere is building the self-healing layer of the internet: software that detects issues, diagnoses root causes, and ships fixes before anyone notices somethi..."
  },
  {
   "id": 101688,
@@ -28770,21 +28740,6 @@
   "snippet": "### Senior Product Manager (Platform)  We're hiring a Senior Product Manager to own and shape the platform at Heron: the core infrastructure, tooling, and syste..."
  },
  {
-  "id": 91213,
-  "company": "ShortLoop",
-  "title": "Customer Success (AI Products)",
-  "role": "support",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "none",
-  "exp": 1,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2026-03-01T11:33:55.583Z",
-  "link": "https://www.ycombinator.com/companies/shortloop/jobs/zwoBqHQ-customer-success-ai-products",
-  "snippet": "ShortLoop builds AI Agents for US automotive dealerships. Our AI handles inbound calls, missed calls, service bookings, and outbound campaigns across Sales, Ser..."
- },
- {
   "id": 91211,
   "company": "Ashby",
   "title": "Staff Platform Engineer, UK",
@@ -32158,21 +32113,6 @@
   "created": "2025-12-10T04:50:06.667Z",
   "link": "https://www.ycombinator.com/companies/layers/jobs/RPmWQ5c-founding-engineer",
   "snippet": "### About Layers.  Layers is building a new kind of diagnostic clinic - a place where you get a real read on your health (body composition, bloodwork, facial an..."
- },
- {
-  "id": 86789,
-  "company": "ShortLoop",
-  "title": "Software Engineer (Senior)",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "none",
-  "exp": 3,
-  "team": 8,
-  "sector": "B2B Software and Services",
-  "created": "2025-12-09T21:46:46.513Z",
-  "link": "https://www.ycombinator.com/companies/shortloop/jobs/BMl8B4a-software-engineer-senior",
-  "snippet": "ShortLoop builds high-reliability AI phone agents that autonomously manage conversations for automotive dealerships. These agents book service appointments, qua..."
  },
  {
   "id": 86771,
@@ -36375,6 +36315,21 @@
   "snippet": "## The Role\r \r We're seeking a Forward Deployed Engineer to work directly with customers, helping them integrate Plexe and build complete ML pipelines using our..."
  },
  {
+  "id": 78807,
+  "company": "Apolink",
+  "title": "General Application ",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": 7,
+  "sector": "Industrials",
+  "created": "2025-07-16T22:51:05.505Z",
+  "link": "https://www.ycombinator.com/companies/apolink/jobs/YBGynhw-general-application",
+  "snippet": "**About Apolink:**  Apolink is building the world’s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combine..."
+ },
+ {
   "id": 78794,
   "company": "OneSchema",
   "title": "Head of Engineering",
@@ -40228,21 +40183,6 @@
   "created": "2024-07-01T15:30:19.895Z",
   "link": "https://www.ycombinator.com/companies/pelago/jobs/nk9SGbZ-senior-android-engineer",
   "snippet": "Pelago is the world’s leading virtual clinic for Substance Use Management. Our program provides guidance, support and treatment for members seeking to overcome ..."
- },
- {
-  "id": 67538,
-  "company": "SuperKalam",
-  "title": "Mobile Engineer - React Native (Internship)",
-  "role": "eng",
-  "eng_type": "android",
-  "remote": "yes",
-  "visa": "none",
-  "exp": null,
-  "team": 20,
-  "sector": "Education",
-  "created": "2024-06-29T18:44:34.038Z",
-  "link": "https://www.ycombinator.com/companies/superkalam/jobs/Umo6XZ4-mobile-engineer-react-native-internship",
-  "snippet": "This role is for someone who has… previously built high quality mobile apps before and wish to work in high pace environment.\\ If this is you, READ ON!\\ \\ 👉 **A..."
  },
  {
   "id": 67506,
