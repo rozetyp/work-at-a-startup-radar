@@ -1,5 +1,50 @@
 [
  {
+  "id": 122973,
+  "company": "Azalea Robotics Corporation",
+  "title": "Forward Deployed Robotics Engineer",
+  "role": "eng",
+  "eng_type": "fs",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 0,
+  "team": null,
+  "sector": "Industrials",
+  "created": "2026-11-16T02:41:57.597Z",
+  "link": "https://www.ycombinator.com/companies/azalea-robotics-corporation/jobs/pEaitFk-forward-deployed-robotics-engineer",
+  "snippet": "Azalea Robotics is building the next generation of airport ground operations, starting with automated baggage handling. Our customers are airlines and airports ..."
+ },
+ {
+  "id": 122939,
+  "company": "Specific Labs",
+  "title": "Founding Engineer",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "no",
+  "visa": "possible",
+  "exp": 1,
+  "team": 7,
+  "sector": "B2B Software and Services",
+  "created": "2026-11-16T01:01:35.585Z",
+  "link": "https://www.ycombinator.com/companies/specific-labs/jobs/7NOYqdv-founding-engineer",
+  "snippet": "Specific builds the training and evaluation environments that frontier AI labs use to make coding models better. You will work directly with the founders in a h..."
+ },
+ {
+  "id": 122877,
+  "company": "Spine",
+  "title": "AI & Operations Associate",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "yes",
+  "visa": "possible",
+  "exp": 0,
+  "team": 0,
+  "sector": "B2B Software and Services",
+  "created": "2026-11-15T06:02:59.590Z",
+  "link": "https://www.ycombinator.com/companies/spine/jobs/kagk5VW-ai-operations-associate",
+  "snippet": "**Company:** Spine\\ **Level:** Junior / Early Career\\ **Type:** Full-Time  ## **About Spine**  Spine helps startups manage employee benefits, payroll, HR, and c..."
+ },
+ {
   "id": 122876,
   "company": "Litmus",
   "title": "Founding MTS",
@@ -192,7 +237,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-11-14T11:34:40.428Z",
   "link": "https://www.ycombinator.com/companies/dualizer/jobs/bq2sTH0-chief-innovation-officer",
-  "snippet": "Expands the capabilities of the Dualizer software suite."
+  "snippet": "Expands the capabilities of the Dualizer software suite. Relevant skills: Advanced control theory, process dynamics, novel catalysis, and several other breakthr..."
  },
  {
   "id": 122708,
@@ -808,21 +853,6 @@
   "created": "2026-11-12T11:37:29.773Z",
   "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/4CYy8uB-member-of-technical-staff-cekura-bangalore-in-person",
   "snippet": "## Read This First  We work with unusual intensity: in-person in Bangalore, six days a week, long days, most weekends. That's how we've chosen to build, because..."
- },
- {
-  "id": 122312,
-  "company": "Pasito",
-  "title": "Sales Manager, Broker Partnerships",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 6,
-  "team": 20,
-  "sector": "Financial Technology and Services",
-  "created": "2026-11-12T10:36:29.952Z",
-  "link": "https://www.ycombinator.com/companies/pasito/jobs/waR47NY-sales-manager-broker-partnerships",
-  "snippet": "### **About Pasito**  Pasito is the AI native workspace for carriers, brokers, PEOs and employer groups. Backed by top tier VCs and accelerators such as Insight..."
  },
  {
   "id": 122279,
@@ -1680,6 +1710,21 @@
   "snippet": "Our mission is to automate knowledge work.  Sim is a platform to build autonomous AI agents for enterprise systems. Teams connect their integrations and Sim bui..."
  },
  {
+  "id": 121619,
+  "company": "Turnstone",
+  "title": "Ex-Founder (Engineering)",
+  "role": "eng",
+  "eng_type": "ai",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 0,
+  "team": 3,
+  "sector": "B2B Software and Services",
+  "created": "2026-11-09T22:24:57.769Z",
+  "link": "https://www.ycombinator.com/companies/turnstone/jobs/xb9JvIx-ex-founder-engineering",
+  "snippet": "Turnstone is a model-agnostic Grok Bot. Connect your AI subscriptions and API keys you already pay for. When one subscription runs out, your agent switches to a..."
+ },
+ {
   "id": 121587,
   "company": "Coval",
   "title": "Compliance Manager",
@@ -1888,6 +1933,21 @@
   "created": "2026-11-09T05:02:52.087Z",
   "link": "https://www.ycombinator.com/companies/readily/jobs/Wx4vvAv-ai-engineer-platform",
   "snippet": "### **About Readily**  30% of U.S. healthcare cost is **administration**. We’re fixing that.  Readily is building the **compliance layer for every healthcare co..."
+ },
+ {
+  "id": 121257,
+  "company": "GoSats",
+  "title": "City Lead - Dining Partnerships (Bangalore)",
+  "role": "operations",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "none",
+  "exp": 3,
+  "team": 8,
+  "sector": "Financial Technology and Services",
+  "created": "2026-11-08T15:41:05.092Z",
+  "link": "https://www.ycombinator.com/companies/gosats/jobs/vxkMrtZ-city-lead-dining-partnerships-bangalore",
+  "snippet": "**About GoSats**   GoSats is a consumer fintech with a Visa prepaid card that earns rewards in gold on every spend. We're backed by Y Combinator, Accel and Konv..."
  },
  {
   "id": 121256,
@@ -3042,7 +3102,7 @@
   "sector": "B2B Software and Services",
   "created": "2026-11-03T19:14:09.440Z",
   "link": "https://www.ycombinator.com/companies/arva-ai/jobs/YJmACD1-talent-lead",
-  "snippet": "Location: London (in person, 4-5 days per week in the office)  Type: Full-Time  Salary: £50,000-£70,000  Equity: 0.01%-0.1%  Arva AI is revolutionising financia..."
+  "snippet": "Location: London (in person, 4-5 days per week in the office)  Type: Full-Time  Salary: £55,000-£90,000  Equity: 0.01%-0.2%  Arva AI is revolutionising financia..."
  },
  {
   "id": 120312,
@@ -3668,7 +3728,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 5,
-  "team": 15,
+  "team": 17,
   "sector": "B2B Software and Services",
   "created": "2026-11-02T15:16:30.178Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/nqi4B8u-technical-lead-swe",
@@ -3983,7 +4043,7 @@
   "remote": "yes",
   "visa": "yes",
   "exp": 1,
-  "team": 4,
+  "team": 12,
   "sector": "B2B Software and Services",
   "created": "2026-10-30T22:56:40.796Z",
   "link": "https://www.ycombinator.com/companies/freebuff/jobs/1J9qgjd-founding-bdr",
@@ -4620,21 +4680,6 @@
   "snippet": "### Overview  Polymath builds autonomy software for industrial off-road vehicles - wheel loaders, haul trucks, excavators - deployed at steel mills, mines, and ..."
  },
  {
-  "id": 119084,
-  "company": "Closure",
-  "title": "Infrastructure Lead",
-  "role": "eng",
-  "eng_type": "devops",
-  "remote": "yes",
-  "visa": "yes",
-  "exp": 6,
-  "team": 11,
-  "sector": "Government",
-  "created": "2026-10-27T20:20:37.430Z",
-  "link": "https://www.ycombinator.com/companies/closure/jobs/WEPcvaB-infrastructure-lead",
-  "snippet": "**About Closure**  Closure helps law enforcement search evidence and solve crime. We build digital analysts that support public servants at every level of crimi..."
- },
- {
   "id": 119082,
   "company": "Converge",
   "title": "Founding Platform Engineer",
@@ -5031,7 +5076,7 @@
   "role": "eng",
   "eng_type": "ai",
   "remote": "no",
-  "visa": "yes",
+  "visa": "possible",
   "exp": null,
   "team": 2,
   "sector": "B2B Software and Services",
@@ -6023,7 +6068,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 5,
-  "team": 15,
+  "team": 17,
   "sector": "B2B Software and Services",
   "created": "2026-10-21T14:16:44.205Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/wN5sPXO-enterprise-account-manager",
@@ -6668,7 +6713,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 0,
-  "team": 15,
+  "team": 17,
   "sector": "B2B Software and Services",
   "created": "2026-10-17T14:16:23.882Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/tDTfKw8-gtm-recruiter",
@@ -7697,7 +7742,7 @@
  {
   "id": 116174,
   "company": "Freya",
-  "title": "Forward Deployed Engineer (2 openings)",
+  "title": "Forward Deployed Engineer",
   "role": "eng",
   "eng_type": "ai",
   "remote": "no",
@@ -7706,7 +7751,7 @@
   "team": 14,
   "sector": "Financial Technology and Services",
   "created": "2026-10-13T12:56:56.282Z",
-  "link": "https://www.ycombinator.com/companies/freya/jobs/crW5Fe8-forward-deployed-engineer-2-openings",
+  "link": "https://www.ycombinator.com/companies/freya/jobs/crW5Fe8-forward-deployed-engineer",
   "snippet": "About Freya\\ We build voice AI for banks and insurers. Our speech and language models power assistants that handle real customer calls, including deployments in..."
  },
  {
@@ -9908,7 +9953,7 @@
   "remote": "yes",
   "visa": "none",
   "exp": 1,
-  "team": 4,
+  "team": 12,
   "sector": "B2B Software and Services",
   "created": "2026-09-30T23:58:05.650Z",
   "link": "https://www.ycombinator.com/companies/freebuff/jobs/5YPVgDs-founding-advertiser-success-manager",
@@ -9928,21 +9973,6 @@
   "created": "2026-09-30T19:46:14.202Z",
   "link": "https://www.ycombinator.com/companies/bluecargo/jobs/QYYIKhR-ai-engineer",
   "snippet": "### **About BlueCargo**  **BlueCargo** is a fast-growing, VC-backed technology company transforming the logistics and supply chain industry. As the leader in co..."
- },
- {
-  "id": 113109,
-  "company": "Visibl Semiconductors",
-  "title": "Senior Digital IC Engineer - RTL Design & Verification",
-  "role": "eng",
-  "eng_type": "hw",
-  "remote": "only",
-  "visa": "yes",
-  "exp": 6,
-  "team": 3,
-  "sector": "B2B Software and Services",
-  "created": "2026-09-30T19:45:17.996Z",
-  "link": "https://www.ycombinator.com/companies/visibl-semiconductors/jobs/o2iGDo7-senior-digital-ic-engineer-rtl-design-verification",
-  "snippet": "Visibl Semiconductors (YC W26) builds custom silicon for power electronics. Many hardware companies could benefit from chips designed around their products, but..."
  },
  {
   "id": 113104,
@@ -10333,21 +10363,6 @@
   "created": "2026-09-29T00:42:34.373Z",
   "link": "https://www.ycombinator.com/companies/origin-bio/jobs/a7q1q8R-computational-biologist-spatial-transcriptomics",
   "snippet": "Origin Bio is producing matched spatial transcriptomics, histopathology images and clinical datasets from real patient tumours. We’re looking for a computationa..."
- },
- {
-  "id": 112649,
-  "company": "Polymath Robotics",
-  "title": "Account Executive",
-  "role": "sales",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 25,
-  "sector": "Industrials",
-  "created": "2026-09-29T00:26:15.736Z",
-  "link": "https://www.ycombinator.com/companies/polymath-robotics/jobs/8sCtro4-account-executive",
-  "snippet": "Polymath Robotics builds autonomy software for industrial vehicles. We make it possible to automate vehicles like tractors, bulldozers, haul trucks, and other h..."
  },
  {
   "id": 112643,
@@ -15323,7 +15338,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 5,
-  "team": 15,
+  "team": 17,
   "sector": "B2B Software and Services",
   "created": "2026-08-27T00:15:16.541Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/068QbmE-senior-product-manager",
@@ -15338,7 +15353,7 @@
   "remote": "only",
   "visa": "yes",
   "exp": 0,
-  "team": 15,
+  "team": 17,
   "sector": "B2B Software and Services",
   "created": "2026-08-27T00:15:12.479Z",
   "link": "https://www.ycombinator.com/companies/kastle/jobs/SLxK5Ru-ai-trainer-part-time",
@@ -15628,21 +15643,6 @@
   "created": "2026-08-25T22:53:50.661Z",
   "link": "https://www.ycombinator.com/companies/veryfi-inc/jobs/nHcDRXW-account-manager-growth-accounts",
   "snippet": "**Location:** San Mateo\\ **Team:** Account Management\\ **Reports to:** Head of Account Management  ### **About Veryfi**  Veryfi is a leader in AI-powered docume..."
- },
- {
-  "id": 106474,
-  "company": "Azalea Robotics Corporation",
-  "title": "Senior Robotics Engineer",
-  "role": "eng",
-  "eng_type": "fs",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 5,
-  "team": null,
-  "sector": "Industrials",
-  "created": "2026-08-25T22:18:52.203Z",
-  "link": "https://www.ycombinator.com/companies/azalea-robotics-corporation/jobs/vjwIUhh-senior-robotics-engineer",
-  "snippet": "As a **Senior Robotics Engineer** at Azalea Robotics, you will own core autonomy software end to end: from the localization, mapping, and steering that drive th..."
  },
  {
   "id": 106473,
@@ -22875,6 +22875,21 @@
   "snippet": "Relationships are the single greatest predictor of long-term health and happiness. We know this from 85 years of Harvard research. And yet there's no product ca..."
  },
  {
+  "id": 95980,
+  "company": "Closure",
+  "title": "Member of Technical Staff",
+  "role": "eng",
+  "eng_type": "be",
+  "remote": "yes",
+  "visa": "yes",
+  "exp": 6,
+  "team": 11,
+  "sector": "Government",
+  "created": "2026-06-06T15:35:19.244Z",
+  "link": "https://www.ycombinator.com/companies/closure/jobs/xUmCr0b-member-of-technical-staff",
+  "snippet": "**About Closure**  Closure helps law enforcement search evidence and solve crime. We build digital analysts that support public servants at every level of crimi..."
+ },
+ {
   "id": 95979,
   "company": "Booko",
   "title": "Founding Engineer",
@@ -23603,7 +23618,7 @@
   "remote": "no",
   "visa": "possible",
   "exp": 1,
-  "team": 4,
+  "team": 12,
   "sector": "B2B Software and Services",
   "created": "2026-05-26T20:39:11.450Z",
   "link": "https://www.ycombinator.com/companies/freebuff/jobs/VwKy5Xq-founding-growth-marketer",
@@ -24923,7 +24938,7 @@
   "remote": "no",
   "visa": "yes",
   "exp": 0,
-  "team": 3,
+  "team": 4,
   "sector": "Healthcare",
   "created": "2026-05-10T23:12:42.237Z",
   "link": "https://www.ycombinator.com/companies/10x/jobs/F9oCew6-founding-engineer-at-10x-dental-yc-w25",
@@ -26100,21 +26115,6 @@
   "snippet": "### **About Chasi**      Every building, road, warehouse, and farm runs on equipment like tractors, cranes, forklifts, etc. Over 100K dealers and rental compani..."
  },
  {
-  "id": 93248,
-  "company": "GoSats",
-  "title": "Business Intelligence Engineer",
-  "role": "product",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 8,
-  "sector": "Financial Technology and Services",
-  "created": "2026-04-18T17:45:11.934Z",
-  "link": "https://www.ycombinator.com/companies/gosats/jobs/5UXdQu9-business-intelligence-engineer",
-  "snippet": "**DISCLAIMER - AI Generated messages will automatically lead to your profile not being considered. Talk to us like how you would talk if we met over coffee.**  ..."
- },
- {
   "id": 93244,
   "company": "GoSats",
   "title": "Backend Engineer (SDE 2)",
@@ -26127,6 +26127,21 @@
   "sector": "Financial Technology and Services",
   "created": "2026-04-18T17:29:46.617Z",
   "link": "https://www.ycombinator.com/companies/gosats/jobs/E7MCpgX-backend-engineer-sde-2",
+  "snippet": "**DISCLAIMER - AI Generated messages will automatically lead to your profile not being considered. Talk to us like how you would talk if we met over coffee.**  ..."
+ },
+ {
+  "id": 93243,
+  "company": "GoSats",
+  "title": "Product Manager - AI / Product Intelligence",
+  "role": "product",
+  "eng_type": "",
+  "remote": "no",
+  "visa": "yes",
+  "exp": 1,
+  "team": 8,
+  "sector": "Financial Technology and Services",
+  "created": "2026-04-18T17:27:25.077Z",
+  "link": "https://www.ycombinator.com/companies/gosats/jobs/fR7kQlK-product-manager-ai-product-intelligence",
   "snippet": "**DISCLAIMER - AI Generated messages will automatically lead to your profile not being considered. Talk to us like how you would talk if we met over coffee.**  ..."
  },
  {
@@ -28993,21 +29008,6 @@
   "created": "2026-02-19T00:27:42.547Z",
   "link": "https://www.ycombinator.com/companies/stardex/jobs/MHHdoC9-forward-deploy-engineer-fde",
   "snippet": "**About Stardex**  Stardex is an AI-native ATS and CRM built specifically for executive search firms. We're backed by Y Combinator and are changing how recruiti..."
- },
- {
-  "id": 90535,
-  "company": "Polymath Robotics",
-  "title": "Associate, Customer Program Management",
-  "role": "product",
-  "eng_type": "",
-  "remote": "no",
-  "visa": "yes",
-  "exp": 3,
-  "team": 25,
-  "sector": "Industrials",
-  "created": "2026-02-18T23:17:23.755Z",
-  "link": "https://www.ycombinator.com/companies/polymath-robotics/jobs/M1qC4rT-associate-customer-program-management",
-  "snippet": "### **About Polymath Robotics**  Polymath builds autonomy software for off-highway vehicles, powering real deployments in agriculture, defense, and industrial s..."
  },
  {
   "id": 90530,
