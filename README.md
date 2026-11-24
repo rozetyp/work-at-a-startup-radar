@@ -2,7 +2,7 @@
 
 A daily snapshot of open roles on [YC Work at a Startup](https://www.workatastartup.com), for personal job-tracking.
 
-**2938 open roles** as of 2026-11-23 (1202 engineering, 1079 remote, 809 without a US-only visa wall). Updated daily.
+**2928 open roles** as of 2026-11-24 (1200 engineering, 1074 remote, 803 without a US-only visa wall). Updated daily.
 
 - **[NEW-TODAY.md](NEW-TODAY.md)** - what changed since yesterday (start here).
 - [jobs.md](jobs.md) - the full table (company, role, tags, link).
